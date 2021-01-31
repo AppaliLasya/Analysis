@@ -1,0 +1,32 @@
+
+1. Brain Nerve. 2019 Oct;71(10):1071-1079. doi: 10.11477/mf.1416201406.
+
+[Genetic Analysis of Alzheimer's Disease: The Impact of Rare Variants and Their
+Significance].
+
+[Article in Japanese]
+
+Miyashita A(1), Liu L, Hara N.
+
+Author information: 
+(1)Department of Molecular Genetics, Brain Research Institute, Niigata
+University.
+
+Next generation sequencing (NGS) technology has dramatically influenced the field
+of omics studies, such as genomics and transcriptomics. It is now possible to
+access a significant number of previously known and novel genomic variants
+through NGS. Although the effective manipulation and accurate interpretation of
+the inordinate amount of data may pose a considerable challenge, it enables us to
+identify specific genes responsible for causing or influencing the susceptibility
+to a plethora of diseases. Alzheimer's disease (AD) is the most common etiology
+of dementia in the elderly (approximately 60-70%). The current research trend of 
+AD genetics focuses on the analysis of rare variants (allelic frequency <1%)
+instead of common variants (allelic frequency >1%) to identify AD-associated
+genes/variants. A number of genes (such as TREM2, ABCA7, SORL1) that carry rare
+pathogenic variants have reportedly conferred susceptibility to AD with stronger 
+genetic risk effects (odds ratio >2.0). Here, we are going to introduce a small
+part of the latest many attractive findings about AD genetic researches.
+
+DOI: 10.11477/mf.1416201406 
+PMID: 31588051  [Indexed for MEDLINE]
+

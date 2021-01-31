@@ -1,0 +1,25 @@
+
+1. Nat Genet. 1995 Mar;9(3):249-55.
+
+Mutation of the MXI1 gene in prostate cancer.
+
+Eagle LR(1), Yin X, Brothman AR, Williams BJ, Atkin NB, Prochownik EV.
+
+Author information: 
+(1)Department of Pediatrics, Children's Hospital of Pittsburgh, Pennsylvania
+15213, USA.
+
+The Mxi1 protein negatively regulates Myc oncoprotein activity and thus
+potentially serves a tumour suppressor function. MXI1 maps to chromosome
+10q24-q25, a region that is deleted in some cases of prostate cancer. We have
+detected mutations in the retained MXI1 alleles in four primary prostate tumours 
+with 10q24-q25 deletions. Two tumours contained inactivating mutations, whereas
+two others contained the identical missense mutation. Fluorescence in situ
+hybridization also demonstrated loss of one MXI1 allele in an additional tumour
+lacking chromosome 10 abnormalities. MXI1 thus displays allelic loss and mutation
+in some cases of prostate cancer that may contribute to the pathogenesis or
+neoplastic evolution of this common malignancy.
+
+DOI: 10.1038/ng0395-249 
+PMID: 7773287  [Indexed for MEDLINE]
+

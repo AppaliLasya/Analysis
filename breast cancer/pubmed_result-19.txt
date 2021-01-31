@@ -1,0 +1,51 @@
+
+1. Oncogenesis. 2020 Jan 30;9(1):5. doi: 10.1038/s41389-020-0194-3.
+
+ATR is a MYB regulated gene and potential therapeutic target in adenoid cystic
+carcinoma.
+
+Andersson MK(1), Mangiapane G(2), Nevado PT(1), Tsakaneli A(2), Carlsson T(3),
+Corda G(2), Nieddu V(2), Abrahamian C(2), Chayka O(2), Rai L(2), Wick M(4),
+Kedaigle A(5), Stenman G(6), Sala A(7).
+
+Author information: 
+(1)Sahlgrenska Cancer Center, Department of Pathology, University of Gothenburg, 
+Gothenburg, Sweden.
+(2)Department of Life Sciences, Research Institute for the Environment, Health
+and Societies, Brunel University London, UB8 3PH, Uxbridge, UK.
+(3)Sahlgrenska Cancer Center, Department of Medical Chemistry and Cell Biology,
+University of Gothenburg, Gothenburg, Sweden.
+(4)South Texas Accelerated Research Therapeutics (START), San Antonio, TX, 78229,
+USA.
+(5)Adenoid Cystic Carcinoma Research Foundation, Needham, MA, 02494, USA.
+(6)Sahlgrenska Cancer Center, Department of Pathology, University of Gothenburg, 
+Gothenburg, Sweden. goran.stenman@llcr.med.gu.se.
+(7)Department of Life Sciences, Research Institute for the Environment, Health
+and Societies, Brunel University London, UB8 3PH, Uxbridge, UK.
+Arturo.sala@brunel.ac.uk.
+
+Adenoid cystic carcinoma (ACC) is a rare cancer that preferentially occurs in the
+head and neck, breast, as well as in other sites. It is an aggressive cancer with
+high rates of recurrence and distant metastasis. Patients with advanced disease
+are generally incurable due to the lack of effective systemic therapies.
+Activation of the master transcriptional regulator MYB is the genomic hallmark of
+ACC. MYB activation occurs through chromosomal translocation, copy number gain or
+enhancer hijacking, and is the key driving event in the pathogenesis of ACC.
+However, the functional consequences of alternative mechanisms of MYB activation 
+are still uncertain. Here, we show that overexpression of MYB or MYB-NFIB fusions
+leads to transformation of human glandular epithelial cells in vitro and results 
+in analogous cellular and molecular consequences. MYB and MYB-NFIB expression led
+to increased cell proliferation and upregulation of genes involved in cell cycle 
+control, DNA replication, and DNA repair. Notably, we identified the DNA-damage
+sensor kinase ATR, as a MYB downstream therapeutic target that is overexpressed
+in primary ACCs and ACC patient-derived xenografts (PDXs). Treatment with the
+clinical ATR kinase inhibitor VX-970 induced apoptosis in MYB-positive ACC cells 
+and growth inhibition in ACC PDXs. To our knowledge, ATR is the first example of 
+an actionable target downstream of MYB that could be further exploited for
+therapeutic opportunities in ACC patients. Our findings may also have
+implications for other types of neoplasms with activation of the MYB oncogene.
+
+DOI: 10.1038/s41389-020-0194-3 
+PMCID: PMC6992744
+PMID: 32001675 
+

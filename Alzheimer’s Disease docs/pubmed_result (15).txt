@@ -1,0 +1,61 @@
+
+1. Mol Psychiatry. 2016 Jun;21(6):831-6. doi: 10.1038/mp.2015.121. Epub 2015 Aug 25.
+
+SORL1 rare variants: a major risk factor for familial early-onset Alzheimer's
+disease.
+
+Nicolas G(1)(2)(3), Charbonnier C(2)(3), Wallon D(2)(3)(4), Quenez O(2)(3),
+Bellenguez C(5)(6)(7), Grenier-Boley B(5)(6)(7), Rousseau S(3), Richard AC(3),
+Rovelet-Lecrux A(2), Le Guennec K(2), Bacq D(8), Garnier JG(8), Olaso R(8),
+Boland A(8), Meyer V(8), Deleuze JF(8)(9), Amouyel P(5)(6)(7), Munter HM(10),
+Bourque G(10), Lathrop M(10), Frebourg T(1)(2), Redon R(11)(12), Letenneur L(13),
+Dartigues JF(13), Génin E(14), Lambert JC(5)(6)(7), Hannequin D(1)(2)(3)(4),
+Campion D(2)(3)(15); CNR-MAJ collaborators.
+
+Collaborators: Hannequin D, Campion D, Wallon D, Martinaud O, Nicolas G, Godefroy
+O, Etcharry-Bouyx F, Chauviré V, Chamard L, Berger E, Magnin E, Dartigues JF,
+Auriacombe S, de la Sayette V, Viader F, Castan D, Dionet E, Sellal F, Rouaud O, 
+Thauvin C, Moreaud O, Sauvée M, Rollin-Sillaire A, Bombois S, Mackowiak MA,
+Deramecourt V, Pasquier F, Formaglio M, Mollion H, Roullet-Solignac I, Vighetto
+A, Croisile B, Didic M, Félician O, Koric L, Ceccaldi M, Gabelle A, Marelli C,
+Touchon J, Labauge P, Jonveaux T, Vercelletto M, Boutoleau-Bretonnière C,
+Castelnovo G, Renaud D, Robert P, Paquet C, Dumurgier J, Hugon J, Michon A, Le
+Ber I, Dubois B, Duyckaerts C, De Boisgueheneuc F, Belliard S, Bakchine S,
+Barrellon MO, Laurent B, Blanc F, Tranchant C, Pariente J, Puel M, Hommet C,
+Mondon K.
+
+Author information: 
+(1)Department of Genetics, Rouen University Hospital, Rouen, France.
+(2)Inserm U1079, Rouen University, IRIB, Normandy University, Rouen, France.
+(3)CNR-MAJ, Rouen University Hospital, Rouen, France.
+(4)Department of Neurology, Rouen University Hospital, Rouen, France.
+(5)Inserm, U1167, Lille, France.
+(6)Institut Pasteur de Lille, Lille, France.
+(7)Université Lille-Nord de France, Lille, France.
+(8)Centre National de Génotypage, Institut de Génomique, CEA, Evry, France.
+(9)Fondation Jean Dausset, Centre d'études du Polymorphisme Humain, Paris,
+France.
+(10)McGill University and Génome Québec Innovation Centre, Montréal, QC, Canada.
+(11)Inserm UMR 1087, l'institut du Thorax, CHU Nantes, Nantes, France.
+(12)CNRS, UMR 6291, Université de Nantes, Nantes, France.
+(13)Inserm U897, Univ Bordeaux, Bordeaux, France.
+(14)Inserm UMR1078, CHU Brest, Univ Bretagne Occidentale, Brest, France.
+(15)Department of Research, Rouvray Psychiatric Hospital, Sotteville-lès-Rouen,
+France.
+
+The SORL1 protein plays a protective role against the secretion of the amyloid β 
+peptide, a key event in the pathogeny of Alzheimer's disease. We assessed the
+impact of SORL1 rare variants in early-onset Alzheimer's disease (EOAD) in a
+case-control setting. We conducted a whole exome analysis among 484 French EOAD
+patients and 498 ethnically matched controls. After collapsing rare variants
+(minor allele frequency ≤1%), we detected an enrichment of disruptive and
+predicted damaging missense SORL1 variants in cases (odds radio (OR)=5.03, 95%
+confidence interval (CI)=(2.02-14.99), P=7.49.10(-5)). This enrichment was even
+stronger when restricting the analysis to the 205 cases with a positive family
+history (OR=8.86, 95% CI=(3.35-27.31), P=3.82.10(-7)). We conclude that predicted
+damaging rare SORL1 variants are a strong risk factor for EOAD and that the
+association signal is mainly driven by cases with positive family history.
+
+DOI: 10.1038/mp.2015.121 
+PMID: 26303663  [Indexed for MEDLINE]
+

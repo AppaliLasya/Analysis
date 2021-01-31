@@ -1,0 +1,29 @@
+
+1. J Neural Transm (Vienna). 2002 May;109(5-6):939-46.
+
+Evolutionary conserved microsatellites in the promoter region of the
+5-hydroxytryptamine receptor 2C gene (HTR2C) are not associated with bipolar
+disorder in females.
+
+Meyer J(1), Saam W, Mössner R, Cangir O, Ortega GR, Tatschner T, Riederer P,
+Wienker TF, Lesch KP.
+
+Author information: 
+(1)Department of Psychiatry and Psychotherapy, University of Würzburg, Federal
+Republic of Germany. jobst.meyer@mail.uni-wuerzburg.de
+
+Two polymorphic dinucleotide repeats separated by a short spacer are localized in
+the promoter region of the serotonin receptor 2C gene ( HTR2C). One of the
+repeats was found to be evolutionary conserved between humans and rhesus monkeys.
+Although promoter-associated microsatellites have previously been shown to
+regulate expression of different genes, we did not find any significant influence
+of distinct HTR2C promoter microsatellite alleles on transcriptional efficiency
+as measured by luciferase activity and receptor availability as assayed by
+[(3)H]-mesulergine binding. Furthermore, no association of specific alleles with 
+bipolar disorder was found. These results indicate that the HTR2C promoter
+polymorphism does not contribute significantly to the etiopathogenesis of bipolar
+disorder in females.
+
+DOI: 10.1007/s007020200077 
+PMID: 12111480  [Indexed for MEDLINE]
+

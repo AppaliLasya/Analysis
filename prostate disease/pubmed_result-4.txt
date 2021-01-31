@@ -1,0 +1,32 @@
+
+1. J Urol. 1992 Mar;147(3 Pt 2):789-93.
+
+Alterations of the P53 gene are associated with the progression of a human
+prostate carcinoma.
+
+Effert PJ(1), Neubauer A, Walther PJ, Liu ET.
+
+Author information: 
+(1)Department of Medicine, Lineberger Cancer Research Center, University of North
+Carolina, Chapel Hill 27599.
+
+P53 is a tumor suppressor gene that has been implicated in the molecular genetics
+of many human malignancies. Nucleotide alterations, most commonly single point
+mutations, have been shown not only to abrogate the p53 suppressor function but
+also to contribute to the transformed phenotype. We report the detection of a p53
+gene mutation in clinical specimens of a patient with relapsing prostate
+adenocarcinoma 14 years after definitive external beam radiation. The techniques 
+of single strand conformation polymorphism analysis and direct sequencing of
+polymerase chain reaction generated products were used for this study. Analysis
+of tissue from different locations of the primary tumor revealed intratumoral
+molecular heterogeneity; the mutation was absent in 1 area but present in
+another. Tumor from a regional lymph node metastasis harbored the identical p53
+mutation. Furthermore, an additional genetic alteration, an allelic loss on
+chromosome 17p but not including the p53 gene, was observed only in the
+metastatic tissue. These observations in clinical specimens of primary and
+metastatic sites provide evidence for the association of the p53 gene in the
+progression of human prostate carcinoma.
+
+DOI: 10.1016/s0022-5347(17)37387-1 
+PMID: 1347085  [Indexed for MEDLINE]
+

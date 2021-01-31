@@ -1,0 +1,42 @@
+
+1. Appl Immunohistochem Mol Morphol. 2020 Feb;28(2):111-122. doi:
+10.1097/PAI.0000000000000717.
+
+Differentially Expressed Genes in Matched Normal, Cancer, and Lymph Node
+Metastases Predict Clinical Outcomes in Patients With Breast Cancer.
+
+Kim GE(1), Kim NI(1), Lee JS(1), Park MH(2), Kang K(3).
+
+Author information: 
+(1)Departments of Pathology.
+(2)Surgery, Chonnam National University Medical School, Gwangju.
+(3)Department of Microbiology, College of Natural Sciences, Dankook University,
+Cheonan, Republic of Korea.
+
+Genome-wide screening of transcriptional changes among normal, cancer, and nodal 
+metastases provides insights into the molecular basis of breast cancer (BC)
+progression and metastasis. To identify transcriptional changes and
+differentially expressed genes (DEGs) in the metastatic progression of BC and to 
+determine the prognostic role of these DEGs in clinical outcome, we compared
+transcriptome profiling in matched normal, cancer, and lymph node metastatic
+tissues of 7 patients with estrogen receptor-positive, HER2-negative BC by using 
+massive parallel RNA sequencing. The global profiles of gene expression in cancer
+and nodal metastases were highly correlated (r=0.962, P<0.001). In 6 (85.8%)
+patients, cancer and corresponding nodal metastases from the same patient
+clustered together. We identified 1522 and 664 DEGs between normal and cancer and
+between cancer and nodal metastases, respectively. The DEGs in normal versus
+cancer and cancer versus nodal metastases were significantly clustered in 1 and 8
+Kyoto Encyclopedia of Genes and Genomes (KEGG) pathways, respectively. The
+chemokine signaling pathway was the most significant pathway in the
+cancer-to-nodal metastasis transition (false discovery rate=2.15E-13). The
+expression of 2 dysregulated RAC2 and PTGDS genes was confirmed by quantitative
+real-time polymerase chain reaction and immunohistochemistry. Interestingly, the 
+lower RAC2 and PTGDS expression were associated with significantly worse
+disease-free survival in patients with BC. Our results show a high concordance of
+gene expression in BC and their nodal metastases, and identify DEGs associated
+with the metastatic progression of BC. The DEGs identified in this study
+represent novel biomarkers for predicting the prognosis of patients with BC.
+
+DOI: 10.1097/PAI.0000000000000717 
+PMID: 32044879 
+

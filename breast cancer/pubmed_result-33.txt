@@ -1,0 +1,46 @@
+
+1. Biol Res Nurs. 2020 Jan 7:1099800419899727. doi: 10.1177/1099800419899727. [Epub 
+ahead of print]
+
+Genes Involved in the HPA Axis and the Symptom Cluster of Fatigue, Depressive
+Symptoms, and Anxiety in Women With Breast Cancer During 18 Months of Adjuvant
+Therapy.
+
+Li H(1), Marsland AL(2), Conley YP(3), Sereika SM(4)(5), Bender CM(1).
+
+Author information: 
+(1)Department of Health and Community Systems, School of Nursing, University of
+Pittsburgh, PA, USA.
+(2)Department of Psychology, University of Pittsburgh, PA, USA.
+(3)Department of Health Promotion and Development, School of Nursing, University 
+of Pittsburgh, PA, USA.
+(4)Center for Research and Evaluation, University of Pittsburgh, PA, USA.
+(5)Department of Health and Community Systems, University of Pittsburgh, PA, USA.
+
+This study aimed to (1) identify subgroups of women with breast cancer with the
+psychological symptom cluster (fatigue, depressive symptoms, and anxiety) during 
+the first 18 months of adjuvant therapy and (2) explore associations between
+demographic and clinical characteristics and variations in genetic polymorphisms 
+related to hypothalamic-pituitary-adrenal (HPA) axis function and predicted
+symptom trajectory subgroup membership. We obtained symptom data at 4 time points
+from baseline to 18 months of adjuvant therapy among 292 postmenopausal women
+with breast cancer. Genetic data were collected in a subgroup at baseline (N =
+184). Group-based multitrajectory modeling was used to classify women into
+subgroups with similar psychological symptom cluster trajectories. Binary
+logistic regression was used to explore the associations between each genotypic
+and phenotypic predictor and predicted subgroup membership. Two distinct symptom 
+subgroups (low and high) were identified based on the trajectories of the symptom
+cluster of fatigue, depressive symptoms, and anxiety over the first 18 months of 
+adjuvant therapy. Women who were younger, less educated, and who received
+chemotherapy had greater likelihood of being in the high-symptom subgroup.
+Variation in genes regulating the HPA axis (FKBP5 rs9394309 [odds ratio (OR) =
+3.98, p = .015], NR3C2 rs5525 [OR = 2.54, p = .036], and CRHR1 rs12944712 [OR =
+3.99, p = .021]) was associated with membership in the high-symptom subgroup.
+These results may help to identify women with breast cancer who are at increased 
+risk for psychological symptoms, facilitating the development of individualized
+and preemptive interventions to better manage these symptoms during adjuvant
+therapy.
+
+DOI: 10.1177/1099800419899727 
+PMID: 31908177 
+

@@ -1,0 +1,88 @@
+
+1. Neurobiol Aging. 2017 Nov;59:220.e1-220.e9. doi:
+10.1016/j.neurobiolaging.2017.07.001. Epub 2017 Jul 14.
+
+Contribution to Alzheimer's disease risk of rare variants in TREM2, SORL1, and
+ABCA7 in 1779 cases and 1273 controls.
+
+Bellenguez C(1), Charbonnier C(2), Grenier-Boley B(1), Quenez O(2), Le Guennec
+K(2), Nicolas G(2), Chauhan G(3), Wallon D(4), Rousseau S(2), Richard AC(2),
+Boland A(5), Bourque G(6), Munter HM(6), Olaso R(5), Meyer V(5), Rollin-Sillaire 
+A(7), Pasquier F(7), Letenneur L(3), Redon R(8), Dartigues JF(3), Tzourio C(3),
+Frebourg T(9), Lathrop M(6), Deleuze JF(5), Hannequin D(10), Genin E(11), Amouyel
+P(12), Debette S(3), Lambert JC(13), Campion D(14); CNR MAJ collaborators.
+
+Collaborators: Hannequin D, Campion D, Wallon D, Martinaud O, Zarea A, Nicolas G,
+Rollin-Sillaire A, Bombois S, Mackowiak MA, Deramecourt V, Pasquier F, Michon A, 
+Le Ber I, Dubois B, Godefroy O, Etcharry-Bouyx F, Chauviré V, Chamard L, Berger
+E, Magnin E, Dartigues JF, Auriacombe S, Tison F, Sayette V, Castan D, Dionet E, 
+Sellal F, Rouaud O, Thauvin C, Moreaud O, Sauvée M, Formaglio M, Mollion H,
+Roullet-Solignac I, Vighetto A, Croisile B, Didic M, Félician O, Koric L,
+Ceccaldi M, Gabelle A, Marelli C, Labauge P, Jonveaux T, Vercelletto M,
+Boutoleau-Bretonnière C, Castelnovo G, Paquet C, Dumurgier J, Hugon J, De
+Boisgueheneuc F, Belliard S, Bakchine S, Sarazin M, Barrellon MO, Laurent B,
+Blanc F, Pariente J, Jurici S.
+
+Author information: 
+(1)Inserm, U1167, RID-AGE-Risk Factors and Molecular Determinants of
+Aging-Related Diseases, Lille, France; Institut Pasteur de Lille, Lille, France; 
+University Lille, U1167-Excellence Laboratory LabEx DISTALZ, Lille, France.
+(2)Department of Genetics and CNR-MAJ, Normandie Univ, UNIROUEN, Inserm U1245 and
+Rouen University Hospital, Normandy Centre for Genomic and Personalized Medicine,
+Rouen, France.
+(3)University of Bordeaux, Inserm, Bordeaux Population Health Research Center,
+UMR1219, Bordeaux, France.
+(4)Department of Neurology and CNR-MAJ, Normandie Univ, UNIROUEN, Inserm U1245
+and Rouen University Hospital, Normandy Centre for Genomic and Personalized
+Medicine, Rouen, France.
+(5)Centre National de Génotypage, Institut de Génomique, CEA, Evry, France.
+(6)McGill University and Génome Québec Innovation Centre, Montréal, Canada.
+(7)CNR-MAJ, and Department of Neurology, Université de Lille, CHU, Inserm UMR-S
+1171, Lille, France.
+(8)Inserm UMR-1087/CNRS UMR 6291, l'institut du thorax, Univ. Nantes, Nantes,
+France.
+(9)Department of Genetics, Normandie Univ, UNIROUEN, Inserm U1245 and Rouen
+University Hospital, Normandy Centre for Genomic and Personalized Medicine,
+Rouen, France.
+(10)Department of Neurology and CNR-MAJ, Normandie Univ, UNIROUEN, Inserm U1245
+and Rouen University Hospital, Normandy Centre for Genomic and Personalized
+Medicine, Rouen, France; Department of Genetics, Neurology and CNR-MAJ, Normandie
+Univ, UNIROUEN, Inserm U1245 and Rouen University Hospital, Normandy Centre for
+Genomic and Personalized Medicine, Rouen, France.
+(11)Inserm UMR-1078, CHRU Brest, Univ. Brest, Brest, France.
+(12)Inserm, U1167, RID-AGE-Risk Factors and Molecular Determinants of
+Aging-Related Diseases, Lille, France; Institut Pasteur de Lille, Lille, France; 
+University Lille, U1167-Excellence Laboratory LabEx DISTALZ, Lille, France;
+Centre Hospitalier Universitaire de Lille, Epidemiology and Public Health
+Department, Lille, France.
+(13)Inserm, U1167, RID-AGE-Risk Factors and Molecular Determinants of
+Aging-Related Diseases, Lille, France; Institut Pasteur de Lille, Lille, France; 
+University Lille, U1167-Excellence Laboratory LabEx DISTALZ, Lille, France.
+Electronic address: jean-charles.lambert@pasteur-lille.fr.
+(14)Department of Genetics and CNR-MAJ, Normandie Univ, UNIROUEN, Inserm U1245
+and Rouen University Hospital, Normandy Centre for Genomic and Personalized
+Medicine, Rouen, France; Department of Research, Centre hospitalier du Rouvray,
+Sotteville-lès-Rouen, France. Electronic address:
+dominique.campion@univ-rouen.fr.
+
+We performed whole-exome and whole-genome sequencing in 927 late-onset Alzheimer 
+disease (LOAD) cases, 852 early-onset AD (EOAD) cases, and 1273 controls from
+France. We assessed the evidence for gene-based association of rare variants with
+AD in 6 genes for which an association with such variants was previously claimed.
+When aggregating protein-truncating and missense-predicted damaging variants, we 
+found exome-wide significant association between EOAD risk and rare variants in
+SORL1, TREM2, and ABCA7. No exome-wide significant signal was obtained in the
+LOAD sample, and significance of the order of 10-6 was observed in the whole AD
+group for TREM2. Our study confirms previous gene-level results for TREM2, SORL1,
+and ABCA7 and provides a clearer insight into the classes of rare variants
+involved. Despite different effect sizes and varying cumulative minor allele
+frequencies, the rare protein-truncating and missense-predicted damaging variants
+in TREM2, SORL1, and ABCA7 contribute similarly to the heritability of EOAD and
+explain between 1.1% and 1.5% of EOAD heritability each, compared with 9.12% for 
+APOE ε4.
+
+Copyright © 2017 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neurobiolaging.2017.07.001 
+PMID: 28789839  [Indexed for MEDLINE]
+

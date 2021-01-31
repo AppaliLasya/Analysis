@@ -1,0 +1,47 @@
+
+1. BMC Cancer. 2019 Dec 30;19(1):1257. doi: 10.1186/s12885-019-6490-7.
+
+Association between ESR1, ESR2, HER2, UGT1A4, and UGT2B7 polymorphisms and breast
+Cancer in Jordan: a case-control study.
+
+Al-Eitan LN(1)(2), Rababa'h DM(3), Alghamdi MA(4), Khasawneh RH(5).
+
+Author information: 
+(1)Department of Applied Biological Sciences, Jordan University of Science and
+Technology, P.O. Box 3030, Irbid, 22110, Jordan. lneitan@just.edu.jo.
+(2)Department of Biotechnology and Genetic Engineering, Jordan University of
+Science and Technology, Irbid, 22110, Jordan. lneitan@just.edu.jo.
+(3)Department of Applied Biological Sciences, Jordan University of Science and
+Technology, P.O. Box 3030, Irbid, 22110, Jordan.
+(4)College of Medicine, King Khalid University, Abha, Saudi Arabia.
+(5)Department of Hematopathology, King Hussein Medical Center (KHMC), Jordan
+Royal Medical Services (RMS), Amman, 11118, Jordan.
+
+BACKGROUND: Breast cancer risk, development, and treatment are influenced by
+genetic variation in certain genes, namely those involved in cell proliferation, 
+tumor suppression, and drug metabolism. In turn, the relevance of the
+aforementioned genetic variation to cancer depends on the ethnic group in
+question, highlighting the need for population-specific association studies.
+Therefore, the objective of the present study was to investigate the association 
+between certain ESR1, ESR2, HER2, UGT1A4, and UGT2B7 single nucleotide
+polymorphisms and breast cancer.
+METHODS: Blood samples were collected from 437 Jordanian-Arab breast cancer
+patients and healthy volunteers and subject to genotyping using the Sequenom
+MassARRAY® system (iPLEX GOLD).
+RESULTS: Our findings show a significant association between breast cancer and
+the allelic (P = 0.02486879) and genotypic (P = 0.04793066) frequencies of the
+ESR1 polymorphism rs3798577, a result which was confirmed in different genetic
+models. No other investigated polymorphism showed a significant association with 
+breast cancer itself in Jordanian Arabs, but the Rare Hz (GG) vs Het (AG) genetic
+model revealed an association of the disease with the ESR1 polymorphism
+rs3798577. However, several associations were found between certain polymorphisms
+and breast cancer's prognostic factors.
+CONCLUSION: This study suggests that certain polymorphisms may increase the risk 
+of breast cancer in the Jordanian-Arab population. Future research and clinical
+translation could incorporate the current results in preventative breast cancer
+approaches tailored for Jordanian-Arab patients.
+
+DOI: 10.1186/s12885-019-6490-7 
+PMCID: PMC6937757
+PMID: 31888550 
+

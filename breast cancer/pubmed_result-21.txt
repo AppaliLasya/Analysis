@@ -1,0 +1,55 @@
+
+1. PeerJ. 2020 Jan 21;8:e8403. doi: 10.7717/peerj.8403. eCollection 2020.
+
+Differentially expressed genes and key molecules of BRCA1/2-mutant breast cancer:
+evidence from bioinformatics analyses.
+
+Li Y(1), Zhou X(1), Liu J(1), Yin Y(1)(2), Yuan X(1), Yang R(1), Wang Q(1), Ji
+J(1), He Q(1).
+
+Author information: 
+(1)Department of Clinical Laboratories, Second Affiliated Hospital of Xi'an
+Jiaotong University, Xi'an, China.
+(2)Department of Clinical Laboratories, XIAN XD Group Hospital, Xi'an, China.
+
+Background: BRCA1 and BRCA2 genes are currently proven to be closely related to
+high lifetime risks of breast cancer. To date, the closely related genes to
+BRCA1/2 mutations in breast cancer remains to be fully elucidated. This study
+aims to identify the gene expression profiles and interaction networks influenced
+by BRCA1/2 mutations, so as to reflect underlying disease mechanisms and provide 
+new biomarkers for breast cancer diagnosis or prognosis.
+Methods: Gene expression profiles from The Cancer Genome Atlas (TCGA) database
+were downloaded and combined with cBioPortal website to identify exact breast
+cancer patients with BRCA1/2 mutations. Gene set enrichment analysis (GSEA) was
+used to analyze some enriched pathways and biological processes associated BRCA
+mutations. For BRCA1/2-mutant breast cancer, wild-type breast cancer and
+corresponding normal tissues, three independent differentially expressed genes
+(DEGs) analysis were performed to validate potential hub genes with each other.
+Protein-protein interaction (PPI) networks, survival analysis and diagnostic
+value assessment helped identify key genes associated with BRCA1/2 mutations.
+Results: The regulation process of cell cycle was significantly enriched in
+mutant group compared with wild-type group. A total of 294 genes were identified 
+after analysis of DEGs between mutant patients and wild-type patients.
+Interestingly, by the other two comparisons, we identified 43 overlapping genes
+that not only significantly expressed in wild-type breast cancer patients
+relative to normal tissues, but more significantly expressed in BRCA1/2-mutant
+breast patients. Based on the STRING database and cytoscape software, we
+constructed a PPI network using 294 DEGs. Through topological analysis scores of 
+the PPI network and 43 overlapping genes, we sought to select some genes, thereby
+using survival analysis and diagnostic value assessment to identify key genes
+pertaining to BRCA1/2-mutant breast cancer. CCNE1, NPBWR1, A2ML1, EXO1 and TTK
+displayed good prognostic/diagnostic value for breast cancer and BRCA1/2-mutant
+breast cancer.
+Conclusion: Our research provides comprehensive and new insights for the
+identification of biomarkers connected with BRCA mutations, availing diagnosis
+and treatment of breast cancer and BRCA1/2-mutant breast cancer patients.
+
+©2020 Li et al.
+
+DOI: 10.7717/peerj.8403 
+PMCID: PMC6979404
+PMID: 31998560 
+
+Conflict of interest statement: The authors declare there are no competing
+interests.
+

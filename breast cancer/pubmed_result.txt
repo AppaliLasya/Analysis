@@ -1,0 +1,50 @@
+
+1. Mol Cancer Ther. 2019 Dec 26. pii: molcanther.0940.2019. doi:
+10.1158/1535-7163.MCT-19-0940. [Epub ahead of print]
+
+Genomic and expression analyses define MUC17 and PCNX1 as predictors of
+chemotherapy response in breast cancer.
+
+Al Amri WS(1), Allinson LM(1), Baxter DE(1), Bell SM(1), Hanby AM(2), Jones
+SJ(3), Shaaban AM(4), Stead LF(1), Verghese ET(2), Hughes TA(5).
+
+Author information: 
+(1)School of Medicine, University of Leeds.
+(2)Department of Histopathology, St James's University Hospital.
+(3)Department of Breast Surgery, Leeds Teaching Hospitals NHS Trust.
+(4)Histopathology, Queen Elizabeth Hospital Birmingham.
+(5)School of Medicine, University of Leeds t.hughes@leeds.ac.uk.
+
+Poor prognosis breast cancers are treated with cytotoxic chemotherapy, but often 
+without any guidance from therapy predictive markers since universally-accepted
+markers are not currently available. Treatment failure, in the form of
+recurrences, is relatively common. We aimed to identify chemotherapy predictive
+markers and resistance pathways in breast cancer. Our hypothesis was that tumour 
+cells remaining after neoadjuvant chemotherapy (NAC) contain somatic variants
+causing therapy resistance, while variants present pre-NAC but lost post-NAC
+cause sensitivity. Whole exome sequencing was performed on matched pre- and
+post-NAC cancer cells, which were isolated by laser microdissection, from 6
+cancer cases, and somatic variants selected for or against by NAC were
+identified. Somatic variant diversity was significantly reduced after therapy
+(p<0.05). MUC17 variants were identified in 3 tumours and were selected against
+by NAC in each case, while PCNX1 variants were identified in 2 tumours and were
+selected for in both cases, implicating the function of these genes in defining
+chemoresponse. In vitro knock-down of MUC17 or PCNX1 was associated with
+significantly increased or decreased chemotherapy sensitivity respectively
+(p<0.05), further supporting their roles in chemotherapy response. Expression was
+tested for predictive value in two independent cohorts of chemotherapy-treated
+breast cancers (n=53, n=303). Kaplan-Meier analyses revealed that low MUC17
+expression was significantly associated with longer survival after chemotherapy, 
+while low PCNX1 was significantly associated with reduced survival. We concluded 
+that therapy-driven selection of somatic variants allows identification of
+chemotherapy response genes. With respect to MUC17 and PCNX1, therapy-driven
+selection acting on somatic variants, in vitro knock-down data concerning drug
+sensitivity, and survival analysis of expression levels in patient cohorts all
+define the genes as mediators of and predictive markers for chemotherapy response
+in breast cancer.
+
+Copyright ©2019, American Association for Cancer Research.
+
+DOI: 10.1158/1535-7163.MCT-19-0940 
+PMID: 31879365 
+

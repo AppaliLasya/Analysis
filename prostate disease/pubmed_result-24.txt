@@ -1,0 +1,26 @@
+
+1. Cancer Res. 1995 Sep 15;55(18):3973-5.
+
+Genetic variability of the human SRD5A2 gene: implications for prostate cancer
+risk.
+
+Reichardt JK(1), Makridakis N, Henderson BE, Yu MC, Pike MC, Ross RK.
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, University of Southern
+California/Norris Comprehensive Cancer Center, University of Southern California 
+School of Medicine, Los Angeles 9003-1034, USA.
+
+Elevated dihydrotestosterone levels have been suggested to increase the risk of
+prostate cancer. The human SRD5A2 gene encodes the type II steroid 5
+alpha-reductase, which converts testosterone to the more bioactive compound
+dihydrotestosterone. We have determined the distribution of a dinucleotide repeat
+in low-risk Asian-Americans, high-risk African-Americans, and intermediate-risk
+non-Hispanic Whites. We found this marker to be more polymorphic than previously 
+reported, with some alleles being specific to African-Americans. Genetic variants
+of the SRD5A2 gene may play a role in predisposition to prostate cancer and in
+explaining the substantial racial/ethnic variability in risk.
+
+
+PMID: 7664265  [Indexed for MEDLINE]
+

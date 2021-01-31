@@ -1,0 +1,51 @@
+
+1. Neurobiol Aging. 2016 Jun;42:217.e1-3. doi: 10.1016/j.neurobiolaging.2016.02.023.
+Epub 2016 Mar 3.
+
+A rare coding variant in TREM2 increases risk for Alzheimer's disease in Han
+Chinese.
+
+Jiang T(1), Tan L(2), Chen Q(3), Tan MS(4), Zhou JS(5), Zhu XC(6), Lu H(6), Wang 
+HF(6), Zhang YD(7), Yu JT(8).
+
+Author information: 
+(1)Department of Neurology, Nanjing First Hospital, Nanjing Medical University,
+Nanjing, PR China; Department of Neurology, Memory and Aging Center, University
+of California, San Francisco, CA, USA.
+(2)Department of Neurology, Qingdao Municipal Hospital, Nanjing Medical
+University, Nanjing, PR China; Department of Neurology, Qingdao Municipal
+Hospital, School of Medicine, Qingdao University, Qingdao, PR China. Electronic
+address: dr.tanlan@163.com.
+(3)Department of Pathophysiology, Key Laboratory of Cardiovascular Disease and
+Molecular Intervention, Nanjing Medical University, Nanjing, PR China.
+(4)Department of Neurology, Qingdao Municipal Hospital, School of Medicine,
+Qingdao University, Qingdao, PR China.
+(5)Department of Neurology, Nanjing First Hospital, Nanjing Medical University,
+Nanjing, PR China.
+(6)Department of Neurology, Qingdao Municipal Hospital, Nanjing Medical
+University, Nanjing, PR China.
+(7)Department of Neurology, Nanjing First Hospital, Nanjing Medical University,
+Nanjing, PR China. Electronic address: zhangyingdong@aliyun.com.
+(8)Department of Neurology, Memory and Aging Center, University of California,
+San Francisco, CA, USA. Electronic address: yu-jintai@163.com.
+
+Two recent studies have identified that a rare coding variant (p.R47H) in exon 2 
+of triggering receptor expressed on myeloid cells 2 (TREM2) gene is associated
+with Alzheimer's disease (AD) susceptibility in Caucasians. This association was 
+not successfully replicated in Han Chinese, where this variant was rare or even
+absent. Previously, we resequenced TREM2 exon 2 to investigate whether additional
+rare variants conferred risk to AD in our cohort. Although several new variants
+had been identified, none of them was significantly associated with disease
+susceptibility. Here, to test whether TREM2 is truly a susceptibility gene of AD 
+in Han Chinese, we extend our previous study by sequencing the other four exons
+of TREM2 in 988 AD patients and 1,354 healthy controls. We provided the first
+evidence that a rare coding variant (p.H157Y) in TREM2 exon 3 conferred a
+considerable risk of AD in our cohort (Pcorrected = 0.02, odds ratio = 11.01, 95%
+confidence interval: 1.38-88.05). This finding indicates that rare coding
+variants of TREM2 may play an important role in AD in Han Chinese.
+
+Copyright © 2016 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neurobiolaging.2016.02.023 
+PMID: 27067662  [Indexed for MEDLINE]
+

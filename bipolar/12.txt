@@ -1,0 +1,27 @@
+
+1. Neurosci Lett. 2003 Mar 13;339(1):5-8.
+
+Analysis of a cluster of polymorphisms in AKT1 gene in bipolar pedigrees: a
+family-based association study.
+
+Toyota T(1), Yamada K, Detera-Wadleigh SD, Yoshikawa T.
+
+Author information: 
+(1)Laboratory for Molecular Psychiatry, RIKEN Brain Science Institute, Wako,
+351-0198, Saitama, Japan.
+
+We have previously performed a genome scan in 22 multiplex pedigrees with bipolar
+disorder and detected a moderate linkage signal on distal portion of chromosome
+14q22-32. One of the large pedigrees displayed a parametric lod score >3 at a
+marker on 14q23-32. Upon inspection of genes located in this region revealed
+AKT1, a kinase that activates a lithium-responsive cell-survival pathway. Because
+lithium is an effective mood stabilizer for bipolar disorder patients, AKT1 is an
+interesting candidate for further investigation. We screened the gene for
+possible mutations and detected 14 polymorphisms. Seven polymorphic sites were
+clustered in a small segment spanning exon 14 and downstream intron. Transmission
+of haplotypes constructed from this cluster showed a weak evidence of association
+between the AKT1 and bipolar disorder.
+
+DOI: 10.1016/s0304-3940(02)01428-3 
+PMID: 12618287  [Indexed for MEDLINE]
+

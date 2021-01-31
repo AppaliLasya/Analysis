@@ -1,0 +1,51 @@
+
+1. NPJ Genom Med. 2020 Jan 31;5:8. doi: 10.1038/s41525-020-0114-7. eCollection 2020.
+
+Evidence for an ancient BRCA1 pathogenic variant in inherited breast cancer
+patients from Senegal.
+
+Ndiaye R(1)(2)(3), Diop JPD(1), Bourdon-Huguenin V(4), Dem A(5), Diouf D(5),
+Dieng MM(5), Diop PS(2), Kane Gueye SM(2), Ba SA(1), Dia Y(1), Ka S(5), Mbengue
+B(2), Thiam A(6), Sylla Niang M(2), Gueye PM(2), Faye O(1), Lopez Sall P(2),
+Cisse A(2), Diop PA(2), Sobol H(4), Dieye A(2).
+
+Author information: 
+(1)1Laboratory of Cytology, Cytogenetics and Reproductive Biology, Aristide Le
+Dantec Hospital, Dakar, Senegal.
+(2)2Faculty of Medicine, Pharmacy and Odontology, University Cheikh Anta Diop,
+Dakar, Senegal.
+(3)African Center of Excellence for Mother and Child Health (CEA-SAMEF), Dakar,
+Senegal.
+(4)Laboratory of Molecular Oncogenetics, Paoli-Calmette Institute, Marseille,
+France.
+(5)5Joliot Curie Institute, Aristide Le Dantec Hospital, Dakar, Senegal.
+(6)6Pasteur Institute of Dakar, Dakar, Senegal.
+
+BRCA1 and BRCA2 are the most incriminated genes in inherited breast/ovarian
+cancers. Several pathogenic variants of these genes conferring genetic
+predisposition have been described in different populations but rarely in
+sub-Saharan Africa. The objectives of this study were to identify pathogenic
+variants of the BRCA genes involved in hereditary breast cancer in Senegal and to
+search for a founder effect. We recruited after free informed consent, 27
+unrelated index cases diagnosed with breast cancer and each having a family
+history. Mutation screening of the genes identified a duplication of ten
+nucleotides c.815_824dupAGCCATGTGG, (p.Thr276Alafs) (NM_007294.3) located in exon
+11 of BRCA1 gene, in 15 index cases (allelic frequency 27.7%). The pathogenic
+variant has been previously reported in African Americans as a founder mutation
+of West African origin. Haplotypes analysis of seven microsatellites surrounding 
+the BRCA1 gene highlights a shared haplotype encompassing ~400 kb between D17S855
+and D17S1325. This haplotype was not detected in none of 15 healthy controls.
+Estimation of the age of the pathogenic variant suggested that it occurred ~1400 
+years ago. Our study identified a founder pathogenic variant of BRCA1
+predisposing to breast cancer and enabled the establishment of an affordable
+genetic test as a mean of prevention for Senegalese women at risk.
+
+© The Author(s) 2020.
+
+DOI: 10.1038/s41525-020-0114-7 
+PMCID: PMC6994613
+PMID: 32025337 
+
+Conflict of interest statement: Competing interestsThe authors declare no
+competing interests.
+

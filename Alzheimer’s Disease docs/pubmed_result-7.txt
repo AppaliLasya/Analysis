@@ -1,0 +1,29 @@
+
+1. Prog Clin Biol Res. 1989;317:277-83.
+
+The promoter of Alzheimer's disease amyloid A4 precursor gene.
+
+Salbaum JM(1), Weidemann A, Masters CL, Beyreuther K.
+
+Author information: 
+(1)Center for Molecular Biology, University of Heidelberg, F.R. Germany.
+
+The promoter of the gene for the precursor of Alzheimer's Disease A4 amyloid
+protein (PAD gene) resembles promoters of housekeeping genes. A typical TATA box 
+is missing, and transcription initiates at multiple sites. It shows a high GC
+content of 72% in a DNA region that confers promoter activity to a reporter gene 
+in vivo. Upstream of the RNA start sites we found sequences homologous to the
+consensus binding sites of transcription factor AP-1 and the heat shock control
+element binding protein. Six copies of a 9bp long GC-rich element are located
+between positions -100 and -200 of the sequence. A protein-DNA interaction could 
+be mapped to this element. The ratio of the dinucleotide CpG, the target for DNA 
+methylation, versus GpC is about 1:1 around the RNA start site, in contrast to
+the normal ratio of 1:5 in eucaryotic DNA. These findings suggest that four
+mechanisms may participate in the regulation of the PAD gene: the stress-related 
+heat shock; the AP-1/Fos binding; the GC-rich element, and the possible
+methylation of the CpG region. PAD gene regulation could be of relevance for the 
+progression of amyloid deposition in Alzheimer's Disease.
+
+
+PMID: 2690103  [Indexed for MEDLINE]
+

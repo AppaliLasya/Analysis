@@ -1,0 +1,44 @@
+
+1. Int J Clin Exp Pathol. 2014 Sep 15;7(10):6862-70. eCollection 2014.
+
+Prognostic value of Ki67 expression in HR-negative breast cancer before and after
+neoadjuvant chemotherapy.
+
+Tan QX(1), Qin QH(1), Yang WP(2), Mo QG(1), Wei CY(1).
+
+Author information: 
+(1)Department of Breast Surgery, Guangxi Medical University Tumor Hospital
+Nanning, China.
+(2)Department of Ultrasound Diagnosis, Guangxi Medical University Tumor Hospital 
+Nanning, China.
+
+BACKGROUND: Immunohistochemical (IHC) expression of Ki67 has been identified as a
+prognostic and predictive marker in hormone receptor (HR)-positive breast cancer,
+however, there is little evidence of the association of Ki67 with prognosis in
+HR-negative patients. We aimed to assess the benefit of Ki67 assessment in
+HR-negative breast cancers after neoadjuvant chemotherapy (NAC).
+METHODS: In the present study, a total of 183 HR-negative breast cancer patients 
+with Stage II to III that treated with anthracycline and/or taxane-based
+neoadjuvant chemotherapy between 2004 and 2011 were retrospectively analyzed.
+Endocrine therapy and trastuzumab was not administered to any patients in this
+study. Clinical and pathological features of the patients with breast cancer were
+retrieved from the hospital records. Predictive factors for NAC response and
+survival were analyzed.
+RESULTS: Of the 183 patients, 122 (66.6%) were HR- HER2+, and 61 (33.3%) were
+triple-negative. The clinical response rates were similar across breast cancer
+subtype. Patients whose tumors contained high Ki67 expression effectively
+responded to NAC. Ki67 labeling index was a predictive marker for pathologic
+complete response (pCR). Ki67 expression showed a positive correlation with HER2 
+status, tumor size, lymph node status, lymphovascular invasion and tumor grade.
+Furthermore, high Ki67 expression in post-treatment tumors was strongly
+correlated with poor disease-free survival (DFS), but no correlation of Ki-67
+expression with overall survival (OS) was observed.
+CONCLUSIONS: Our results suggest that Ki67 expression in HR-negative breast
+cancer may improve the assessment of pathological response after NAC, and Ki67
+score in residual tumor was an independent prognosticator for DFS in the
+HR-negative breast cancer patients.
+
+
+PMCID: PMC4230098
+PMID: 25400769  [Indexed for MEDLINE]
+

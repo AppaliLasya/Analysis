@@ -1,0 +1,46 @@
+
+1. Gene. 2020 Feb 5:144453. doi: 10.1016/j.gene.2020.144453. [Epub ahead of print]
+
+Role of miR-21 as an authentic oncogene in mediating drug resistance in breast
+cancer.
+
+Najjary S(1), Mohammadzadeh R(2), Mokhtarzadeh A(3), Mohammadi A(4), Kojabad
+AB(3), Baradaran B(5).
+
+Author information: 
+(1)Immunology Research Center, Tabriz University of Medical Sciences, Tabriz,
+Iran; Department of Cell and Molecular Biology, Faculty of Basic Science,
+University of Maragheh, Maragheh, Iran.
+(2)Department of Cell and Molecular Biology, Faculty of Basic Science, University
+of Maragheh, Maragheh, Iran.
+(3)Immunology Research Center, Tabriz University of Medical Sciences, Tabriz,
+Iran.
+(4)Department of Cancer and Inflammation Research, Institute for Molecular
+Medicine, University of Southern Denmark, Odense, Denmark.
+(5)Immunology Research Center, Tabriz University of Medical Sciences, Tabriz,
+Iran. Electronic address: baradaranb@tbzmed.ac.ir.
+
+Breast cancer (BC) is the most common cancer among women that is responsible for 
+the most of the cancer-related death in worldwide. Drug resistance is remaining
+as a significant clinical obstacle to treat BC patients effectively. Therefore,
+to help overcome this problem, it is necessary to understand the mechanisms of
+drug resistance. microRNAs classify as highly conserved non-coding RNAs (∼22
+nucleotides) and interact with mRNAs-coding genes for direct post-transcriptional
+repression. It has been reported that miR-21 is overexpressed and also acts as
+oncomiR in many human malignancies by targeting of several tumor suppressor
+genes-associated with apoptosis, proliferation and metastasis. Specifically, it
+has been reported that miR-21 is responsible for the drug resistance and its
+overexpression is related to the development of Multi Drug Resistance (MDR) in
+breast cancer. In this review, we discussed about the role of miR-21 on the drug 
+resistance of breast cancer.
+
+Copyright © 2020. Published by Elsevier B.V.
+
+DOI: 10.1016/j.gene.2020.144453 
+PMID: 32035242 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

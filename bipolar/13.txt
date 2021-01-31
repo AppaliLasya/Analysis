@@ -1,0 +1,33 @@
+
+1. World J Biol Psychiatry. 2007;8(3):188-95.
+
+Association study of the norepinephrine transporter gene polymorphisms and
+bipolar disorder in Han Chinese population.
+
+Chang CC(1), Lu RB, Ma KH, Chang HA, Chen CL, Huang CC, Lin WW, Huang SY.
+
+Author information: 
+(1)Department of Psychiatry, Tri-Service General Hospital, National Defense
+Medical Center, Taipei, ROC, Taiwan.
+
+Many studies have indicated that the norepinephrine transporter (NET) may play an
+important role in the mechanisms underlying affective disorders. Thus, the genes 
+of the NET (SLC6A2) are good candidates for research on bipolar disorder (BPD).
+This study examined whether the NET gene is a susceptibility factor for the BPD
+in Han Chinese. A promoter -182 T/C polymorphism (rs 2242446) and the exonic
+polymorphism 1287 G/A (rs 5569) of the NET gene were analysed using a polymerase 
+chain reaction (PCR)-based method in 261 BPD patients and 245 unrelated, age- and
+gender-matched controls. Furthermore, to reduce the clinical heterogeneity, we
+also carried out analysis in clinical subgroups of bipolar patients defined
+according to type I and type II BPD, presence or absence of family history of
+major affective disorders and the age at onset of BPD. No significant difference 
+was found between either bipolar patients or its more homogeneous subgroups and
+healthy controls in the genotype and allele frequencies for the investigated NET 
+polymorphisms. Our results suggest that the investigated polymorphisms of NET are
+not major risk factors responsible for predisposition to BPD or its clinical
+subtypes in Han Chinese. However, replication studies with larger different
+ethnic samples are needed.
+
+DOI: 10.1080/15622970601136195 
+PMID: 17654409  [Indexed for MEDLINE]
+

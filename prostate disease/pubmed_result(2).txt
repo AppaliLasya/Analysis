@@ -1,0 +1,29 @@
+
+1. Future Oncol. 2005 Oct;1(5):683-8.
+
+Genes in the polyamine biosynthesis pathway may be involved in prostate cancer
+susceptibility.
+
+Zeegers MP(1), Ostrer H.
+
+Author information: 
+(1)University of Birmingham, Department of Public Health and Epidemiology, Public
+Health Building, Edgbaston, Birmingham, UK. m.p.zeegers@bham.ac.uk
+
+One of the most investigated low-penetrance genes is the androgen receptor gene. 
+A recent meta-analysis showed however that the absolute difference in number of
+repeats between cases and controls was less than one repeat. This result has
+questioned whether the androgen receptor gene could be functionally important in 
+prostate cancer etiology. The authors hypothesize that genes that are downstream 
+from the androgen receptor gene, potentially those involved in testosterone
+response, could be of more interest. One of the primary responses of prostate
+cells to testosterone is the production of polyamines. Recently, a meta-analysis 
+across gene-expression profiling studies found that genes in the polyamine
+biosynthesis pathway appear to be consistently dysregulated in prostate cancer.
+Polyamines are also involved in prostate diagnosis and treatment. Therefore, the 
+authors suggest that future oncologic research to identify candidate regions for 
+prostate cancer should focus on genes dysregulated in this pathway.
+
+DOI: 10.2217/14796694.1.5.683 
+PMID: 16556045  [Indexed for MEDLINE]
+

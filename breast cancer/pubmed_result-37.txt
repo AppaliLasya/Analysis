@@ -1,0 +1,40 @@
+
+1. Sci Rep. 2019 Dec 27;9(1):20142. doi: 10.1038/s41598-019-56632-3.
+
+Matrisome-Associated Gene Expression Patterns Correlating with TIMP2 in Cancer.
+
+Peeney D(1), Fan Y(2), Nguyen T(2), Meerzaman D(2), Stetler-Stevenson WG(3).
+
+Author information: 
+(1)Extracellular Matrix Pathology Section, Laboratory of Pathology, National
+Cancer Institute, National Institute of Health, Bethesda, Maryland, USA.
+david.peeney@nih.gov.
+(2)Computational Genomics and Bioinformatics Group, Center for Biomedical
+Informatics & Information Technology, National Cancer Institute, National
+Institute of Health, Rockville, Maryland, USA.
+(3)Extracellular Matrix Pathology Section, Laboratory of Pathology, National
+Cancer Institute, National Institute of Health, Bethesda, Maryland, USA.
+
+Remodeling of the extracellular matrix (ECM) to facilitate invasion and
+metastasis is a universal hallmark of cancer progression. However, a definitive
+therapeutic target remains to be identified in this tissue compartment. As major 
+modulators of ECM structure and function, matrix metalloproteinases (MMPs) are
+highly expressed in cancer and have been shown to support tumor progression. MMP 
+enzymatic activity is inhibited by the tissue inhibitor of metalloproteinase
+(TIMP1-4) family of proteins, suggesting that TIMPs may possess anti-tumor
+activity. TIMP2 is a promiscuous MMP inhibitor that is ubiquitously expressed in 
+normal tissues. In this study, we address inconsistencies in the literature
+regarding the role of TIMP2 in tumor progression by analyzing co-expressed genes 
+in tumor vs. normal tissue. Utilizing data from The Cancer Genome Atlas and
+Genotype-Tissue expression studies, focusing on breast and lung carcinomas, we
+analyzed the correlation between TIMP2 expression and the transcriptome to
+identify a list of genes whose expression is highly correlated with TIMP2 in
+tumor tissues. Bioinformatic analysis of the identified gene list highlights a
+core of matrix and matrix-associated genes that are of interest as potential
+modulators of TIMP2 function, thus ECM structure, identifying potential tumor
+microenvironment biomarkers and/or therapeutic targets for further study.
+
+DOI: 10.1038/s41598-019-56632-3 
+PMCID: PMC6934702
+PMID: 31882975 
+

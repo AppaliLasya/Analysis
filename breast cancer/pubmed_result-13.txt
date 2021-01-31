@@ -1,0 +1,85 @@
+
+1. J Exp Clin Cancer Res. 2020 Feb 7;39(1):30. doi: 10.1186/s13046-019-1493-4.
+
+BRD7 suppresses invasion and metastasis in breast cancer by negatively regulating
+YB1-induced epithelial-mesenchymal transition.
+
+Niu W(1)(2)(3), Luo Y(2)(3), Zhou Y(1)(2)(3), Li M(2)(3), Wu C(2)(3), Duan
+Y(2)(3), Wang H(1)(2), Fan S(4), Li Z(2)(3)(5), Xiong W(2)(3), Li X(2)(3), Li
+G(1)(2)(3), Ren C(6)(7), Li H(8), Zhou M(9)(10)(11).
+
+Author information: 
+(1)The Affiliated Tumor Hospital of Xiangya Medical School, Central South
+University, Changsha, Hunan, 410013, People's Republic of China.
+(2)Cancer Research Institute, School of Basic Medical Sciences, Central South
+University, Changsha, Hunan, 410078, People's Republic of China.
+(3)The Key Laboratory of Carcinogenesis of the Chinese Ministry of Health, The
+Key Laboratory of Carcinogenesis and Cancer Invasion of the Chinese Ministry of
+Education, Central South University, Changsha, Hunan, 410078, People's Republic
+of China.
+(4)The Second Xiang-Ya Hospital, Central South University, Changsha, Hunan,
+410011, People's Republic of China.
+(5)High Resolution Mass Spectrometry Laboratory of Advanced Research Center,
+Central South University, Changsha, Hunan, 410013, People's Republic of China.
+(6)Cancer Research Institute, School of Basic Medical Sciences, Central South
+University, Changsha, Hunan, 410078, People's Republic of China.
+rencaiping@csu.edu.cn.
+(7)The Key Laboratory of Carcinogenesis of the Chinese Ministry of Health, The
+Key Laboratory of Carcinogenesis and Cancer Invasion of the Chinese Ministry of
+Education, Central South University, Changsha, Hunan, 410078, People's Republic
+of China. rencaiping@csu.edu.cn.
+(8)The Second Xiang-Ya Hospital, Central South University, Changsha, Hunan,
+410011, People's Republic of China. 1165690132@qq.com.
+(9)The Affiliated Tumor Hospital of Xiangya Medical School, Central South
+University, Changsha, Hunan, 410013, People's Republic of China.
+zhouming2001@163.com.
+(10)Cancer Research Institute, School of Basic Medical Sciences, Central South
+University, Changsha, Hunan, 410078, People's Republic of China.
+zhouming2001@163.com.
+(11)The Key Laboratory of Carcinogenesis of the Chinese Ministry of Health, The
+Key Laboratory of Carcinogenesis and Cancer Invasion of the Chinese Ministry of
+Education, Central South University, Changsha, Hunan, 410078, People's Republic
+of China. zhouming2001@163.com.
+
+BACKGROUND: BRD7 is a tumor suppressor known to inhibit cell proliferation and
+cell cycle progression and initiate apoptosis in breast cancer. However, the
+function and underlying molecular events of BRD7 in tumor invasion and metastasis
+in breast cancer are not fully understood.
+METHODS: BRD7 expression was assessed in two stable cell lines MDA231 and MCF7
+with BRD7 overexpression and one stable cell line MDA231 with BRD7 interference
+using qRT-PCR and western blotting. CCK8 assay was used to examine the
+proliferation ability of MDA231 and MCF7 cells. Scratch wound healing assay was
+used to evaluate cell migration in MDA231 and MCF7 cells. Both Matrigel and
+three-dimensional invasion assays were performed to investigate the cell invasion
+ability after BRD7 overexpression or silencing or YB1 restoration in MDA231 and
+MCF7 cells. The potential interacting proteins of BRD7 were screened using
+co-immunoprecipitation combined with mass spectrometry and verified by
+co-immunoprecipitation in HEK293T cells. Additionally, we confirmed the specific 
+binding region between BRD7 and YB1 in HEK293T cells by constructing a series of 
+deletion mutants of BRD7 and YB1 respectively. Finally, xenograft and metastatic 
+mouse models using MDA231 cells were established to confirm the effect of BRD7 on
+tumor growth and metastasis.
+RESULTS: Here, the results of a series of assays in vitro indicated that BRD7 has
+the ability to inhibit the mobility, migration and invasion of breast cancer
+cells. In addition, YB1 was identified as a novel interacting protein of BRD7,
+and BRD7 was found to associate with the C-terminus of YB1 via its N-terminus.
+BRD7 decreases the expression of YB1 through negatively regulating YB1
+phosphorylation at Ser102, thereby promoting its proteasomal degradation.
+Furthermore, gene set enrichment analysis revealed that epithelial-mesenchymal
+transition (EMT) is the common change occurring with altered expression of either
+BRD7 or YB1 and that BRD7 represses mesenchymal genes and activates epithelial
+genes. Moreover, restoring the expression of YB1 antagonized the inhibitory
+effect of BRD7 on tumorigenicity, EMT, invasiveness and metastasis through a
+series of in vitro and in vivo experiments. Additionally, BRD7 expression was
+negatively correlated with the level of YB1 in breast cancer patients. The
+combination of low BRD7 and high YB1 expression was significantly associated with
+poor prognosis, distant metastasis and advanced TNM stage.
+CONCLUSIONS: Collectively, these findings uncover that BRD7 blocks tumor growth, 
+migration and metastasis by negatively regulating YB1-induced EMT, providing new 
+insights into the mechanism by which BRD7 contributes to the progression and
+metastasis of breast cancer.
+
+DOI: 10.1186/s13046-019-1493-4 
+PMCID: PMC7006413
+PMID: 32028981 
+

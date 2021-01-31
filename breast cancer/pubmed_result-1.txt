@@ -1,0 +1,47 @@
+
+1. J Transl Med. 2020 Feb 12;18(1):74. doi: 10.1186/s12967-020-02260-9.
+
+Identification of key genes controlling breast cancer stem cell characteristics
+via stemness indices analysis.
+
+Pei J(1), Wang Y(1), Li Y(2).
+
+Author information: 
+(1)Gansu Provincial Maternity and Child-care Hospital, Lanzhou, 730000, China.
+(2)Gansu Province Key Laboratory of Biotherapy and Regenerative Medicine, the
+First Hospital of Lanzhou University, Lanzhou, 730000, China. liyan6533@163.com.
+
+BACKGROUND: With the gradual unveiling of tumour heterogeneity, cancer stem cells
+(CSCs) are now being considered the initial component of tumour initiation.
+However, the mechanisms of the growth and maintenance of breast cancer (BRCA)
+stem cells are still unknown.
+METHODS: To explore the crucial genes modulating BRCA stemness characteristics,
+we combined the gene expression value and mRNA expression-based stemness index
+(mRNAsi) of samples from The Cancer Genome Atlas (TCGA), and the mRNAsi was
+corrected using the tumour purity (corrected mRNAsi). mRNAsi and corrected mRNAsi
+were analysed and showed a close relationship with BRCA clinical characteristics,
+including tumour depth, pathological staging and survival status. Next, weighted 
+gene co-expression network analysis (WGCNA) was applied to distinguish crucial
+gene modules and key genes. A series of functional analyses and expression
+validation of key genes were conducted using multiple databases, including
+Oncomine, Gene Expression Omnibus (GEO) and Gene Expression Profiling Integrative
+Analysis (GEPIA).
+RESULTS: This study found that mRNAsi and corrected mRNAsi scores were higher in 
+BRCA tissues than that in normal tissues, and both of them increased with tumour 
+stage. Higher corrected mRNAsi scores showed worse overall survival outcomes. We 
+screened 3 modules and 32 key genes, and those key genes were found to be
+strongly correlated with each other. Functional analysis revealed that the key
+genes were related to cell fate decision events such as the cell cycle, cellular 
+senescence, chromosome segregation and mitotic nuclear division. Among 32 key
+genes, we identified 12 genes that strongly correlated with BRCA survival.
+CONCLUSIONS: Thirty-two genes were found to be closely related to BRCA stem cell 
+characteristics; among them, 12 genes showed prognosis-oriented effects in BRCA
+patients. The most significant signalling pathway related to stemness in BRCA was
+the cell cycle pathway, which may support new ideas for screening therapeutic
+targets to inhibit BRCA stem characteristics. These findings may highlight some
+therapeutic targets for inhibiting BRCA stem cells.
+
+DOI: 10.1186/s12967-020-02260-9 
+PMCID: PMC7014665
+PMID: 32050983 
+

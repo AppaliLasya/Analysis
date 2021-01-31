@@ -1,0 +1,21 @@
+
+1. Hum Genet. 1993 Mar;91(1):87-8.
+
+D21S210: a highly polymorphic (GT)n marker closely linked to the beta-amyloid
+protein precursor (APP) gene.
+
+Warren AC(1), McInnis MG, Kalaitsidaki M, Cox TK, Blaschak J, Chakravarti A,
+Antonarakis SE.
+
+Author information: 
+(1)Center for Medical Genetics, Johns Hopkins University School of Medicine,
+Baltimore, MD 21205.
+
+We describe a highly polymorphic (GT)n repeat with 14 alleles that is closely
+linked to the amyloid precursor protein (APP) gene on human chromosome 21. This
+marker, D21S210, will be useful for studies of linkage of disorders such as
+Alzheimer disease to the APP gene.
+
+DOI: 10.1007/bf00230232 
+PMID: 8454294  [Indexed for MEDLINE]
+

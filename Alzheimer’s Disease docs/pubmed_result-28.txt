@@ -1,0 +1,36 @@
+
+1. J Alzheimers Dis. 2015;43(3):757-61. doi: 10.3233/JAD-141167.
+
+Transmembrane protein 106B gene (TMEM106B) variability and influence on
+progranulin plasma levels in patients with Alzheimer's disease.
+
+Serpente M(1), Fenoglio C(1), Clerici F(2), Bonsi R(1), Arosio B(3), Cioffi
+SM(1), Rotondo E(1), Franceschi M(4), Martinelli Boneschi F(5), Mari D(3),
+Mariani C(2), Scarpini E(1), Galimberti D(1).
+
+Author information: 
+(1)Department of Pathophysiology and Transplantation, "Dino Ferrari" Center,
+University of Milan, Fondazione Cà Granda, IRCCS Ospedale Policlinico, Milan,
+Italy.
+(2)Center for Research and Treatment on Cognitive Dysfunctions, Chair of
+Neurology, University of Milan, "Luigi Sacco" Hospital, Milan, Italy.
+(3)Geriatric Unit, Department of Clinical Sciences and Community Health,
+University of Milan, Fondazione Cà Granda, IRCCS Ospedale Policlinico, Milan,
+Italy.
+(4)IRCCS Multimedica, Milan, Italy.
+(5)Laboratory of Neurological Complex disorders, Department of
+Neuro-rehabilitation & INSPE, Scientific Institute San Raffaele, Milan, Italy.
+
+We carried out an association study of transmembrane protein 106B gene (TMEM106B)
+rs1020004 A/G, rs6966915C/T, and rs1990622 A/G in a population of 656 patients
+with Alzheimer's disease (AD) and 619 controls, and tested whether the rs1990622 
+influences plasma progranulin levels. No differences in allele and genotype
+distribution were observed between cases and controls, even stratifying according
+to APOE status (p > 0.05). No differences in progranulin plasma levels were found
+between carriers of the rs1990622 and non-carriers. TMEM106b variability does not
+influence AD risk or plasma levels. Replication, preferably in a population with 
+pathological confirmation, is required to confirm these results.
+
+DOI: 10.3233/JAD-141167 
+PMID: 25114081  [Indexed for MEDLINE]
+

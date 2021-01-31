@@ -1,0 +1,39 @@
+
+1. Cancer Res. 1997 Jan 1;57(1):18-23.
+
+Human prostatic carcinoma oncogene PTI-1 is expressed in human tumor cell lines
+and prostate carcinoma patient blood samples.
+
+Sun Y(1), Lin J, Katz AE, Fisher PB.
+
+Author information: 
+(1)Department of Pathology, Columbia-Presbyterian Comprehensive Cancer Center,
+College of Physicians and Surgeons, Columbia University, New York, New York
+10032, USA.
+
+Rapid expression cloning and differential RNA display identifies a gene, named
+prostate tumor inducing gene-1 (PTI-1), that is differentially expressed in
+prostate cancer versus normal prostate and benign prostatic hypertrophy. PTI-1
+encodes a truncated and mutated human elongation factor 1 alpha, and its 5'
+untranslated region (UTR) shares significant homology with the 23S rRNA gene of
+Mycoplasma hyopneumoniae. PCR with human genomic DNAs, using PTI-1 5'
+UTR-specific primers, suggests that this sequence is part of the human genome.
+Furthermore, reverse transcription (RT)-PCR, with one primer specific to the 5'
+UTR region and the other to the elongation factor 1 alpha coding region,
+amplifies PTI-1 transcripts from total RNA of various human tumor cell lines and 
+blood samples from prostate carcinoma patients. RT-PCR products with the
+predicted size and sequence of PTI-1 are detected in RNAs from cell lines of
+human prostate, breast, and colon carcinomas. This RT-PCR product is shown by
+Southern blotting and sequence analyses to contain the junction sequence between 
+the 5' UTR and the coding region of the PTI-1 gene. Furthermore, RT-PCR analysis 
+indicates that the PTI-1 gene is also expressed in prostate carcinoma
+patient-derived blood samples. On the basis of serial dilution experiments, PTI-1
+can detect 1 prostate carcinoma cell in 10(8) cells not expressing PTI-1. In this
+context, PTI-1 represents a sensitive marker for detecting human prostate cancer 
+in the bloodstream. This study confirms the authenticity of the PTI-1 gene and
+documents its potential clinical utility as a sensitive and specific indicator of
+prostate cancer progression.
+
+
+PMID: 8988032  [Indexed for MEDLINE]
+

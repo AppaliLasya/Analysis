@@ -1,0 +1,32 @@
+
+1. Br J Cancer. 1996 Jul;74(2):264-8.
+
+P53 tumour-suppressor gene mutations are mainly localised on exon 7 in human
+primary and metastatic prostate cancer.
+
+Dahiya R(1), Deng G, Chen KM, Chui RM, Haughney PC, Narayan P.
+
+Author information: 
+(1)Department of Urology, University of California San Francisco, USA.
+
+Mutations in the p53 tumour-suppressor gene are among the most common genetic
+alterations in human cancers. In the present study we analysed the mutations in
+the p53 tumor-suppressor gene in 25 primary and 20 metastatic human prostate
+cancer specimens. DNA extracted from the paraffin-embedded sections was amplified
+by hot-start polymerase chain reaction, and p53 gene mutations in the conserved
+mid-region (exons 4-9) were examined using single-strand conformation
+polymorphism (SSCP) analysis and immunohistochemistry. In the present study, we
+used a novel hot-start PCR-SSCP technique using DNA Taq polymerase antibody,
+which eliminates primer-dimers and non-specific products. Because of this new
+technique, the results of PCR-SSCP showed very high resolution. Polymerase chain 
+reaction products were sequenced directly for point mutations for the p53 gene.
+Mutations were found in 2 out of 25 primary prostate cancers (8%) and 4 out of 20
+metastatic cancers (20%). Mutations were observed exclusively in exon 7 and not
+in exons 4, 5, 6, 8 or 9. Nuclear accumulation of p53 protein, determined by
+immunohistochemistry, correlated with the degree of metastasis in prostatic
+cancer.
+
+DOI: 10.1038/bjc.1996.349 
+PMCID: PMC2074577
+PMID: 8688333  [Indexed for MEDLINE]
+

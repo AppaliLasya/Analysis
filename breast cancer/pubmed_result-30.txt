@@ -1,0 +1,65 @@
+
+1. Front Oncol. 2019 Dec 6;9:1328. doi: 10.3389/fonc.2019.01328. eCollection 2019.
+
+Genetic Variation in CCL5 Signaling Genes and Triple Negative Breast Cancer:
+Susceptibility and Prognosis Implications.
+
+Shan J(1)(2)(3), Chouchane A(4), Mokrab Y(5), Saad M(6), Boujassoum S(7), Sayaman
+RW(8)(9)(10), Ziv E(10)(11), Bouaouina N(12)(13), Remadi Y(13), Gabbouj S(13),
+Roelands J(14), Ma X(2), Bedognetti D(14), Chouchane L(1)(2)(3).
+
+Author information: 
+(1)Department of Genetic Medicine, Weill Cornell Medicine, New York, NY, United
+States.
+(2)Department of Microbiology and Immunology, Weill Cornell Medicine, New York,
+NY, United States.
+(3)Laboratory of Genetic Medicine and Immunology, Weill Cornell Medicine-Qatar,
+Doha, Qatar.
+(4)Faculta di Medicina e Chirurgia, Universita Cattolica del Sacro Cuero, Rome,
+Italy.
+(5)Translational Genetics and Bioinformatics Section, Research Division, Sidra
+Medicine, Doha, Qatar.
+(6)Qatar Computing Research Institute, Hamad Bin Khalifa University, Doha, Qatar.
+(7)Department of Medical Oncology, National Center for Cancer Care and Research, 
+Hamad Medical Corporation, Doha, Qatar.
+(8)Department of Population Sciences, City of Hope, Duarte, CA, United States.
+(9)Department of Laboratory Medicine at UCSF, San Francisco, CA, United States.
+(10)Helen Diller Family Comprehensive Cancer Center at UCSF, San Francisco, CA,
+United States.
+(11)Division of General Internal Medicine, Department of Medicine, Institute for 
+Human Genetics at UCSF, San Francisco, CA, United States.
+(12)Service de Cancérologie Radiothérapie, CHU Farhat Hached, Sousse, Tunisia.
+(13)Laboratoire d'Immuno-Oncologie Moléculaire, Faculté de Médecine de Monastir, 
+Université de Monastir, Monastir, Tunisia.
+(14)Tumor Biology Section, Research Division, Sidra Medicine, Doha, Qatar.
+
+Triple-negative breast cancer (TNBC) accounts for ~15-20% of breast cancer (BC)
+and has a higher rate of early relapse and mortality compared to other subtypes. 
+The Chemokine (C-C motif) ligand 5 (CCL5) and its signaling pathway have been
+linked to TNBC. We aimed to investigate the susceptibility and prognostic
+implications of genetic variation in CCL5 signaling genes in TNBC in the present 
+study. We characterized variants in CCL5 and that of six other CCL5 signaling
+genes (CCND1, ZMIZ1, CASP8, NOTCH2, MAP3K21, and HS6ST3) among 1,082 unrelated
+Tunisian subjects (544 BC patients, including 196 TNBC, and 538 healthy
+controls), assessed the association of the variants with BC-specific overall
+survival (OVS) and progression-free survival (PFS), and correlated CCL5 mRNA and 
+serum levels with CCL5 genotypes. We found a highly significant association
+between the CCND1 rs614367-TT genotype (OR = 5.14; P = 0.004) and TNBC risk, and 
+identified a significant association between the rs614367-T allele and decreased 
+PFS in TNBC. A decreased risk of lymph node metastasis was associated with the
+MAP3K21 rs1294255-C allele, particularly in rs1294255-GC (OR = 0.47; P = 0.001). 
+CCL5 variants (rs2107538 and rs2280789) were linked to CCL5 serum and mRNA
+levels. In the TCGA TNBC/Basal-like cohort the MAP3K21 rs1294255-G allele was
+associated with a decreased OVS. High expression of CCL5 in breast tumors was
+significantly associated with an increased OVS in all BC patients, but
+particularly in TNBC/Basal-like patients. In conclusion, genetic variation in
+CCL5 signaling genes may predict not only TNBC risk but also disease
+aggressiveness.
+
+Copyright © 2019 Shan, Chouchane, Mokrab, Saad, Boujassoum, Sayaman, Ziv,
+Bouaouina, Remadi, Gabbouj, Roelands, Ma, Bedognetti and Chouchane.
+
+DOI: 10.3389/fonc.2019.01328 
+PMCID: PMC6915105
+PMID: 31921621 
+

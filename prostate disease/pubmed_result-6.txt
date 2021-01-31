@@ -1,0 +1,46 @@
+
+1. Mol Carcinog. 1992;5(4):320-7.
+
+Expression of c-erb B-2/neu proto-oncogene in human prostatic cancer tissues and 
+cell lines.
+
+Zhau HE(1), Wan DS, Zhou J, Miller GJ, von Eschenbach AC.
+
+Author information: 
+(1)Department of Urology, University of Texas M.D. Anderson Cancer Center,
+Houston 77030.
+
+Both amplification and overexpression of c-erb B-2/neu have been associated with 
+the progression and possible prognosis of a number of human cancers. In this
+study, we demonstrated that c-erb B-2/neu may also play an important role in
+human prostate cancer. Our conclusion is based on the following observations: (1)
+A monoclonal antibody raised against a peptide sequence from the C-terminal
+domain of the human c-erb B-2/neu gene product reacted positively with 68.7% (11 
+of 16) of the human prostatic cancer tissue extracts analyzed by western blot
+procedure. These results were supported by the immunohistochemical staining of
+the prostatic cancer specimens; 80% (12 of 15) showed positive staining,
+primarily around the plasma membranes of the prostatic cancer cells. c-erb
+B-2/neu oncoprotein was not detectable in normal prostate tissues (five examined 
+by immunohistochemical staining and three by western blotting) or in human benign
+prostatic hyperplasia (two examined by immunohistochemical staining and six by
+western blotting) and was expressed less abundantly with lower intensity in
+"normal" human prostate tissues adjacent to cancerous prostate tissue (5 of 12
+examined by immunohistochemical staining). We observed no evidence of c-erb
+B-2/neu gene amplification in 10 fresh human prostatic cancer specimens examined 
+by Southern blotting and in the cultured human prostatic cancer cell lines PC-3, 
+DU-145, and LNCaP. (2) The c-erb B-2/neu protein was detected in both
+androgen-receptor-positive (LNCaP) and -negative (PC-3 and DU-145) human prostate
+cancer cell lines. Positive immunostaining of c-erb B-2/neu protein was found to 
+be associated predominantly with the plasma membranes of PC-3 cells, but was also
+found to be widespread in the cytoplasmic region of the LNCaP cells and in the
+perinuclear region of the DU-145 cells. (3) Like prostate-specific antigen (PSA) 
+expression, c-erb B-2/neu mRNA expression was also positively regulated by
+androgen in androgen-receptor-positive LNCaP cells in vitro and LNCaP tumors in
+vivo. When LNCaP tumors were grown in castrated male hosts, levels of c-erb
+B-2/neu and PSA mRNA expression decreased initially, but rebounded at 3 wk to
+levels comparable to those expressed by tumors maintained in intact adult male
+hosts.
+
+DOI: 10.1002/mc.2940050413 
+PMID: 1353965  [Indexed for MEDLINE]
+

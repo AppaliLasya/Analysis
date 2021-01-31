@@ -1,0 +1,42 @@
+
+1. Biochem J. 2020 Jan 17;477(1):137-160. doi: 10.1042/BCJ20190596.
+
+A lysosome independent role for TFEB in activating DNA repair and inhibiting
+apoptosis in breast cancer cells.
+
+Slade L(1), Biswas D(1), Ihionu F(1), El Hiani Y(2), Kienesberger PC(1),
+Pulinilkunnil T(1).
+
+Author information: 
+(1)Department of Biochemistry and Molecular Biology, Dalhousie University,
+Dalhousie Medicine New Brunswick, Saint John, NB, Canada.
+(2)Department of Physiology and Biophysics, Faculty of Medicine, Dalhousie
+University, Halifax, Nova Scotia, Canada.
+
+Transcription factor EB (TFEB) is a master regulator of lysosomal biogenesis and 
+autophagy with critical roles in several cancers. Lysosomal autophagy promotes
+cancer survival through the degradation of toxic molecules and the maintenance of
+adequate nutrient supply. Doxorubicin (DOX) is the standard of care treatment for
+triple-negative breast cancer (TNBC); however, chemoresistance at lower doses and
+toxicity at higher doses limit its usefulness. By targeting pathways of survival,
+DOX can become an effective antitumor agent. In this study, we examined the role 
+of TFEB in TNBC and its relationship with autophagy and DNA damage induced by
+DOX. In TNBC cells, TFEB was hypo-phosphorylated and localized to the nucleus
+upon DOX treatment. TFEB knockdown decreased the viability of TNBC cells while
+increasing caspase-3 dependent apoptosis. Additionally, inhibition of the
+TFEB-phosphatase calcineurin sensitized cells to DOX-induced apoptosis in a TFEB 
+dependent fashion. Regulation of apoptosis by TFEB was not a consequence of
+altered lysosomal function, as TFEB continued to protect against apoptosis in the
+presence of lysosomal inhibitors. RNA-Seq analysis of MDA-MB-231 cells with TFEB 
+silencing identified a down-regulation in cell cycle and homologous recombination
+genes while interferon-γ and death receptor signaling genes were up-regulated. In
+consequence, TFEB knockdown disrupted DNA repair following DOX, as evidenced by
+persistent γH2A.X detection. Together, these findings describe in TNBC a novel
+lysosomal independent function for TFEB in responding to DNA damage.
+
+© 2020 The Author(s). Published by Portland Press Limited on behalf of the
+Biochemical Society.
+
+DOI: 10.1042/BCJ20190596 
+PMID: 31820786 
+

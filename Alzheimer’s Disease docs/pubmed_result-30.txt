@@ -1,0 +1,34 @@
+
+1. Am J Alzheimers Dis Other Demen. 2014 Dec;29(8):732-4. doi:
+10.1177/1533317514536599. Epub 2014 Jun 6.
+
+Clinical presentation of early-onset Alzheimer's disease as a result of mutation 
+in exon 12 of the PSEN-1 gene.
+
+Klimkowicz-Mrowiec A(1), Bodzioch M(2), Szczudlik A(2), Slowik A(2).
+
+Author information: 
+(1)Department of Neurology, Jagiellonian University School of Medicine,
+Botaniczna, Krakow, Poland aleksandra.klimkowicz@mp.pl.
+(2)Department of Neurology, Jagiellonian University School of Medicine,
+Botaniczna, Krakow, Poland.
+
+INTRODUCTION: Mutations in the gene for presenilin 1 (PSEN-1) cause familial,
+early-onset Alzheimer's disease (EOAD). Diagnosis of EOAD is often a challenge
+because of the high frequency of atypical presentations. Clinical manifestation
+of EOAD may vary depending on underlying mutation; specific genetic mutations
+influence development of specific clinical phenotypes; however, intrafamilial
+phenotypic heterogeneity has also been noted in some pedigrees.
+CASE PRESENTATION: We report a case of a 36-year-old woman presenting with
+progressive behavioral disturbances, dementia, involuntary movements, pyramidal
+signs, epilepsy, and a family history of early-onset dementia accompanied by
+involuntary movements. On genetic testing, the mutation at codon 424 (Leu→Arg) in
+PSEN-1 gene was identified.
+CONCLUSION: Our case describes a new phenotype of a known mutation of PSEN-1 at
+codon 424.
+
+© The Author(s) 2014.
+
+DOI: 10.1177/1533317514536599 
+PMID: 24906965  [Indexed for MEDLINE]
+

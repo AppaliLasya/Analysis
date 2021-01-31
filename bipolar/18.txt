@@ -1,0 +1,42 @@
+
+1. J Affect Disord. 2011 Aug;132(3):450-3. doi: 10.1016/j.jad.2011.03.018. Epub 2011
+Mar 30.
+
+Increased DNA methylation status of the serotonin receptor 5HTR1A gene promoter
+in schizophrenia and bipolar disorder.
+
+Carrard A(1), Salzmann A, Malafosse A, Karege F.
+
+Author information: 
+(1)Geneva University Hospitals, Department of Medical Genetics and Laboratory, 2 
+ch Petit Bel-Air, 1225 Chêne-Bourg, Switzerland. Anthony.Carrard@hcuge.ch
+
+Comment in
+    Epigenomics. 2011 Oct;3(5):537-8.
+
+BACKGROUND: Epigenetic changes may play a role in the etiology of psychotic
+diseases. It has been demonstrated that the serotonin receptor, 5HTR1A, is
+implicated in schizophrenia (SCZ) and bipolar disorder (BPD). The aim of this
+study was to investigate the methylation status of a promoter region of the
+5HTR1A gene in BPD and SCZ patients.
+METHODS: Our study included 58 BPD and 40 SCZ (DSM-IV criteria) as well as 67
+control subjects. DNA was extracted from blood leukocytes and high-resolution
+melt (HRM) method was used for analysis.
+RESULTS: Non-parametric analysis of variance (Kruskal-Wallis) within groups was
+significant: H=67.6; p<0.0001. The Mann-Whitney U-test showed increased
+methylation level in both BPD (Z=-7.4; p<0.0001) and SCZ (Z=4.2; p<0.0001)
+compared to controls. No effect either of age or gender by own, was observed.
+ANCOVA revealed a modest effect of age/gender covariance (F=3.99; p<0.048).
+LIMITATION: We used a peripheral tissue. The relationship between methylation of 
+blood and brain DNA is not well known. Data need to be replicated in a brain
+tissue.
+CONCLUSION: We observed increased DNA methylation in the promoter region of the
+5HTR1A gene of SCZ and BPD. This could explain the reported decrease of the
+receptor expression. The current study supports the growing interest of DNA
+methylation in psychopathology.
+
+Copyright © 2011 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jad.2011.03.018 
+PMID: 21453976  [Indexed for MEDLINE]
+

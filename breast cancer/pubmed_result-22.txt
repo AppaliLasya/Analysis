@@ -1,0 +1,41 @@
+
+1. Contemp Oncol (Pozn). 2019;23(4):220-225. doi: 10.5114/wo.2019.91544. Epub 2019
+Dec 30.
+
+A computational approach to the study of interactions between proteins and
+miR10-b, miR-335, and miR-21 involved in breast cancer.
+
+Hammou RA(1), Kasmi Y(1), Ennaji MM(1).
+
+Author information: 
+(1)Team of Virology, Oncology, and Medical Biotechnologies, Laboratory of
+Virology, Microbiology, Quality, and Biotechnologies/ETB, Faculty of Sciences and
+Techniques, University Hassan II of Casablanca, Mohammedia, Morocco.
+
+MiR-10b, miR-335, and miR-21 are classes of microRNAs (miRNAs) that are
+overexpressed in breast cancer. Thus, in our study we aimed to test the
+hypothesis that miRNAs may have direct interactions with proteins and the
+possibility to inhibit/activate the functional site of proteins and enzymes. For 
+this purpose, we choose three miRNAs involved in breast cancer to study
+interactions between some proteins and genes, including BRCA1 and PTEN, by
+processing the docking and matching tools using the Hex8 and HADDOCK server.
+Mathematically, the hidden Markov models were created by using MATLAB script
+according to the algorithm in order to study and validate the interactions and
+bonds between proteins and miRNAs. The main results demonstrate the ability of
+miR-10b, miR-335, and miR-21 to create direct interactions with 3D protein
+structures. Furthermore, these results may lead to another pathway of research,
+i.e. the direct interaction between proteins and their sub-units, to highlight
+the data obtained previously and demonstrate that proteins may directly interact 
+with ncRNA instead of mRNA. Moreover, our study suggests developing research on
+different pathways of association proteins-miRNAs as a part of epigenetic
+extra-nuclear regulation. Taken together, our study provides the first evidence
+of direct interactions between miRNAs and proteins.
+
+Copyright © 2019 Termedia.
+
+DOI: 10.5114/wo.2019.91544 
+PMCID: PMC6978763
+PMID: 31992954 
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

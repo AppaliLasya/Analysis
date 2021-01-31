@@ -1,0 +1,22 @@
+
+1. Science. 1987 Mar 13;235(4794):1390-2.
+
+Beta amyloid gene duplication in Alzheimer's disease and karyotypically normal
+Down syndrome.
+
+Delabar JM, Goldgaber D, Lamour Y, Nicole A, Huret JL, de Grouchy J, Brown P,
+Gajdusek DC, Sinet PM.
+
+With the recently cloned complementary DNA probe, lambda Am4 for the chromosome
+21 gene encoding brain amyloid polypeptide (beta amyloid protein) of Alzheimer's 
+disease, leukocyte DNA from three patients with sporadic Alzheimer's disease and 
+two patients with karyotypically normal Down syndrome was found to contain three 
+copies of this gene. Because a small region of chromosome 21 containing the ets-2
+gene is duplicated in patients with Alzheimer's disease, as well as in
+karyotypically normal Down syndrome, duplication of a subsection of the critical 
+segment of chromosome 21 that is duplicated in Down syndrome may be the genetic
+defect in Alzheimer's disease.
+
+DOI: 10.1126/science.2950593 
+PMID: 2950593  [Indexed for MEDLINE]
+

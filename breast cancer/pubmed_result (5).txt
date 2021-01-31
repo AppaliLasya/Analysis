@@ -1,0 +1,61 @@
+
+1. Front Oncol. 2019 Apr 25;9:323. doi: 10.3389/fonc.2019.00323. eCollection 2019.
+
+Neoadjuvant Chemotherapy Alters Neuropilin-1, PlGF, and SNAI1 Expression Levels
+and Predicts Breast Cancer Patients Response.
+
+Al-Zeheimi N(1), Naik A(2), Bakheit CS(3), Al Riyami M(4), Al Ajarrah A(5), Al
+Badi S(4), Al Baimani K(6), Malik K(7), Al Habsi Z(5), Al Moundhri MS(6), Adham
+SA(1).
+
+Author information: 
+(1)Department of Biology, College of Science, Sultan Qaboos University, Muscat,
+Oman.
+(2)Qatar Biomedical Research Institute, Hamad Bin Khalifa University, Doha,
+Qatar.
+(3)Department of Mathematics and Statistics, Sultan Qaboos University, Muscat,
+Oman.
+(4)Department of Pathology, College of Medicine, Sultan Qaboos University,
+Muscat, Oman.
+(5)Department of Surgery, Sultan Qaboos University Hospital, Muscat, Oman.
+(6)Medical Oncology Unit, Department of Medicine, College of Medicine, Sultan
+Qaboos University Hospital, Muscat, Oman.
+(7)Department of Surgery, Wrexham Maelor Hospital, Wrexham, United Kingdom.
+
+Circulating proteins hold a potential benefit as biomarkers for precision
+medicine. Previously, we showed that systemic levels of neuropilin-1 (NRP-1) and 
+its associated molecules correlated with poor-prognosis breast cancer. To further
+identify the role of NRP-1 and its interacting molecules in correspondence with
+patients' response to neoadjuvant chemotherapy (NAC), we conducted a comparative 
+study on blood and tissue samples collected from a cohort of locally advanced
+breast cancer patients, before and after neoadjuvant chemotherapy (NAC). From a
+panel of tested proteins and genes, we found that the levels of plasma NRP-1,
+placenta growth factor (PlGF) and immune cell expression of the transcription
+factor SNAI1 before and after NAC were significantly different. Paired t-test
+analysis of 22 locally advanced breast cancer patients showed that plasma NRP-1
+levels were increased significantly (p = 0.018) post-NAC in patients with
+pathological partial response (pPR). Kaplan-Meier analysis indicated that
+patients who received NAC cycles and their excised tumors remained with high
+levels of NRP-1 had a lower overall survival compared with patients whose tissue 
+NRP-1 decreased post-NAC (log-rank p = 0.049). In vitro validation of the former 
+result showed an increase in the secreted and cellular NRP-1 levels in resistant 
+MDA-MB-231 cells to the most common NAC regimen
+Adriyamicin/cyclophosphamide+Paclitaxel (AC+PAC). In addition, NRP-1 knockdown in
+MDA-MB-231 cells sensitized the cells to AC and more profoundly to PAC treatment 
+and the cells sensitivity was proportional to the expressed levels of NRP-1.
+Unlike NRP-1, circulating PlGF was significantly increased (p = 0.014) in
+patients with a pathological complete response (pCR). SNAI1 expression in immune 
+cells showed a significant increase (p = 0.018) in patients with pCR, consistent 
+with its posited protective role. We conclude that increased plasma and tissue
+NRP-1 post-NAC correlate with pPR and shorter overall survival, respectively.
+These observations support the need to consider anti-NRP-1 as a potential
+targeted therapy for breast cancer patients who are identified with high NRP-1
+levels. Meanwhile, the increase in both PlGF and SNAI1 in pCR patients
+potentially suggests their antitumorigenic role in breast cancer that paves the
+way for further mechanistic investigation to validate their role as potential
+predictive markers for pCR in breast cancer.
+
+DOI: 10.3389/fonc.2019.00323 
+PMCID: PMC6494932
+PMID: 31106153 
+

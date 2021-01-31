@@ -1,0 +1,27 @@
+
+1. Proc Natl Acad Sci U S A. 1988 Oct;85(20):7675-9.
+
+Human ETS2 gene on chromosome 21 is not rearranged in Alzheimer disease.
+
+Sacchi N(1), Nalbantoglu J, Sergovich FR, Papas TS.
+
+Author information: 
+(1)Laboratory of Molecular Oncology, National Cancer Institute, Frederick, MD
+21701-1013.
+
+The human ETS2 gene, a member of the ETS gene family, with sequence homology with
+the retroviral ets sequence of the avian erythroblastosis retrovirus E26 is
+located on chromosome 21. Molecular genetic analysis of Down syndrome (DS)
+patients with partial trisomy 21 allowed us to reinforce the supposition that
+ETS2 may be a gene of the minimal DS genetic region. It was originally proposed
+that a duplication of a portion of the DS region represents the genetic basis of 
+Alzheimer disease, a condition associated also with DS. No evidence of either
+rearrangements or duplications of ETS2 could be detected in DNA from fibroblasts 
+and brain tissue of Alzheimer disease patients with either the sporadic or the
+familiar form of the disease. Thus, an altered ETS2 gene dosage does not seem to 
+be a genetic cause or component of Alzheimer disease.
+
+DOI: 10.1073/pnas.85.20.7675 
+PMCID: PMC282255
+PMID: 2902635  [Indexed for MEDLINE]
+

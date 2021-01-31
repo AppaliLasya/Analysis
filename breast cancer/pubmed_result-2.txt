@@ -1,0 +1,163 @@
+
+1. Int J Immunogenet. 2020 Feb 11. doi: 10.1111/iji.12480. [Epub ahead of print]
+
+MICA-129 Met/Val polymorphism could be a genetic biomarker for Familial Breast
+Cancer in the Tunisian population.
+
+Ouni N(1)(2), Ben Chaaben A(1), Ayari F(1)(2), Douik H(1), Guizani I(2)(3),
+Benammar-Elgaaied A(4), Guemira F(1), Tamouza R(5)(6)(7).
+
+Author information: 
+(1)Clinical Biology Department, Salah Azaiz Institut, Tunis, Tunisia.
+(2)Faculty of Mathematics, Physics and Natural Sciences, University of Tunis El
+Manar, Tunis, Tunisia.
+(3)Faculty of Medicine of Tunis, CHU la Rabta, Laboratory of Biochemistry, Tunis,
+Tunisia.
+(4)Immunology Department, Faculty of Mathematics, Physics, and Natural Sciences, 
+Tunis El Manar University, Tunis, Tunisia.
+(5)INSERM U955, Translational Psychiatry, Creteil, France.
+(6)Fondation FondaMental, Creteil, France.
+(7)Department of Psychiatry, AP-HP, DHU PePSY, Hôpital Henri Mondor, Université
+Paris-Est-Creteil, Creteil, France.
+
+Identification of candidate genes associated with susceptibility of breast cancer
+can have a significant impact at a cancer management national healthcare systems 
+level, making genetic testing more affordable and cost-effective. We have
+previously shown that the major histocompatibility complex class I-related chain 
+A (MICA) was related to breast cancer and plays an important role in modulating
+immune response mechanisms through NKG2D receptor activation. Compared to our
+previous study, in this work, we recruited a new cohort composed of 354 unrelated
+Tunisian women affected by breast cancer and 380 age-matched women as controls,
+all genotyped for MICA-129 Met/Val (rs 1051792). Subsequently, we exanimated the 
+distribution of this polymorphism in ten families. As a result, an association
+was found between the Val allele and Val/Val genotype and the risk of breast
+cancer (p = 2.5 × 10-15 ; OR = 2.40; p = 6.5 × 10-13 ; OR = 3.03, respectively). 
+Stratified analysis with age and family history of cancer revealed an association
+between the Val/Val genotype and younger patients <40 years (p = .003;
+OR = 2.03). Among those patients having a family history of cancer, 68% had a
+Val/Val genotype (p = .02; OR = 1.82). In the family study, an analyse of
+pedigrees revealed that the majority of families showed the development of breast
+cancer at a young age. Moreover, all patients diagnosed with early-onset breast
+cancer had a Val/Val genotype. Our results lead us to propose that this
+polymorphism may be an inherited genetic biomarker contributing to an increased
+breast cancer risk in Tunisian women.
+
+© 2020 John Wiley & Sons Ltd.
+
+DOI: 10.1111/iji.12480 
+PMID: 32048423 
+
+
+2. Carcinogenesis. 2020 Feb 12. pii: bgaa010. doi: 10.1093/carcin/bgaa010. [Epub
+ahead of print]
+
+GLIS1, a novel hypoxia-inducible transcription factor, promotes breast cancer
+cell motility via activation of WNT5A.
+
+Shimamoto K(1), Tanimoto K(1), Fukazawa T(2), Nakamura H(3), Kanai A(4), Bono
+H(5), Ono H(5), Eguchi H(6), Hirohashi N(1).
+
+Author information: 
+(1)Department of Radiation Disaster Medicine, Research Institute for Radiation
+Biology and Medicine, Hiroshima University, Hiroshima, Japan.
+(2)Natural Science Center for Basic Research and Development, Hiroshima
+University, Hiroshima, Japan.
+(3)Department of Transfusion Medicine, Saga University Hospital, Saga, Japan.
+(4)Department of Molecular Oncology, Research Institute for Radiation Biology and
+Medicine, Hiroshima University, Hiroshima, Japan.
+(5)Database Center for Life Science, Joint Support-Center for Data Science
+Research, Research Organization of Information and Systems, Mishima, Japan.
+(6)Diagnosis and Therapeutics of Intractable Diseases and Intractable Disease
+Research Center, Juntendo University Graduate School of Medicine, Tokyo, Japan.
+
+We previously demonstrated that expression of a Krüppel-like zinc finger
+transcription factor, GLIS1, dramatically increases under hypoxic conditions via 
+a transcriptional mechanism induced by HIF-2α co-operating with AP-1 members. In 
+this study, we focused on the functional roles of GLIS1 in breast cancer. To
+uncover its biological function, the effects of altered levels of GLIS1 in breast
+cancer cell lines on cellular growth, wound-healing, and invasion capacities were
+assessed. Knockdown of GLIS1 using siRNA in BT-474 cells resulted in significant 
+growth stimulation under normoxia, while attenuation was found in the cell
+invasion assay under hypoxic conditions. In MDA-MB-231 cells expressing exogenous
+3xFLAG-tagged GLIS1, GLIS1 attenuated cell proliferation and enhanced cell
+mobility and invasion capacities under normoxia. In addition, breast cancer cells
+expressing GLIS1 acquired resistance to irradiation. Whole transcriptome analysis
+clearly demonstrated that downstream signals of GLIS1 are related to various
+cellular functions. Among the genes with increased expression, we focused on
+WNT5A. Knockdown of WNT5A indicated that enhancement of acquired cell motility in
+the MDA-MB-231 cells expressing GLIS1 was mediated, at least in part, by WNT5A.
+In an analysis of publicly available data, patients with estrogen receptor
+negative breast cancer showing high levels of GLIS1 expression showed much worse 
+prognosis than those with low levels. In summary, hypoxia-induced GLIS1 plays
+significant roles in breast cancer cells via regulation of gene expression
+related to cell migration and invasion capacities, resulting in poorer prognosis 
+in patients with advanced breast cancer.
+
+© The Author(s) 2020. Published by Oxford University Press. All rights reserved. 
+For Permissions, please email: journals.permissions@oup.com.
+
+DOI: 10.1093/carcin/bgaa010 
+PMID: 32047936 
+
+
+3. J Cancer. 2020 Jan 14;11(6):1568-1583. doi: 10.7150/jca.37637. eCollection 2020.
+
+Tumour-Infiltrating Immune Cell-Based Subtyping and Signature Gene Analysis in
+Breast Cancer Based on Gene Expression Profiles.
+
+Jiang J(1)(2), Pan W(1)(2), Xu Y(1)(2), Ni C(1)(2), Xue D(3)(2), Chen Z(1)(2),
+Chen W(1)(2), Huang J(1)(2).
+
+Author information: 
+(1)Department of Breast Surgery (Surgical Oncology), Second Affiliated Hospital, 
+Zhejiang University School of Medicine, Hangzhou, China.
+(2)Key Laboratory of Tumor Microenvironment and Immune Therapy of Zhejiang
+Province, Hangzhou, China.
+(3)Department of Plastic Surgery, Second Affiliated Hospital, Zhejiang University
+School of Medicine, Hangzhou, China.
+
+Tumour-infiltrating immune cells have been indicated to play an important role in
+prognosis prediction and therapy sensitivity for breast cancer. In recent years, 
+estimating the abundance of immune cells based on tumour transcriptome data has
+provided a novel way to analyse the clinical significance of various immune cell 
+subsets. This study integrated breast cancer tissue transcriptome datasets from
+the Gene Expression Omnibus (GEO), the Cancer Genome Atlas-Breast Cancer
+(TCGA-BRCA) and the Molecular Taxonomy of Breast Cancer International Consortium 
+(METABRIC) cohorts. A novel breast cancer immunotyping and a new prognostic model
+based on tumour-infiltrating immune cell subsets have been established, aiming to
+provide new clues regarding prognostic prediction and precision therapy for
+breast cancer. The key differentially expressed gene between different breast
+cancer immunotypes has also been identified. We performed unsupervised clustering
+analysis and construct a novel immunotyping which could classify breast cancer
+cases into immunotype A (B_cellhigh NKhigh CD8+_Thigh CD4+_memory_T_activatedhigh
+γδTlow Mast_cell_activatedlow Neutrophillow) and immunotype B (B_celllow NKlow
+CD8+_Tlow CD4+_memory_T_activatedlow γδThigh Mast_cell_activatedhigh
+Neutrophilhigh) in luminal B, HER2-enriched and basal-like subtypes. The 5-year
+(85.7% vs. 73.4%) and 10-year OS (75.60% vs. 61.73%) of immunotype A population
+were significantly higher than those of immunotype B. A novel tumour-infiltrating
+immune cell-based prognostic model had also been established and the result
+immunorisk score (IRS) could serve as a new prognostic factor for luminal B,
+HER2-enriched and basal-like breast cancer. The higher IRS was, the worse
+prognosis was. We further screened the differentially expressed genes between
+immunotype A and B and identified a novel breast cancer immune-related gene,
+prostaglandin D2 synthase (PTGDS) and higher PTGDS mRNA expression level was
+positively correlated with earlier TNM stage. Immune-related signaling pathways
+analysis and immune cell subsets correlation analysis revealed that PTGDS
+expression was related with abundance of B cells, CD4+ T cells and CD8+ T cells, 
+which was finally validated by immunohistochemical and immunofluorescence
+staining. We established a novel immunotyping and a tumour-infiltrating immune
+cell-based prognostic prediction model in luminal B, HER2-enriched and basal-like
+breast cancer by analyzing the prognostic significance of multiple immune cell
+subsets. A novel breast cancer immune signature gene PTDGS was discovered, which 
+might serve as a protective prognostic factor and play an important role in
+breast cancer development and lymphocyte-related immune response.
+
+© The author(s).
+
+DOI: 10.7150/jca.37637 
+PMCID: PMC6995381
+PMID: 32047563 
+
+Conflict of interest statement: Competing Interests: The authors have declared
+that no competing interest exists.
+

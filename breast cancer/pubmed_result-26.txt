@@ -1,0 +1,48 @@
+
+1. Cancer. 2020 Jan 22. doi: 10.1002/cncr.32715. [Epub ahead of print]
+
+Breast cancer screening implications of risk modeling among female relatives of
+ATM and CHEK2 carriers.
+
+Weidner AE(1), Liggin ME(1)(2), Zuniga BI(1), Tezak AL(1), Wiesner GL(1)(3), Pal 
+T(1)(3).
+
+Author information: 
+(1)Division of Genetic Medicine, Department of Medicine, Vanderbilt University
+Medical Center, Nashville, Tennessee.
+(2)Department of Biology, Tennessee State University, Nashville, Tennessee.
+(3)Division of Genetic Medicine, Department of Medicine, Vanderbilt-Ingram Cancer
+Center, Nashville, Tennessee.
+
+BACKGROUND: With the increasing use of multigene panel tests, pathogenic and
+likely pathogenic (P/LP) variants are identified more frequently in the
+moderate-penetrance breast cancer genes ATM and CHEK2. Lifetime breast cancer
+risk among women with P/LP variants in these genes generally exceeds 20%, meeting
+the threshold at which high-risk breast cancer screening through breast magnetic 
+resonance imaging (MRI) is recommended.
+METHODS: Among a registry-based sample of 56 ATM and 69 CHEK2 carriers, the
+authors sought to determine the percentage of relatives in whom a P/LP variant
+would impact breast cancer surveillance. Lifetime breast cancer risks for
+unaffected, female first-degree and second-degree relatives were estimated using 
+the Breast and Ovarian Analysis of Disease Incidence and Carrier Estimation
+Algorithm (BOADICEA).
+RESULTS: Among first-degree relatives of ATM and CHEK2 carriers, only 22.6% and
+14.9%, respectively, were found to have lifetime breast cancer risks of ≥20%
+based on family cancer history alone; however, when including the proband's P/LP 
+variant in the model, these percentages increased significantly to 56.6% and
+55.3%, respectively (P < .0001 and P < .0001, respectively). Similar increases in
+lifetime breast cancer risks were found among second-degree relatives.
+CONCLUSIONS: The results of the current study suggest that the majority of female
+first-degree and second-degree relatives of ATM and CHEK2 carriers do not qualify
+for breast MRI based on family cancer history alone. Therefore, testing for these
+genes, as well as awareness of positive moderate-penetrance breast cancer gene
+results in the family, may impact MRI eligibility. These findings highlight the
+potential usefulness of and need for breast cancer risk models that incorporate
+moderate-penetrance gene positivity to inform screening recommendations among
+at-risk family members.
+
+© 2020 American Cancer Society.
+
+DOI: 10.1002/cncr.32715 
+PMID: 31967672 
+

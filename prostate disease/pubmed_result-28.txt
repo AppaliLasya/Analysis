@@ -1,0 +1,57 @@
+
+1. J Natl Cancer Inst. 1996 May 1;88(9):607-11.
+
+CWR22 xenograft as an ex vivo human tumor model for prostate cancer gene therapy.
+
+Cheng L(1), Sun J, Pretlow TG, Culp J, Yang NS.
+
+Author information: 
+(1)Institute of Pathology, School of Medicine, Case Western Reserve University,
+Cleveland, OH, USA.
+
+BACKGROUND: Lack of well-defined relevant in vivo or in vitro tumor models is one
+of the major limitations in assessing candidate therapeutic regimens, especially 
+gene therapy, for prostate cancer. Since gene therapy is emerging as a
+potentially powerful therapeutic modality, it is desirable to evaluate this
+approach for the treatment of human prostate cancer.
+PURPOSE: We sought to establish a relevant ex vivo tumor model for gene therapy
+studies of human prostate cancer.
+METHODS: We constructed and established a transgenic human tumor model consisting
+of three major components: 1) human primary prostate cancer cells, CWR22,
+reactivated for growth after storage in liquid nitrogen; 2) a collagen gel ex
+vivo tissue culture system useful for short-term maintenance and manipulation of 
+CWR22 cells under in vitro experimental conditions; and 3) a high-velocity,
+particle-mediated gene transfer system that is highly efficient in the ex vivo
+transfection of target cells. Prostate-specific antigen (PSA) levels in the cell 
+culture media were monitored after transfecting CWR22 cells with candidate
+therapeutic genes, including the cytokines human interleukin 2 (IL-2) and
+granulocyte-macrophage colony-stimulating factor (GM-CSF), both as complementary 
+DNAs [cDNAs]). CWR22 cells, transfected with firefly luciferase cDNA as a
+reporter gene, served as control cells for cytokine gene expression. CWR22 cells,
+transfected with the bacterial beta-galactosidase cDNA as a reporter gene, were
+used to assess the efficiency of gene transfer. Transcription of each of the
+cDNAs was driven by the cytomegalovirus (CMV) early gene promoter.
+RESULTS: The three-dimensional organization of tumor cells and functional
+characteristics of human prostate cancers were maintained in this ex vivo model
+of prostate cancer. Candidate therapeutic genes, CMV-IL-2 and CMV-GM-CSF, were
+expressed at peak levels of up to 38 ng of protein per 10(6) cells every 24
+hours. IL-2 and GM-CSF secretion was sustained at approximately 40%-50% of peak
+levels during the entire experimental period (9-10 days in culture). At 7 days
+after gene delivery, a more than twofold reduction in the secretion of PSA was
+detected in the IL-2 (3.8 +/- 1.3 ng/10(4) cells every 24 hours [mean +/-
+standard deviation]) or GM-CSF (4.0 +/- 1.7 ng/10(4) cells every 24 hours) cDNA
+transfected cells as compared with the control cells transfected with luciferase 
+cDNA (9.3 +/- 1.0 ng/10(4) cells every 24 hours). Up to 10% of the cells
+transfected with beta-galactosidase cDNA expressed measurable beta-galactosidase 
+activity.
+CONCLUSION: This study demonstrated an efficient, rapid, and reliable system for 
+gene transfer and expression in primary human prostatic carcinoma cells
+maintained in a collagen gel culture system.
+IMPLICATIONS: Our findings suggest a broad application of this CWR22 xenograft
+primary culture system as an ex vivo tumor model for the evaluation and
+characterization of various candidate therapeutic genes for human prostate cancer
+gene therapy, including a cytokine gene-modified tumor vaccine strategy.
+
+DOI: 10.1093/jnci/88.9.607 
+PMID: 8609662  [Indexed for MEDLINE]
+

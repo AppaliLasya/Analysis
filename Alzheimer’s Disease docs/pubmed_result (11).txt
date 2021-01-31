@@ -1,0 +1,32 @@
+
+1. J Alzheimers Dis. 2018;61(4):1275-1281. doi: 10.3233/JAD-170590.
+
+SORL1 Variants in Familial Alzheimer's Disease.
+
+Gómez-Tortosa E(1), Ruggiero M(1), Sainz MJ(1), Villarejo-Galende A(2),
+Prieto-Jurczynska C(3), Venegas Pérez B(3), Ordás C(3), Agüero P(1),
+Guerrero-López R(4), Pérez-Pérez J(5).
+
+Author information: 
+(1)Department of Neurology, Fundación Jiménez Díaz, Madrid, Spain.
+(2)Department of Neurology, Hospital 12 Octubre, Madrid, Spain.
+(3)Department of Neurology, Hospital Infanta Elena, Madrid, Spain.
+(4)Instituto de Investigaciones Sanitarias Fundación Jiménez Díaz (IIS-FJD) and
+CIBERER (Madrid), Madrid, Spain.
+(5)Secugen S.L. Madrid, Spain.
+
+The SORL1 gene encodes a protein involved in the amyloidogenic process, and its
+variants have been associated with Alzheimer's disease (AD) physiopathology. We
+screened for SORL1 variants in 124 familial (44 early- and 80 late-onset)
+dementia of Alzheimer type (DAT) cases. Nine potentially pathogenic changes
+(three not previously reported and six rare variants) were found in nine probands
+(7%). After screening the control population and siblings (presence in at least
+1/200 controls and/or absence of segregation pattern), a causal relationship with
+the disease was considered unlikely in six variants and uncertain in one. The
+change Trp848Ter and a splice-site variant remained likely correlated with the
+disease. SORL1 mutations are present in 7% of our familial DAT cohort, though in 
+most cases cannot be considered the direct cause of the disease.
+
+DOI: 10.3233/JAD-170590 
+PMID: 29376855  [Indexed for MEDLINE]
+

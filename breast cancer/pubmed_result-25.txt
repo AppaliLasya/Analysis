@@ -1,0 +1,62 @@
+
+1. Gene. 2020 Jan 21;734:144381. doi: 10.1016/j.gene.2020.144381. [Epub ahead of
+print]
+
+Targeting LA7 breast cancer stem cells of rat through repressing the genes of
+stemness-related transcription factors using three different biological fluids.
+
+Pourbagher R(1), Akhavan-Niaki H(2), Jorsaraei SGA(3), Fattahi S(2), Sabour D(2),
+Zabihi E(2), Abedian Z(4), Ghasemi M(2), Golpour M(5), Mostafazadeh A(6).
+
+Author information: 
+(1)Student Research Committee, Babol University of Medical Sciences, Babol, Iran;
+Cellular and Molecular Biology Research Center, Health Research Institute, Babol 
+University of Medical Sciences, Babol, Iran.
+(2)Cellular and Molecular Biology Research Center, Health Research Institute,
+Babol University of Medical Sciences, Babol, Iran.
+(3)Fatemeh Zahra Infertility and Reproductive Health Research Centre, Health
+Research Institute, Babol University of Medical Sciences, Babol, Iran.
+(4)Student Research Committee, Babol University of Medical Sciences, Babol, Iran;
+Dental Materials Research Center, Dental Faculty, Babol University of Medical
+Sciences, Babol, Iran.
+(5)Molecular and Cell Biology Research Center, Student Research Committee,
+Faculty of Medicine, Mazandaran University of Medical Sciences, Sari, Iran.
+(6)Cellular and Molecular Biology Research Center, Health Research Institute,
+Babol University of Medical Sciences, Babol, Iran. Electronic address:
+a.mostafazadeh@mubabol.ac.ir.
+
+Down-regulation of stemness genes expression is important in differentiation
+therapy against cancer stem cells (CSCs). The aim of this study was to evaluate
+the Oct4 , Sox2, Nanog, and C-myc expression in rat breast cancer stem cells
+(LA7) which treated with human ovarian follicular fluid (FF), replicative
+senescent fibroblast culture supernatant (P14), and 16 h serum starved fibroblast
+supernatant (16 h-SFS). The cells were exposed to these biological fluids for
+24 h, 72 h, and 7 days. Stem-loop RT-qPCR assay was used to quantify the
+expression of above mentioned genes. Results showed that FF had the least
+cytotoxic effect on the LA7 cells. Except for Nanog gene, exposure of LA7 cell
+line to 16 h-SFS and P14 decreased significantly expression of the three other
+genes after 24 h (P < 0.05). Nanog and Sox2 genes expression was also decreased
+in LA7 cells which have been already treated with FF for 24 h. Moreover, compared
+to the control solution, the expression of Oct4 increased significantly after
+7 days exposure to FF (P < 0.05). Annexin V-PE /7-AAD-, acridine orange/ethidium 
+bromide staining and doubling time assays revealed apoptosis and necrosis
+induction by these biological fluids in LA7 cells. Moreover, in an in vitro model
+of metastasis assay, i.e., scratch test, these fluids exhibited anti-LA7
+migration activity which culminated in 16 h-SFS treated cells. Generally, this
+study showed that FF, 16 h-SFS, and P14 have positive effects on down-regulation 
+of Nanog, Oct4, Sox2 and C-myc expression, and consequently can increase the
+differentiation of breast cancer stem cells. For the first time, this study
+provided some evidence indicating that some biological fluids have potential to
+differentiate the CSCs, show anti- survival, growth-, and cell migration
+activity.
+
+Copyright © 2020. Published by Elsevier B.V.
+
+DOI: 10.1016/j.gene.2020.144381 
+PMID: 31978510 
+
+Conflict of interest statement: Declaration of Competing Interest The authors
+declare that they have no known competing financial interests or personal
+relationships that could have appeared to influence the work reported in this
+paper.
+

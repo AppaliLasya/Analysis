@@ -1,0 +1,54 @@
+
+1. Cancer Prev Res (Phila). 2019 Nov;12(11):763-770. doi:
+10.1158/1940-6207.CAPR-19-0056. Epub 2019 Aug 26.
+
+The NCCN Criterion "Young Age at Onset" Alone is Not an Indicator of Hereditary
+Breast Cancer in Iranian Population.
+
+Ebrahimi E(1)(2), Sellars E(3), Shirkoohi R(1)(2), Harirchi I(2), Ghiasvand R(4),
+Mohebbi E(2), Zendehdel K(5)(2)(6), Akbari MR(7)(8)(9).
+
+Author information: 
+(1)Cancer Biology Research Center, Cancer Institute of Iran, Tehran University of
+Medical Sciences, Tehran, Iran.
+(2)Cancer Research Center, Cancer Institute of Iran, Tehran University of Medical
+Sciences, Tehran, Iran.
+(3)Women's College Research Institute, Women's College Hospital, Toronto, Canada.
+(4)Oslo Centre for Biostatistics and Epidemiology, University of Oslo, Oslo,
+Norway.
+(5)Cancer Biology Research Center, Cancer Institute of Iran, Tehran University of
+Medical Sciences, Tehran, Iran. kzendeh@tums.ac.ir mohammad.akbari@utoronto.ca.
+(6)Breast Diseases Research Center, Cancer Institute of Iran, Tehran University
+of Medical Sciences, Tehran, Iran.
+(7)Women's College Research Institute, Women's College Hospital, Toronto, Canada.
+kzendeh@tums.ac.ir mohammad.akbari@utoronto.ca.
+(8)Dalla Lana School of Public Health, University of Toronto, Toronto, Canada.
+(9)Institute of Medical Science, University of Toronto, Toronto, Canada.
+
+Because the contribution of genetic factors to the burden of breast cancer is not
+well investigated in Iran, we aimed to examine the prevalence of mutations in
+breast cancer susceptibility genes, BRCA1/2 and PALB2, and to investigate the
+predictive potential of hereditary breast cancer risk criteria for genetic
+testing in Iranian population. Next-generation sequencing was conducted on a
+population consisting of 299 and 125 patients with breast cancer, with and
+without hereditary cancer risk criteria for genetic testing, respectively. The
+pathogenic mutation frequency rate was 10.7% in patients with hereditary cancer
+criteria versus 1.6% in no criteria group (P = 0.0017). None of the 107 tested
+patients with only young age at onset (<40) criterion had a pathogenic mutation. 
+Patients who had only a single heritable risk criterion [OR, 6.15; 95% confidence
+interval (CI), 1.26-58.59; P = 0.009] and patients with multiple heritable risk
+criteria (OR, 22.5; 95% CI, 5.19-201.31; P < 0.0001) had higher probabilities of 
+carrying a mutation compared with no criteria group. Our results showed that
+young age at onset alone is not an indicator of hereditary breast cancer at least
+in the Iranian population. This is while women with multiple hereditary breast
+cancer risk criteria were enriched for BRCA1/2 mutations. Given such high risk of
+identification of a disease-causing mutation, multiple hereditary criteria should
+be regarded as a strong predictor for a hereditary breast cancer syndrome. These 
+findings are important concerning the optimization of genetic counseling and
+furthermore establishing criteria for BRCA1/2 testing of the Iranian population.
+
+©2019 American Association for Cancer Research.
+
+DOI: 10.1158/1940-6207.CAPR-19-0056 
+PMID: 31451522 
+

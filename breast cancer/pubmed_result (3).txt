@@ -1,0 +1,51 @@
+
+1. Ann Surg Oncol. 2016 Jan;23(1):163-70. doi: 10.1245/s10434-015-4555-7. Epub 2015 
+Apr 28.
+
+Aldehyde Dehydrogenase 1 Expression Predicts Chemoresistance and Poor Clinical
+Outcomes in Patients with Locally Advanced Cervical Cancer Treated with
+Neoadjuvant Chemotherapy Prior to Radical Hysterectomy.
+
+Xie Q(1)(2), Liang J(1)(2), Rao Q(1), Xie X(1), Li R(1), Liu Y(1), Zhou H(1), Han
+J(3), Yao T(4), Lin Z(5).
+
+Author information: 
+(1)Department of Gynecological Oncology, Sun Yat-sen Memorial Hospital, Sun
+Yat-sen University, Guangzhou, People's Republic of China.
+(2)Key Laboratory of Malignant Tumor Gene Regulation and Target Therapy of
+Guangdong Higher Education Institutes, Sun Yat-sen University, Guangzhou,
+People's Republic of China.
+(3)Department of Pathology, Sun Yat-sen Memorial Hospital, Sun Yat-sen
+University, Guangzhou, People's Republic of China.
+(4)Department of Gynecological Oncology, Sun Yat-sen Memorial Hospital, Sun
+Yat-sen University, Guangzhou, People's Republic of China.
+yaoyaotingting@msn.com.
+(5)Department of Gynecological Oncology, Sun Yat-sen Memorial Hospital, Sun
+Yat-sen University, Guangzhou, People's Republic of China. zhongqiu_lin@163.com.
+
+BACKGROUND: Neoadjuvant chemotherapy (NAC) is an important treatment strategy for
+cervical cancer; however, few predictive markers of the response to NAC exist.
+Aldehyde dehydrogenase 1 (ALDH1), a cancer stem cell marker, is associated with
+chemoresistance in a variety of cancers. This study attempted to investigate the 
+value of ALDH1 as a predictive marker of chemosensitivity and its prognostic
+value in cervical cancer patients treated with NAC.
+METHODS: Immunohistochemistry was used to evaluate ALDH1 expression in matched
+pre- and post-NAC tumor samples from 52 patients with cervical cancer.
+Kaplan-Meier analysis and a Cox proportional hazards regression model were
+applied to determine overall survival (OS) and disease-free survival (DFS).
+RESULTS: Fourteen patients (26.9 %) had ALDH1-positive tumors pre-NAC, and ALDH1 
+expression pre-NAC was significantly associated with a low clinical chemotherapy 
+response rate and clinical non-response. Twenty-two patients (42.3 %) had
+ALDH1-positive tumors post-NAC, and ALDH1 expression post-NAC was associated with
+poor DFS and OS (both p = 0.004). Multivariate analysis revealed that ALDH1
+expression post-NAC was an independent prognostic factor for OS (hazard ratio
+3.513; p = 0.033). Moreover, we observed that ALDH1 expression was increased
+after NAC in 18 patients (36.7 %). Increased levels of ALDH1 expression after NAC
+predicted poor DFS and OS (p = 0.013 and p = 0.08, respectively).
+CONCLUSIONS: Our findings suggest that ALDH1 expression pre-NAC may be a
+predictive marker for response to NAC, and ALDH1 expression post-NAC could be a
+prognostic marker for cervical cancer.
+
+DOI: 10.1245/s10434-015-4555-7 
+PMID: 25916979  [Indexed for MEDLINE]
+

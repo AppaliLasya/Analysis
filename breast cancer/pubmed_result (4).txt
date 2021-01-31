@@ -1,0 +1,91 @@
+
+1. Eur Urol. 2019 Feb;75(2):231-239. doi: 10.1016/j.eururo.2018.09.002. Epub 2018
+Oct 2.
+
+Genomic Differences Between "Primary" and "Secondary" Muscle-invasive Bladder
+Cancer as a Basis for Disparate Outcomes to Cisplatin-based Neoadjuvant
+Chemotherapy.
+
+Pietzak EJ(1), Zabor EC(2), Bagrodia A(3), Armenia J(4), Hu W(4), Zehir A(4),
+Funt S(5), Audenet F(3), Barron D(6), Maamouri N(3), Li Q(3), Teo MY(5), Arcila
+ME(4), Berger MF(4), Schultz N(4), Dalbagni G(3), Herr HW(3), Bajorin DF(5),
+Rosenberg JE(5), Al-Ahmadie H(7), Bochner BH(3), Solit DB(8), Iyer G(8).
+
+Author information: 
+(1)Urology Service, Department of Surgery, Memorial Sloan Kettering Cancer
+Center, New York, NY, USA. Electronic address: pietzake@MSKCC.org.
+(2)Department of Epidemiology and Biostatistics, Memorial Sloan Kettering Cancer 
+Center, New York, NY, USA.
+(3)Urology Service, Department of Surgery, Memorial Sloan Kettering Cancer
+Center, New York, NY, USA.
+(4)Human Oncology and Pathogenesis Program, Memorial Sloan Kettering Cancer
+Center, New York, NY, USA.
+(5)Genitourinary Oncology Service, Department of Medicine, Memorial Sloan
+Kettering Cancer Center, New York, NY, USA.
+(6)Department of Radiation Oncology, Memorial Sloan Kettering Cancer Center, New 
+York, NY, USA.
+(7)Department of Pathology, Memorial Sloan Kettering Cancer Center, New York, NY,
+USA.
+(8)Human Oncology and Pathogenesis Program, Memorial Sloan Kettering Cancer
+Center, New York, NY, USA; Genitourinary Oncology Service, Department of
+Medicine, Memorial Sloan Kettering Cancer Center, New York, NY, USA.
+
+Comment in
+    Eur Urol. 2019 Feb;75(2):240-241.
+    Eur Urol. 2019 Apr;75(4):694.
+    J Urol. 2019 Jul;202(1):30.
+    Transl Androl Urol. 2019 Jul;8(Suppl 3):S236-S239.
+
+BACKGROUND: Cisplatin-based neoadjuvant chemotherapy (NAC) followed by radical
+cystectomy (RC) is the standard of care for patients with muscle-invasive bladder
+cancer (MIBC). It is unknown whether this treatment strategy is appropriate for
+patients who progress to MIBC after treatment for prior noninvasive disease
+(secondary MIBC).
+OBJECTIVE: To determine whether clinical and genomic differences exist between
+primary and secondary MIBC treated with NAC and RC.
+DESIGN, SETTING, AND PARTICIPANTS: Clinicopathologic outcomes were compared
+between 245 patients with clinical T2-4aN0M0-stage primary MIBC and 43 with
+secondary MIBC treated with NAC and RC at Memorial Sloan Kettering Cancer Center 
+(MSKCC) from 2001 to 2015. Genomic differences were assessed in a retrospective
+cohort of 385 prechemotherapy specimens sequenced by whole-exome or targeted exon
+capture by the Cancer Genome Atlas or at MSKCC. Findings were confirmed in an
+independent validation cohort of 94 MIBC patients undergoing prospective targeted
+exon sequencing at MSKCC.
+OUTCOME MEASUREMENTS AND STATISTICAL ANALYSIS: Pathologic response rates,
+recurrence-free survival (RFS), bladder cancer-specific survival (CSS), and
+overall survival (OS) were measured. Differences in somatic genomic alteration
+rates were compared using Fisher's exact test and the Benjamini-Hochberg false
+discovery rate method.
+RESULTS AND LIMITATIONS: Patients with secondary MIBC had lower pathologic
+response rates following NAC than those with primary MIBC (univariable: 26% vs
+45%, multivariable: odds ratio=0.4 [95% confidence interval=0.18-0.84] p=0.02)
+and significantly worse RFS, CSS, and OS. Patients with secondary MIBC treated
+with NAC had worse CSS compared with cystectomy alone (p=0.002). In a separate
+genomic analysis, we detected significantly more likely deleterious somatic ERCC2
+missense mutations in primary MIBC tumors in both the discovery (10.9% [36/330]
+vs 1.8% [1/55], p=0.04) and the validation (15.7% [12/70] vs 0% [0/24], p=0.03)
+cohort.
+CONCLUSIONS: Patients with secondary MIBC treated with NAC had worse clinical
+outcomes than similarly treated patients with primary MIBC. ERCC2 mutations
+predicted to result in increased cisplatin sensitivity were enriched in primary
+versus secondary MIBC. Prospective validation is still needed, but given the lack
+of clinical benefit with cisplatin-based NAC in patients with secondary MIBC,
+upfront RC or enrollment in clinical trials should be considered.
+PATIENT SUMMARY: A retrospective cohort study of patients with "primary" and
+"secondary" muscle-invasive bladder cancer (MIBC) treated with chemotherapy
+before surgical removal of the bladder identified lower response rates and
+shorter survival in patients with secondary MIBC. Tumor genetic sequencing of
+separate discovery and validation cohorts revealed that chemotherapy-sensitizing 
+DNA damage repair gene mutations occur predominantly in primary MIBC tumors and
+may underlie the greater sensitivity of primary MIBC to chemotherapy. Prospective
+validation is still needed, but patients with secondary MIBC may derive greater
+benefit from upfront surgery or enrollment in clinical trials rather than from
+standard chemotherapy.
+
+Copyright © 2018 European Association of Urology. Published by Elsevier B.V. All 
+rights reserved.
+
+DOI: 10.1016/j.eururo.2018.09.002 
+PMCID: PMC6339572 [Available on 2020-02-01]
+PMID: 30290956  [Indexed for MEDLINE]
+

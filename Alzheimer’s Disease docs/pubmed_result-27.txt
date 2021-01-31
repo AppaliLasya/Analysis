@@ -1,0 +1,44 @@
+
+1. PLoS One. 2013;8(2):e56034. doi: 10.1371/journal.pone.0056034. Epub 2013 Feb 14.
+
+Selection of appropriate reference genes for RT-qPCR analysis in a
+streptozotocin-induced Alzheimer's disease model of cynomolgus monkeys (Macaca
+fascicularis).
+
+Park SJ(1), Kim YH, Lee Y, Kim KM, Kim HS, Lee SR, Kim SU, Kim SH, Kim JS, Jeong 
+KJ, Lee KM, Huh JW, Chang KT.
+
+Author information: 
+(1)National Primate Research Center, Korea Research Institute of Bioscience and
+Biotechnology, Ochang, Chungbuk, Republic of Korea.
+
+Reverse transcription quantitative real-time polymerase chain reaction (RT-qPCR) 
+has been widely used to quantify relative gene expression because of the
+specificity, sensitivity, and accuracy of this technique. In order to obtain
+reliable gene expression data from RT-qPCR experiments, it is important to
+utilize optimal reference genes for the normalization of target gene expression
+under varied experimental conditions. Previously, we developed and validated a
+novel icv-STZ cynomolgus monkey model for Alzheimer's disease (AD) research.
+However, in order to enhance the reliability of this disease model, appropriate
+reference genes must be selected to allow meaningful analysis of the gene
+expression levels in the icv-STZ cynomolgus monkey brain. In this study, we
+assessed the expression stability of 9 candidate reference genes in 2
+matched-pair brain samples (5 regions) of control cynomolgus monkeys and those
+who had received intracerebroventricular injection of streptozotocin (icv-STZ).
+Three well-known analytical programs geNorm, NormFinder, and BestKeeper were used
+to choose the suitable reference genes from the total sample group, control
+group, and icv-STZ group. Combination analysis of the 3 different programs
+clearly indicated that the ideal reference genes are RPS19 and YWHAZ in the total
+sample group, GAPDH and RPS19 in the control group, and ACTB and GAPDH in the
+icv-STZ group. Additionally, we validated the normalization accuracy of the most 
+appropriate reference genes (RPS19 and YWHAZ) by comparison with the least stable
+gene (TBP) using quantification of the APP and MAPT genes in the total sample
+group. To the best of our knowledge, this research is the first study to identify
+and validate the appropriate reference genes in cynomolgus monkey brains. These
+findings provide useful information for future studies involving the expression
+of target genes in the cynomolgus monkey.
+
+DOI: 10.1371/journal.pone.0056034 
+PMCID: PMC3573079
+PMID: 23457495  [Indexed for MEDLINE]
+

@@ -1,0 +1,29 @@
+
+1. Prostate. 1996 Jan;28(1):44-50.
+
+Point mutations in the Ki-ras2 gene of codon 12 in the Dunning R-3327 Prostatic
+Adenocarcinoma system.
+
+Blount LV(1), Cooke DB 3rd.
+
+Author information: 
+(1)Department of Biological Sciences, Clark Atlanta University, Georgia, USA.
+
+Detection of point mutations in the Dunning System with the Ki-ras2 gene in the
+first and second positions of codon 12 exon I, has been performed using
+allele-specific oligonucleotide (ASO) primers. PCR generated 94bp templates and
+genomic DNA extracted from the Dunning cell lines AT-1, AT-3, Mat-Lu, and
+Mat-Lylu were tested. Our investigation revealed that the first and second
+positions of codon 12 have undergone either transitions or transversions from the
+wild type sequence (GG). Dorsal prostate (DP) solid tissues used as controls
+revealed the wild type configuration as well as transversions at both positions, 
+in addition to a transition in the first position for Mat-Lu. The most aberrant
+of the Dunning lines (AT-3 and Mat-LyLu) collectively displayed sequence changes 
+(transitions and transversions) with no evidence of the wild type configuration. 
+These findings are supportive of biometric studies (area, shape factor, and
+motility) along with adhesion and invasion assays done in our laboratory in
+correlating genotypic and phenotypic properties to metastatic potential.
+
+DOI: 10.1002/(SICI)1097-0045(199601)28:1<44::AID-PROS6>3.0.CO;2-O 
+PMID: 8545280  [Indexed for MEDLINE]
+

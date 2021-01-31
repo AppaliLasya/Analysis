@@ -1,0 +1,26 @@
+
+1. Nature. 1987 Sep 10-16;329(6135):153-5.
+
+Failure of familial Alzheimer's disease to segregate with the A4-amyloid gene in 
+several European families.
+
+Van Broeckhoven C, Genthe AM, Vandenberghe A, Horsthemke B, Backhovens H,
+Raeymaekers P, Van Hul W, Wehnert A, Gheuens J, Cras P, et al.
+
+The gene coding for the amyloid protein, a component of neuritic plaques found in
+brain tissue from patients with Alzheimer's disease, has been localized to
+chromosome 21, and neighbouring polymorphic DNA markers segregate with
+Alzheimer's disease in several large families. These data, and the association of
+Alzheimer's disease with Down's syndrome, suggest that overproduction of the
+amyloid protein, or production of an abnormal variant of the protein, may be the 
+underlying pathological change causing Alzheimer's disease. We have identified a 
+restriction fragment length polymorphism of the A4-amyloid gene, and find
+recombinants in two Alzheimer's disease families between Alzheimer's disease and 
+the A4-amyloid locus. This demonstrates that the gene for plaque core A4-amyloid 
+cannot be the locus of a defect causing Alzheimer's disease in these families.
+These data indicate that alterations in the plaque core amyloid gene cannot
+explain the molecular pathology for all cases of Alzheimer's disease.
+
+DOI: 10.1038/329153a0 
+PMID: 3306405  [Indexed for MEDLINE]
+

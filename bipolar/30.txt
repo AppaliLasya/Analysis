@@ -1,0 +1,33 @@
+
+1. Psychiatr Genet. 1998 Winter;8(4):235-8.
+
+Human G(olf) gene polymorphisms and vulnerability to bipolar disorder.
+
+Berrettini WH(1), Vuoristo J, Ferraro TN, Buono RJ, Wildenauer D, Ala-Kokko L.
+
+Author information: 
+(1)Department of Psychiatry, University of Pennsylvania, Philadelphia 19104, USA.
+wadeb@mail.med.upenn.edu
+
+Comment in
+    Psychiatr Genet. 1999 Dec;9(4):201-3, 205-6.
+
+Two intronic polymorphisms of the human alpha subunit of the olfactory G-protein 
+(G(olf)) are described. They were detected with single-stranded conformational
+polymorphism (SSCP) methods and confirmed by sequencing both strands. These
+single base pair (bp) substitutions occur in introns 3 (an A/G at 35 bp 3' from
+the exon 3/intron 3 5' splice site) and 10 (an T/G at 7 bp 5' from the 3' splice 
+site). Both polymorphisms are relatively common, with minor allele frequencies of
+31% (intron 3) and 16% (intron 10). The intron 3 variant shows no linkage
+disequilibrium with an intron 5 (CA)n microsatellite located approximately 50 kb 
+3' from the intron 3 variant, among a small group of German individuals with
+schizophrenia. The intron 3 variant is interesting because it may create an
+'in-frame' cryptic splice site which, if activated, would add 12 residues to exon
+3. The intron 10 variant is interesting because a purine is substituted for a
+pyrimidine in the 'polypyrimidine' tract of the 3' splice site, a single base
+substitution of the type which has been associated with aberrant splicing in the 
+androgen receptor gene.
+
+DOI: 10.1097/00041444-199808040-00006 
+PMID: 9861642  [Indexed for MEDLINE]
+

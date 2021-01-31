@@ -1,0 +1,35 @@
+
+1. Expert Rev Mol Diagn. 2019 Sep;19(9):795-802. doi: 10.1080/14737159.2019.1657011.
+Epub 2019 Aug 28.
+
+Detection of BRCA1/2 large genomic rearrangements in breast and ovarian cancer
+patients: an overview of the current methods.
+
+Concolino P(1), Capoluongo E(2).
+
+Author information: 
+(1)Dipartimento Scienze di Laboratorio e Infettivologiche, Fondazione Policlinico
+Universitario A. Gemelli - IRCCS , Roma , Italia.
+(2)Dipartimento di Medicina Molecolare e Biotecnologie Mediche, Università
+Federico II , Napoli , Italia.
+
+Introduction: Currently, genetic testing of BRCA1/2 genes includes screening for 
+single-nucleotide variants, small insertions/deletions, and copy number
+variations (CNVs). In fact, many studies document the involvement of BRCA1/2 gene
+rearrangements in genetic predisposition to breast and ovarian cancer. Large
+genomic rearrangements (LGRs) of BRCA1 may account for up to one-third of all
+disease-causing alterations in various populations, while LGRs in BRCA2 are less 
+frequently observed. Areas covered: We aimed to present an overview of current
+technologies employed in molecular diagnosis of BRCA1/2 LGRs. The most relevant
+literature papers, showing the application of new strategies, were considered.
+Expert opinion: Currently, the progress of next-generation sequencing (NGS)
+technologies allows for the validation of new pipelines able to provide rapid and
+effective results, ensuring the sensitivity and specificity requested for the
+detection of BRCA1/2 LGRs. Multiplex ligation-dependent probe amplification
+remains the gold standard to confirm NGS CNVs results and to perform fast
+screening in families where a pathogenic rearrangement has been detected in a
+proband.
+
+DOI: 10.1080/14737159.2019.1657011 
+PMID: 31429350 
+

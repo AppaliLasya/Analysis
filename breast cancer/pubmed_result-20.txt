@@ -1,0 +1,58 @@
+
+1. BMC Cancer. 2020 Jan 30;20(1):72. doi: 10.1186/s12885-020-6573-5.
+
+Pattern of nucleotide variants of TP53 and their correlation with the expression 
+of p53 and its downstream proteins in a Sri Lankan cohort of breast and
+colorectal cancer patients.
+
+Manoharan V(1), Karunanayake EH(1), Tennekoon KH(1), De Silva S(2), Imthikab
+AIA(1), De Silva K(3), Angunawela P(4), Vishwakula S(5), Lunec J(6).
+
+Author information: 
+(1)Institute of Biochemistry Molecular Biology and Biotechnology, University of
+Colombo, 90, Cumaratunga Munidasa Mawatha, Colombo 3, Sri Lanka.
+(2)Institute of Biochemistry Molecular Biology and Biotechnology, University of
+Colombo, 90, Cumaratunga Munidasa Mawatha, Colombo 3, Sri Lanka.
+sum@ibmbb.cmb.ac.lk.
+(3)National Cancer Institute, Maharagama, Sri Lanka.
+(4)Department of Pathology, Faculty of Medicine, University of Colombo, 25 Kynsey
+Road, Colombo 8, Sri Lanka.
+(5)Department of Statistics, Faculty of Science, University of Colombo, Colombo
+3, Sri Lanka.
+(6)Northern Institute for Cancer Research, Newcastle University, Paul O'Gorman
+Building, Framlington Place, Newcastle upon Tyne, NE2 4AD, UK.
+
+BACKGROUND: Breast cancer (BC) is known to be the most common malignancy in
+females whereas colorectal cancer (CRC) incidence also higher in both genders in 
+Sri Lanka. TP53 is an important tumour suppressor gene and its somatic mutations 
+are reported in approximately 27% of BC and 43% of CRC cases. Analysis of TP53
+gene variants not only provides clues for the aetiology of the tumour formation, 
+but also has an impact on treatment efficacy. The current study was conducted to 
+investigate the pattern of TP53 variants in patients with BC and CRC from Sri
+Lanka.
+METHODS: 30 patients with BC, 21 patients with CRC and an equal number of healthy
+controls were screened for mutational status of TP53 by polymerase chain reaction
+(PCR) followed by direct sequencing. In addition, a subset of these samples were 
+analysed for the protein expression of p53 and comparison made with the
+mutational status of TP53. We also analysed the protein expression of p21 and
+MDM2 as potential indicators of p53 functional status and compared it with the
+protein expression of p53. Additionally, hotspot codons of the KRAS, BRAF and
+PIK3CA genes were also analysed in a subset of CRC patients.
+RESULTS: Twenty seven sequence variants, including several novel variants in the 
+TP53 gene were found. Nine BC and seven CRC tumour samples carried pathogenic
+TP53 variants. Pathogenic point missense variants were associated with strong and
+diffuse positive staining for p53 by immunohistochemistry (IHC), whereas, wild
+type TP53 showed complete absence of positive IHC staining or rare positive
+cells, regardless of the type of cancer. There was no direct correlation between 
+p21 or MDM2 expression and p53 expression in either BCs or CRCs. Four of the CRC 
+patients had pathogenic hotspot variants in KRAS; three of them were on codon 12 
+and one was on codon 61.
+CONCLUSION: The prevalence of pathogenic somatic TP53 variants was 31 and 33.33% 
+in the studied BC and CRC cohorts respectively. All of them were located in exons
+5-8 and the pathogenic missense variants were associated with strong
+immuno-positive staining for p53.
+
+DOI: 10.1186/s12885-020-6573-5 
+PMCID: PMC6990524
+PMID: 32000721 
+

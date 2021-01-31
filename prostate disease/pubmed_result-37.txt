@@ -1,0 +1,33 @@
+
+1. J Urol. 1997 Mar;157(3):1117-20.
+
+p16 (CDKN2/MTS1) gene deletions are rare in prostatic carcinomas in the United
+States and Japan.
+
+Mangold KA(1), Takahashi H, Brandigi C, Wada T, Wakui S, Furusato M, Boyd J,
+Chandler FW, Allsbrook WC Jr.
+
+Author information: 
+(1)Department of Pathology, Medical College of Georgia, Augusta, 30912-3605, USA.
+
+PURPOSE: The incidence of clinically apparent prostatic carcinoma is much higher 
+in the United States than in Japan. Alterations in the p16 tumor suppressor gene 
+have been identified in various tumor types, including cultured prostatic
+carcinoma cell lines. We studied the possible deletions of either exon 2 or 3 of 
+this gene in primary clinical prostatic carcinomas from Japan and the United
+States.
+MATERIALS AND METHODS: Genomic DNA was extracted from 36 formalin-fixed,
+paraffin-embedded clinical prostatic carcinomas from Japan and 27 carcinomas from
+the United States. Exons 2 and 3 of the p16 gene were amplified using comparative
+multiplex polymerase chain reactions (PCR) and then analyzed for possible
+deletions of either exon.
+RESULTS: Two out of 36 (5.6%) carcinomas from Japan clearly demonstrated deletion
+of p16 exon 2, but this deletion was not detected in any of the 27 carcinomas
+from the United States.
+CONCLUSIONS: Although slightly higher in Japan than in the United States, the
+frequency of p16 exon deletions in clinical prostatic carcinomas is very low, and
+probably is not important in the development of this neoplasm.
+
+
+PMID: 9072554  [Indexed for MEDLINE]
+

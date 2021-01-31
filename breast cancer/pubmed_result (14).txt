@@ -1,0 +1,53 @@
+
+1. Mil Med. 2019 Jul 23. pii: usz177. doi: 10.1093/milmed/usz177. [Epub ahead of
+print]
+
+Preliminary Evidence for a Hormetic Effect on DNA Nucleotide Excision Repair in
+Veterans with Gulf War Illness.
+
+Latimer JJ(1)(2), Alhamed A(1)(2), Sveiven S(2), Almutairy A(1)(2), Klimas
+NG(3)(4), Abreu M(3), Sullivan K(5), Grant SG(2)(6).
+
+Author information: 
+(1)Department of Pharmaceutical Sciences, Nova Southeastern University, 3200
+South University Drive, Fort Lauderdale, FL.
+(2)South University Drive, AutoNation Institute for Breast Cancer Research, 3321,
+Fort Lauderdale, FL.
+(3)Department of Clinical Immunology, Nova Southeastern University, 3200 South
+University Drive, Fort Lauderdale, FL.
+(4)Department of Medicine, Miami VA Healthcare System, 1201 NW 16th St, Miami,
+FL.
+(5)Department of Environmental Health, Boston University School of Public Health,
+715 Albany St, Boston, MA.
+(6)Department of Public Health, Nova Southeastern University, 3200 South
+University Drive, Fort Lauderdale, FL.
+
+INTRODUCTION: Veterans of the 1991 Gulf War were potentially exposed to a mixture
+of stress, chemicals and radiation that may have contributed to the persistent
+symptoms of Gulf War Illness (GWI). The genotoxic effects of some of these
+exposures are mediated by the DNA nucleotide excision repair (NER) pathway. We
+hypothesized that individuals with relatively low DNA repair capacity would
+suffer greater damage from cumulative genotoxic exposures, some of which would
+persist, causing ongoing problems.
+MATERIALS AND METHODS: Blood samples were obtained from symptomatic Gulf War
+veterans and age-matched controls. The unscheduled DNA synthesis assay, a
+functional measurement of NER capacity, was performed on cultured lymphocytes,
+and lymphocyte mRNA was extracted and analyzed by sequencing.
+RESULTS: Despite our hypothesis that GWI would be associated with DNA repair
+deficiency, NER capacity in lymphocytes from affected GWI veterans actually
+exhibited a significantly elevated level of DNA repair (p = 0.016). Both total
+gene expression and NER gene expression successfully differentiated individuals
+with GWI from unaffected controls. The observed functional increase in DNA repair
+capacity was accompanied by an overexpression of genes in the NER pathway, as
+determined by RNA sequencing analysis.
+CONCLUSION: We suggest that the observed elevations in DNA repair capacity and
+NER gene expression are indicative of a "hormetic," i.e., induced or adaptive
+protective response to battlefield exposures. Normally such effects are
+short-term, but in these individuals this response has resulted in a long-term
+metabolic shift that may also be responsible for the persistent symptoms of GWI.
+
+© Association of Military Surgeons of the United States 2019.
+
+DOI: 10.1093/milmed/usz177 
+PMID: 31334811 
+

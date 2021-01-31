@@ -1,0 +1,44 @@
+
+1. Front Oncol. 2020 Jan 14;9:1536. doi: 10.3389/fonc.2019.01536. eCollection 2019.
+
+Is Lactate an Oncometabolite? Evidence Supporting a Role for Lactate in the
+Regulation of Transcriptional Activity of Cancer-Related Genes in MCF7 Breast
+Cancer Cells.
+
+San-Millán I(1)(2), Julian CG(3), Matarazzo C(3), Martinez J(1), Brooks GA(4).
+
+Author information: 
+(1)Department of Medicine, Division of Endocrinology, Metabolism and Diabetes,
+University of Colorado School of Medicine, Aurora, CO, United States.
+(2)Department of Human Physiology and Nutrition, University of Colorado, Colorado
+Springs, CO, United States.
+(3)Department of Medicine, University of Colorado School of Medicine, Aurora, CO,
+United States.
+(4)Department of Integrative Biology, University of California, Berkeley,
+Berkeley, CA, United States.
+
+Lactate is a ubiquitous molecule in cancer. In this exploratory study, our aim
+was to test the hypothesis that lactate could function as an oncometabolite by
+evaluating whether lactate exposure modifies the expression of oncogenes, or
+genes encoding transcription factors, cell division, and cell proliferation in
+MCF7 cells, a human breast cancer cell line. Gene transcription was compared
+between MCF7 cells incubated in (a) glucose/glutamine-free media (control), (b)
+glucose-containing media to stimulate endogenous lactate production (replicating 
+some of the original Warburg studies), and (c) glucose-containing media
+supplemented with L-lactate (10 and 20 mM). We found that both endogenous,
+glucose-derived lactate and exogenous, lactate supplementation significantly
+affected the transcription of key oncogenes (MYC, RAS, and PI3KCA), transcription
+factors (HIF1A and E2F1), tumor suppressors (BRCA1, BRCA2) as well as cell cycle 
+and proliferation genes involved in breast cancer (AKT1, ATM, CCND1, CDK4,
+CDKN1A, CDK2B) (0.001 < p < 0.05 for all genes). Our findings support the
+hypothesis that lactate acts as an oncometabolite in MCF7 cells. Further research
+is necessary on other cell lines and biopsy cultures to show generality of the
+findings and reveal the mechanisms by which dysregulated lactate metabolism could
+act as an oncometabolite in carcinogenesis.
+
+Copyright © 2020 San-Millán, Julian, Matarazzo, Martinez and Brooks.
+
+DOI: 10.3389/fonc.2019.01536 
+PMCID: PMC6971189
+PMID: 32010625 
+

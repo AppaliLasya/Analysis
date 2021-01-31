@@ -1,0 +1,42 @@
+
+1. Int J Cancer. 2001 Nov 20;95(6):354-9.
+
+Linkage and association of CYP17 gene in hereditary and sporadic prostate cancer.
+
+Chang B(1), Zheng SL, Isaacs SD, Wiley KE, Carpten JD, Hawkins GA, Bleecker ER,
+Walsh PC, Trent JM, Meyers DA, Isaacs WB, Xu J.
+
+Author information: 
+(1)University of Maryland School of Medicine, Baltimore, MD, USA.
+
+Androgens are essential for prostate development, growth and maintenance and the 
+association between androgen levels and prostate cancer is well established.
+Since the CYP17 gene encodes the enzyme cytochrome P450c17alpha, which mediates
+17alpha-hydroxylase and 17,20-lyase activities in the androgen biosynthesis
+pathway, sequence variations in the gene and association with increased risk to
+prostate cancer has been studied. In particular, several groups have studied the 
+association between a polymorphism in the 5' promoter region and prostate cancer 
+using a population-based association approach. However, the results from these
+studies were inconclusive. To further study this polymorphism and its possible
+role in hereditary prostate cancer (HPC), we performed a genetic linkage analysis
+and family-based association analysis in 159 families, each of which contains at 
+least 3 first-degree relatives with prostate cancer. In addition, we performed a 
+population-based association analysis to compare the risk of this polymorphism to
+hereditary and sporadic prostate cancer in 159 HPC probands, 249 sporadic
+prostate cancer patients and 211 unaffected control subjects. Evidence for
+linkage at the CYP17 gene region was found in the total 159 HPC families (LOD =
+1.3, p = 0.01, at marker D10S222). However, family-based association tests did
+not provide evidence for overtransmission of either allele of the CYP17
+polymorphism to affected individuals in the HPC families. The allele and genotype
+frequencies of the polymorphism were not statistically different among the HPC
+probands, sporadic cases and unaffected control subjects. In conclusion, our
+results suggest that the CYP17 gene or other genes in the region may increase the
+susceptibility to prostate cancer in men; however, the polymorphism in the 5'
+promoter region has a minor role if any in increasing prostate cancer
+susceptibility in our study sample.
+
+Copyright 2001 Wiley-Liss, Inc.
+
+DOI: 10.1002/1097-0215(20011120)95:6<354::aid-ijc1062>3.0.co;2-3 
+PMID: 11668516  [Indexed for MEDLINE]
+

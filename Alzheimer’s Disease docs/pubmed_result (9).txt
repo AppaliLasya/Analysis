@@ -1,0 +1,33 @@
+
+1. Brain Res. 2009 Apr 6;1264:1-6. doi: 10.1016/j.brainres.2009.01.044. Epub 2009
+Feb 3.
+
+Association of SORL1 gene variants with Alzheimer's disease.
+
+Kölsch H(1), Jessen F, Wiltfang J, Lewczuk P, Dichgans M, Teipel SJ, Kornhuber J,
+Frölich L, Heuser I, Peters O, Wiese B, Kaduszkiewicz H, van den Bussche H, Hüll 
+M, Kurz A, Rüther E, Henn FA, Maier W.
+
+Author information: 
+(1)Department of Psychiatry, University of Bonn, Bonn, Germany.
+heike.koelsch@ukb.uni-bonn.de
+
+SORL1 gene variants were described as risk factor of Alzheimer's disease (AD)
+additionally SORL1 gene variants were associated with altered Abeta(42) CSF
+levels in AD patients. In the present study we investigated the association of
+SORL1 gene variants (rs2070045 (SNP19), SORL1-18ex26 (SNP21), rs3824968 (SNP23), 
+rs1010159 (SNP25)) with AD risk by using Cox proportional hazard model and
+Kaplan-Meier survival analysis in 349 AD patients and 483 controls, recruited
+from a multicenter study of the German Competence Network Dementias. The
+SNP21G-allele and a SORL1 haplotype consisting of the SNP19 T-allele, SNP21
+G-allele and SNP23 A-allele (T/G/A) were associated with increased hazard ratios 
+and an earlier age at onset of AD (SNP21: p=0.002; T/G/A haplotype: p=0.007).
+This effect was most pronounced in carriers of an additional APOE4 allele (SNP21:
+p=0.003; T/G/A haplotype: p=0.005). In conclusion, we found SORL1 gene variants
+located in the 3' region of the gene to be associated with increased AD risk and 
+an earlier age at onset of AD in our Central-European population. Thus, our data 
+support a role of SORL1 polymorphisms in AD.
+
+DOI: 10.1016/j.brainres.2009.01.044 
+PMID: 19368828  [Indexed for MEDLINE]
+

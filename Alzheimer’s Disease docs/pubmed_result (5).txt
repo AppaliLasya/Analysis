@@ -1,0 +1,90 @@
+
+1. Acta Neuropathol. 2016 Aug;132(2):213-224. doi: 10.1007/s00401-016-1566-9. Epub
+2016 Mar 30.
+
+A comprehensive study of the genetic impact of rare variants in SORL1 in European
+early-onset Alzheimer's disease.
+
+Verheijen J(1)(2), Van den Bossche T(1)(2)(3)(4), van der Zee J(1)(2),
+Engelborghs S(2)(4), Sanchez-Valle R(5), Lladó A(5), Graff C(6)(7), Thonberg
+H(6)(7), Pastor P(8)(9), Ortega-Cubero S(9)(10), Pastor MA(10)(11)(12), Benussi
+L(13), Ghidoni R(13), Binetti G(13)(14), Clarimon J(9)(15), Lleó A(9)(15), Fortea
+J(9)(15), de Mendonça A(16), Martins M(16), Grau-Rivera O(17), Gelpi E(17),
+Bettens K(1)(2), Mateiu L(18), Dillen L(1)(2), Cras P(2)(3), De Deyn PP(2)(4),
+Van Broeckhoven C(19)(20), Sleegers K(21)(22).
+
+Author information: 
+(1)Neurodegenerative Brain Diseases Group, Department of Molecular Genetics, VIB,
+University of Antwerp, CDE Universiteitsplein 1, 2610, Antwerp, Belgium.
+(2)Institute Born-Bunge, University of Antwerp, Antwerp, Belgium.
+(3)Department of Neurology, Antwerp University Hospital, Edegem, Belgium.
+(4)Department of Neurology and Memory Clinic, Hospital Network Antwerp (ZNA)
+Middelheim and Hoge Beuken, Antwerp, Belgium.
+(5)Alzheimer's Disease and Other Cognitive Disorders Unit, Neurology Department, 
+Hospital Clínic, Institut d'Investigacions Biomediques August Pi i Sunyer
+(IDIBAPS), Barcelona, Spain.
+(6)Department of Neurobiology, Care Sciences and Society (NVS), Center for
+Alzheimer Research, Division of Neurogeriatrics, Karolinska Institutet, Huddinge,
+Sweden.
+(7)Genetics Unit, Department of Geriatric Medicine, Karolinska University
+Hospital, Stockholm, Sweden.
+(8)Memory Unit, Department of Neurology, University Hospital Mútua de Terrassa,
+University of Barcelona School of Medicine, Terrassa, Barcelona, Spain.
+(9)Centro de Investigación Biomédica en Red de Enfermedades Neurodegenerativas
+(CIBERNED), Instituto de Salud Carlos III, Madrid, Spain.
+(10)Department of Neurology, Complejo Asistencial Universitario de Palencia,
+Palencia, Spain.
+(11)Neuroimaging Laboratory, Division of Neurosciences, Center for Applied
+Medical Research (CIMA), University of Navarra, Pamplona, Spain.
+(12)Department of Neurology, Clínica Universidad de Navarra, University of
+Navarra School of Medicine, Pamplona, Spain.
+(13)Molecular Markers Laboratory, Istituto di Ricovero e Cura a Carattere
+Scientifico (IRCCS), Istituto Centro San Giovanni di Dio-Fatebenefratelli,
+Brescia, Italy.
+(14)MAC Memory Center, Istituto di Ricovero e Cura a Carattere Scientifico
+(IRCCS), Istituto Centro San Giovanni di Dio-Fatebenefratelli, Brescia, Italy.
+(15)Department of Neurology, IIB Sant Pau, Hospital de la Santa Creu i Sant Pau, 
+Universidad Autònoma de Barcelona, Barcelona, Spain.
+(16)Faculty of Medicine and Institute of Molecular Medicine, University of
+Lisbon, Lisbon, Portugal.
+(17)Neurological Tissue Bank of the Biobanc, Hospital Clinic, Institut
+d'Investigacions Biomediques August Pi i Sunyer (IDIBAPS), Barcelona, Spain.
+(18)Bioinformatics Unit, Department of Molecular Genetics, VIB, Antwerp, Belgium.
+(19)Neurodegenerative Brain Diseases Group, Department of Molecular Genetics,
+VIB, University of Antwerp, CDE Universiteitsplein 1, 2610, Antwerp, Belgium.
+christine.vanbroeckhoven@molgen.vib-ua.be.
+(20)Institute Born-Bunge, University of Antwerp, Antwerp, Belgium.
+christine.vanbroeckhoven@molgen.vib-ua.be.
+(21)Neurodegenerative Brain Diseases Group, Department of Molecular Genetics,
+VIB, University of Antwerp, CDE Universiteitsplein 1, 2610, Antwerp, Belgium.
+kristel.sleegers@molgen.vib-ua.be.
+(22)Institute Born-Bunge, University of Antwerp, Antwerp, Belgium.
+kristel.sleegers@molgen.vib-ua.be.
+
+The sortilin-related receptor 1 (SORL1) gene has been associated with increased
+risk for Alzheimer's disease (AD). Rare genetic variants in the SORL1 gene have
+also been implicated in autosomal dominant early-onset AD (EOAD). Here we report 
+a large-scale investigation of the contribution of genetic variability in SORL1
+to EOAD in a European EOAD cohort. We performed massive parallel amplicon-based
+re-sequencing of the full coding region of SORL1 in 1255 EOAD patients and 1938
+age- and origin-matched control individuals in the context of the European
+Early-Onset Dementia (EOD) consortium, originating from Belgium, Spain, Portugal,
+Italy, Sweden, Germany, and Czech Republic. We identified six frameshift variants
+and two nonsense variants that were exclusively present in patients. These
+mutations are predicted to result in haploinsufficiency through nonsense-mediated
+mRNA decay, which could be confirmed experimentally for SORL1 p.Gly447Argfs*22
+observed in a Belgian EOAD patient. We observed a 1.5-fold enrichment of rare
+non-synonymous variants in patients (carrier frequency 8.8 %; SkatOMeta p value
+0.0001). Of the 84 non-synonymous rare variants detected in the full
+patient/control cohort, 36 were only detected in patients. Our findings
+underscore a role of rare SORL1 variants in EOAD, but also show a non-negligible 
+frequency of these variants in healthy individuals, necessitating the need for
+pathogenicity assays. Premature stop codons due to frameshift and nonsense
+variants, have so far exclusively been found in patients, and their predicted
+mode of action corresponds with evidence from in vitro functional studies of
+SORL1 in AD.
+
+DOI: 10.1007/s00401-016-1566-9 
+PMCID: PMC4947104
+PMID: 27026413  [Indexed for MEDLINE]
+

@@ -1,0 +1,25 @@
+
+1. Br J Cancer. 1993 Oct;68(4):751-5.
+
+Infrequent involvement of p53 gene mutations in the tumourigenesis of Japanese
+prostate cancer.
+
+Uchida T(1), Wada C, Shitara T, Egawa S, Koshiba K.
+
+Author information: 
+(1)Department of Urology, Kitasato University School of Medicine, Kanagawa,
+Japan.
+
+A study was made of the incidence of p53 mutations in Japanese males with
+prostate cancer or benign prostatic hyperplasia. Polymerase chain reaction
+single-strand conformation polymorphism (PCR-SSCP) was used as a primary
+screening technique with gene sequencing being carried out in positive cases. Two
+out of 21 prostate cancers (9.5%) were found to have p53 mutations. These were
+stage B2 and D2 prostate cancers. No abnormalities were found in the remaining
+cases or benign prostatic hyperplasia. Mutations of the p53 gene would thus
+appear infrequent in the tumourigenesis of primary prostate cancer.
+
+DOI: 10.1038/bjc.1993.423 
+PMCID: PMC1968625
+PMID: 7691145  [Indexed for MEDLINE]
+

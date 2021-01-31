@@ -1,0 +1,41 @@
+
+1. Acta Neuropathol Commun. 2016 Sep 2;4(1):98. doi: 10.1186/s40478-016-0367-7.
+
+Rare TREM2 variants associated with Alzheimer's disease display reduced cell
+surface expression.
+
+Sirkis DW(1), Bonham LW(2), Aparicio RE(1), Geier EG(2), Ramos EM(3), Wang Q(3), 
+Karydas A(2), Miller ZA(2), Miller BL(2), Coppola G(3), Yokoyama JS(4).
+
+Author information: 
+(1)Department of Molecular and Cell Biology, Howard Hughes Medical Institute,
+University of California, Berkeley, Berkeley, CA, 94720, USA.
+(2)Memory and Aging Center, UCSF, Department of Neurology, University of
+California, San Francisco, 675 Nelson Rising Lane, Suite 190, San Francisco, CA, 
+94158, USA.
+(3)Department of Psychiatry and Semel Institute for Neuroscience and Human
+Behavior, The David Geffen School of Medicine at University of California Los
+Angeles, Los Angeles, CA, 90095, USA.
+(4)Memory and Aging Center, UCSF, Department of Neurology, University of
+California, San Francisco, 675 Nelson Rising Lane, Suite 190, San Francisco, CA, 
+94158, USA. jennifer.yokoyama@ucsf.edu.
+
+Rare variation in TREM2 has been associated with greater risk for Alzheimer's
+disease (AD). TREM2 encodes a cell surface receptor expressed on microglia and
+related cells, and the R47H variant associated with AD appears to affect the
+ability of TREM2 to bind extracellular ligands. In addition, other rare TREM2
+mutations causing early-onset neurodegeneration are thought to impair cell
+surface expression. Using a sequence kernel association (SKAT) analysis in two
+independent AD cohorts, we found significant enrichment of rare TREM2 variants
+not previously characterized at the protein level. Heterologous expression of the
+identified variants showed that novel variants S31F and R47C displayed
+significantly reduced cell surface expression. In addition, we identified rare
+variant R136Q in a patient with language-predominant AD that also showed impaired
+surface expression. The results suggest rare TREM2 variants enriched in AD may be
+associated with altered TREM2 function and that AD risk may be conferred, in
+part, from altered TREM2 surface expression.
+
+DOI: 10.1186/s40478-016-0367-7 
+PMCID: PMC5010724
+PMID: 27589997  [Indexed for MEDLINE]
+

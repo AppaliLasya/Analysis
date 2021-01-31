@@ -1,0 +1,28 @@
+
+1. Hum Genet. 1992 Jul;89(5):580-2.
+
+A novel mutation in the beta-protein coding region of the amyloid beta-protein
+precursor (APP) gene.
+
+Balbín M(1), Abrahamson M, Gustafson L, Nilsson K, Brun A, Grubb A.
+
+Author information: 
+(1)Department of Clinical Chemistry, University Hospital, Lund, Sweden.
+
+Comment in
+    Hum Genet. 1994 Feb;93(2):227-8.
+
+A novel mutation, a C to T transition at base pair 2124 in exon 17 of the amyloid
+beta-protein precursor (APP) gene, has been identified by direct sequencing of
+amplified DNA from two Alzheimer's disease (AD) patients. A simple
+oligonucleotide-hybridization procedure was developed to allow population studies
+of this DNA variation. The mutation, which is silent at the protein level, was
+present in 2 out of 12 investigated AD patients, in 1 out of 60 non-AD patients
+and in 1 out of 30 healthy individuals. The mutation can be used as a new marker 
+for linkage studies involving the APP gene, although more comprehensive
+population studies are required to determine the status of the mutation as a
+possible risk factor for the development of AD.
+
+DOI: 10.1007/bf00219191 
+PMID: 1634237  [Indexed for MEDLINE]
+

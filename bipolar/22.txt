@@ -1,0 +1,37 @@
+
+1. Am J Med Genet. 1998 May 8;81(3):225-7.
+
+Analysis of a novel functional polymorphism within the promoter region of the
+serotonin transporter gene (5-HTT) in Brazilian patients affected by bipolar
+disorder and schizophrenia.
+
+Mendes de Oliveira JR(1), Otto PA, Vallada H, Lauriano V, Elkis H, Lafer B,
+Vasquez L, Gentil V, Passos-Bueno MR, Zatz M.
+
+Author information: 
+(1)Departamento de Biologia, Instituto de Biociências, Universidade de São Paulo,
+Brazil.
+
+It has been suggested that the serotonin transporter
+(5-hydroxytryptamine-transporter or 5-HTT) may be involved in the pathogenesis of
+affective disorders. Recently, Collier et al. (1996) found that the frequency of 
+the low-activity short variant (s) of the 5-HTT-linked polymorphic region
+(5-HTTLPR) was higher among patients with affective disorders than in normal
+controls. However, since the observed level of significance was not high, they
+suggest that these findings should be replicated in independent samples. We have 
+analyzed 86 unrelated patients (47 with bipolar disorder and 39 with
+schizophrenia) and 98 normal controls from the Brazilian population for the
+5-HTTLPR. Statistical analysis revealed that the genotypes (LL, Ls, ss) as well
+as the estimated allele frequencies (L,s) did not differ significantly among the 
+three studied groups or between bipolar and normal controls. In addition,
+although not statistically significant, the genotype ss in our sample was less
+frequent among our bipolar patients than in our normal controls (12.8% versus
+16.3%) which is the opposite of what was found by Collier et al. (24% versus 18%)
+in the European study. Although it will be important to extend the present
+analysis in a larger sample, our preliminary results suggest that the 5-HTTLPR
+does not seem to play a major role in the genetics of bipolar and schizophrenic
+disorders at least in this group of Brazilian psychiatric patients.
+
+DOI: 10.1002/(sici)1096-8628(19980508)81:3<225::aid-ajmg4>3.0.co;2-v 
+PMID: 9603609  [Indexed for MEDLINE]
+

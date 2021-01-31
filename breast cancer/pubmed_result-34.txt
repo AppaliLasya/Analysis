@@ -1,0 +1,43 @@
+
+1. Medicine (Baltimore). 2020 Jan;99(1):e18445. doi: 10.1097/MD.0000000000018445.
+
+Identification of potential key genes for HER-2 positive breast cancer based on
+bioinformatics analysis.
+
+Lin Y(1), Fu F(1), Lv J(1), Wang M(2), Li Y(1), Zhang J(1), Wang C(1).
+
+Author information: 
+(1)Department of Breast Surgery, Fujian Medical University Union Hospital,
+Fuzhou, Fujian Province, China.
+(2)Bioinformatics and Systems Biology Graduate Program, University of California,
+San Diego, La Jolla, CA.
+
+BACKGROUNDS: HER-2 positive breast cancer is a subtype of breast cancer with poor
+clinical outcome. The aim of this study was to identify differentially expressed 
+genes (DEGs) for HER-2 positive breast cancer and elucidate the potential
+interactions among them.
+MATERIAL AND METHODS: Three gene expression profiles (GSE29431, GSE45827, and
+GSE65194) were derived from the Gene Expression Omnibus (GEO) database. GEO2R
+tool was applied to obtain DEGs between HER-2 positive breast cancer and normal
+breast tissues. Gene ontology (GO) annotation analysis and Kyoto Encyclopedia of 
+Genes and Genome (KEGG) pathway enrichment analysis was performed by the Database
+for Annotation, Visualization and Integrated Discovery (David) online tool.
+Protein-protein interaction (PPI) network, hub gene identification and module
+analysis was conducted by Cytoscape software. Online Kaplan-Meier plotter
+survival analysis tool was also used to investigate the prognostic values of hub 
+genes in HER-2 positive breast cancer patients.
+RESULTS: A total of 54 upregulated DEGs and 269 downregulated DEGs were
+identified. Among them, 10 hub genes including CCNB1, RAC1, TOP2A, KIF20A, RRM2, 
+ASPM, NUSAP1, BIRC5, BUB1B, and CEP55 demonstrated by connectivity degree in the 
+PPI network were screened out. In Kaplan-Meier plotter survival analysis, the
+overexpression of RAC1 and RRM2 were shown to be associated with an unfavorable
+prognosis in HER-2 positive breast cancer patients.
+CONCLUSIONS: This present study identified a number of potential target genes and
+pathways which might impact the oncogenesis and progression of HER-2 positive
+breast cancer. These findings could provide new insights into the detection of
+novel diagnostic and therapeutic biomarkers for this disease.
+
+DOI: 10.1097/MD.0000000000018445 
+PMCID: PMC6946304
+PMID: 31895772  [Indexed for MEDLINE]
+

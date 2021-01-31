@@ -1,0 +1,50 @@
+
+1. Front Bioeng Biotechnol. 2019 Nov 26;7:365. doi: 10.3389/fbioe.2019.00365.
+eCollection 2019.
+
+Prediction of circRNAs Based on the DNA Methylation-Mediated Feature Sponge
+Function in Breast Cancer.
+
+Gu Y(1), Ci C(1), Zhang X(2), Su M(3), Lv W(1), Chen C(3), Liu H(1), Zhang D(4), 
+Zhang S(1)(5), Zhang Y(1)(3)(6).
+
+Author information: 
+(1)College of Bioinformatics Science and Technology, Harbin Medical University,
+Harbin, China.
+(2)Department of Breast Surgery, Harbin Medical University Cancer Hospital,
+Harbin, China.
+(3)School of Life Science and Technology, Harbin Institute of Technology, Harbin,
+China.
+(4)Department of General Surgery, The Second Affiliated Hospital of Harbin
+Medical University, Harbin, China.
+(5)College of Information and Computer Engineering, Northeast Forestry
+University, Harbin, China.
+(6)State Key Laboratory of Respiratory Disease, Guangzhou Medical University,
+Guangzhou, China.
+
+Several studies have found that DNA methylation is associated with
+transcriptional regulation and affect sponge regulation of non-coding RNAs in
+cancer. The integration of circRNA, miRNA, DNA methylation and gene expression
+data to identify sponge circRNAs is important for revealing the role of DNA
+methylation-mediated regulation of sponge circRNAs in cancer progression. We
+established a DNA methylation-mediated circRNA crosstalk network by integrating
+gene expression, DNA methylation and non-coding RNA data of breast cancer in
+TCGA. Four modules (26 candidate circRNAs) were mined. Next, 10 DNA
+methylation-mediated sponge circRNAs (sp_circRNAs) and five sponge driver genes
+(sp_driver genes) in breast cancer were identified in the CMD network using a
+computational process. Among the identified genes, ERBB2 was associated with six 
+sponge circRNAs, which illustrates its better sponge regulatory function.
+Survival analysis showed that DNA methylations of 10 sponge circRNA host genes
+are potential prognostic biomarkers in the TCGA dataset (p = 0.0239) and GSE78754
+dataset (p = 0.0377). In addition, the DNA methylation of two sponge circRNA host
+genes showed a significant negative correlation with their driver gene
+expressions. We developed a strategy to predict sponge circRNAs by DNA
+methylation mediated with playing the role of regulating breast cancer sponge
+driver genes.
+
+Copyright © 2019 Gu, Ci, Zhang, Su, Lv, Chen, Liu, Zhang, Zhang and Zhang.
+
+DOI: 10.3389/fbioe.2019.00365 
+PMCID: PMC6988805
+PMID: 32039169 
+

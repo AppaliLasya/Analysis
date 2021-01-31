@@ -1,0 +1,33 @@
+
+1. J Clin Lab Anal. 2006;20(6):245-9.
+
+IL-2 gene C/T polymorphism is associated with prostate cancer.
+
+Wu HC(1), Chang CH, Wan L, Wu CI, Tsai FJ, Chen WC.
+
+Author information: 
+(1)Department of Urology, China Medical University Hospital, Taichung, Taiwan.
+
+Cytokines are reported to be associated with the formation of prostate cancer.
+Our aim was to investigate whether C/T polymorphisms of the interleukin-2 (IL-2) 
+gene and IL-2 receptor beta (IL-2RB) gene are associated with prostate cancer. We
+compared the frequency of the polymorphisms of the IL-2 gene and the IL-2RB gene 
+between 96 patients with prostate cancer and 105 healthy male volunteers from the
+same area (age >60 years). They were followed for at least 5 years. There was a
+significant difference in distribution of the genotype of the IL-2 gene
+polymorphism between the prostate cancer group and the control group (P = 0.017).
+The distribution of the TT homozygote of the IL-2 gene was significantly higher
+in the cancer group (32.3%) than in the control group (16.2%). However, no
+significant statistical difference was found between the polymorphism of the IL-2
+gene and prostate cancer in survival analysis during a 5-year follow up period
+(log rank test; P = 0.19). There was no significant difference in the
+distribution of the genotype of the IL-2RB gene polymorphism between controls and
+cancer patients (P = 0.388). This study suggests that the IL-2 gene may be
+associated with susceptibility to prostate cancer in the Taiwan population.
+
+(c) 2006 Wiley-Liss, Inc.
+
+DOI: 10.1002/jcla.20149 
+PMCID: PMC6807315
+PMID: 17115417  [Indexed for MEDLINE]
+

@@ -1,0 +1,26 @@
+
+1. Prostate. 1995 Dec;27(6):314-20.
+
+Retinoblastoma gene mutations in primary human prostate cancer.
+
+Kubota Y(1), Fujinami K, Uemura H, Dobashi Y, Miyamoto H, Iwasaki Y, Kitamura H, 
+Shuin T.
+
+Author information: 
+(1)Department of Urology, Yokohama City University, School of Medicine, Japan.
+
+Structural alterations in the entire coding regions (exons 1 to 27) of the
+retinoblastoma (RB) gene in primary human prostate cancers were investigated,
+using polymerase chain reaction and single strand conformational polymorphism
+analysis of RNA. Of 25 samples obtained from patients, four (16.4%) were found to
+have RB alterations. DNA sequencing of the PCR products revealed point mutations 
+resulting in single amino-acid substitutions of exons 6 and 19 in two cases, and 
+base deletions of exons 8 and 17 in two cases. Two of four cases with RB
+mutations were moderately differentiated localized tumors and other two with RB
+mutations were poorly differentiated tumors with metastases. Our results suggest 
+that RB gene mutation is involved in progression steps of prostate
+carcinogenesis.
+
+DOI: 10.1002/pros.2990270604 
+PMID: 7501543  [Indexed for MEDLINE]
+

@@ -1,0 +1,40 @@
+
+1. Vopr Onkol. 2013;59(3):334-40.
+
+[Correlation of metastasis-free survival in patients with breast cancer and
+changes in the direction of expression of multidrug resistance genes during
+neoadjuvant chemotherapy].
+
+[Article in Russian]
+
+Litviakov NV, Garbukov EIu, Slonimskaia EM, Tsyganov MM, Denisov EV, Vtorushin
+SV, Khristenko KIu, Zav'ialova MV, Cherdyntseva NV.
+
+Previously, we showed the association of neoadjuvant chemotherapy (NAC) response 
+with changing the expression vector (increase or decrease) of multidrug
+resistance genes (MDR) in breast tumors during chemotherapy. The aim of the
+present study was to evaluate the relation between changes in the expression
+vector of MDR genes and distant metastasis-free survival. Patients (n = 120) with
+breast cancer (T1-4N0-3M0) treated by 2-4 cycles of NAC (CAX, FAC, and taxane
+regimes) and 4 cycles of adjuvant chemotherapy (FAC) were included. TaqMan-based 
+quantitative reverse transcriptase PCR (qRT-PCR) was used to estimate the
+expression of the following MDR genes: ABCB1, ABCC1, ABCC2, ABCC5, ABCG1, ABCG2, 
+GSTP1, and MVP--in biopsies before NAC and in tumor samples after chemotherapy.
+Comparing the corresponding expression levels allowed us to identify the vector
+of expression change during NAC. The results showed that 5-year distant
+metastasis-free survival was 73-78% in patients with a decrease in ABCB1, ABCC2, 
+and ABCG1 expression. The up-regulation of these genes during NAC was related to 
+a significant decrease (up to 50-55%) in metastasis-free survival (Kaplan-Meier
+analysis: log-rank p value = 0.006-0.03). The association of changing the
+expression vector of MDR genes with metastasis-free survival did not depend on
+tumor size, lymph node involvement, histological form, receptor status, molecular
+subtype, and others clinicopathological parameters of breast cancer. The obtained
+data suggest that changing the expression vector of MDR genes in breast tumors
+during NAC may be used as a new potential prognostic marker of breast cancer. An 
+increase in tumor expression of ABCB1, ABCC2, and ABCG1 during chemotherapy is a 
+factor of poor prognosis, whereas down-regulation of these genes--a favorable
+prognostic marker.
+
+
+PMID: 23909034  [Indexed for MEDLINE]
+

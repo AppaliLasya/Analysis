@@ -1,0 +1,40 @@
+
+1. Genet Mol Res. 2015 Dec 29;14(4):19191-202. doi: 10.4238/2015.December.29.29.
+
+Association between MTHFR gene polymorphisms (C677T, A1298C) and genetic
+susceptibility to prostate cancer: a meta-analysis.
+
+Chen PL(1), Li WT(2), Wang J(3), Jiang YD(1), Wu P(1), Chen T(1), Zheng SB(1).
+
+Author information: 
+(1)Department of Urology, Nanfang Hospital, Southern Medical University,
+Guangdong Province, China.
+(2)Department of Endocrinology, The Third Affiliated Hospital of Southern Medical
+University.
+(3)Department of Radiation Oncology, Nanfang Hospital, Southern Medical
+University, Guangdong Province, China.
+
+Genetic polymorphisms (C677T and A1298C) in methylenetetrahydrofolate reductase
+(MTHFR) were shown to be related to prostate cancer risk in previous studies;
+however, the results are controversial. We performed a meta-analysis of previous 
+studies and quantitatively estimated these associations. Pubmed, Embase, and
+Cochrane Library Database were searched for published case-control studies
+evaluating the association between C677T (or A1298C) and prostate cancer risk.
+Pooled associations were presented as odds ratios (ORs) along with their 95%
+confidence intervals. Twenty-one case control studies were identified for
+meta-analysis that included 21,581 participants. No significant associations were
+found between the MTHFR polymorphisms C677T or A1298C and prostate cancer risk in
+our meta-analysis. However, in subgroup analyses, the C677T CT polymorphism was
+associated with increased prostate cancer risk in East Asians (CT vs CC+TT: OR = 
+1.324, P = 0.03). The A1298C CC polymorphism in MTHFR was also linked to slightly
+reduced prostate cancer risk in European residents (CC vs AC+AA: OR = 0.751, P = 
+0.004; CC vs AA: OR = 0.768, P = 0.011), whereas it was associated with a
+significantly increased prostate cancer risk in Asian residents (CC vs AA: OR =
+1.862, P = 0.006). The C677T CT polymorphism of MTHFR may be a risk factor for
+prostate cancer in East Asians. The association between the MTHFR A1298C CC
+genotype and prostate cancer risk may vary within different populations.
+Large-scale well-designed studies are required to confirm these associations.
+
+DOI: 10.4238/2015.December.29.29 
+PMID: 26782572  [Indexed for MEDLINE]
+

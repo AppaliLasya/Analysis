@@ -1,0 +1,32 @@
+
+1. J Alzheimers Dis. 2014;38(4):831-44. doi: 10.3233/JAD-131061.
+
+Amyloid-β alters the DNA methylation status of cell-fate genes in an Alzheimer's 
+disease model.
+
+Taher N(1), McKenzie C, Garrett R, Baker M, Fox N, Isaacs GD.
+
+Author information: 
+(1)Department of Biology and Chemistry, Liberty University, Lynchburg, VA, USA.
+
+Alzheimer's disease (AD) is characterized by neurofibrillary tangles and
+extracellular amyloid-β plaques (Aβ). Despite ongoing research, some ambiguity
+remains surrounding the role of Aβ in the pathogenesis of this neurodegenerative 
+disease. While several studies have focused on the mutations associated with AD, 
+our understanding of the epigenetic contributions to the disease remains less
+clear. To that end, we determined the changes in DNA methylation in
+differentiated human neurons with and without Aβ treatment. DNA was isolated from
+neurons treated with Aβ or vehicle, and the two samples were digested with either
+a methylation-sensitive (HpaII) or a methylation-insensitive (MspI) restriction
+endonuclease. The fragments were amplified and co-hybridized to a commercial
+promoter microarray. Data analysis revealed a subset of genomic loci that shows a
+significant change in DNA methylation following Aβ treatment in comparison to the
+control group. After mapping these loci to nearby genes, we discovered high
+enrichment for cell-fate genes that control apoptosis and neuronal
+differentiation. Finally, we incorporated three of those genes in a possible
+model suggesting the means by which Aβ contributes to the brain shrinkage and
+memory loss seen in AD.
+
+DOI: 10.3233/JAD-131061 
+PMID: 24077436  [Indexed for MEDLINE]
+

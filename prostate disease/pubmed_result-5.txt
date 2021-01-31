@@ -1,0 +1,41 @@
+
+1. Mol Carcinog. 1992;5(1):52-61.
+
+Alterations in mRNA levels for growth-related genes after transplantation into
+castrated hosts in oncogene-induced clonal mouse prostate carcinoma.
+
+Egawa S(1), Kadmon D, Miller GJ, Scardino PT, Thompson TC.
+
+Author information: 
+(1)Scott Department of Urology, Baylor College of Medicine, Houston, TX 77030.
+
+A clonal mouse prostate carcinoma was established by the introduction of the ras 
+and myc oncogenes via the recombinant retrovirus Zipras/myc 9 using a mouse
+prostate reconstitution model system. A single-cell suspension derived from an
+early passage ras+myc-induced carcinoma was inoculated into the flanks of intact 
+or castrated adult male C57BL/6 mice, and tumors were harvested 3 wk
+postinoculation for northern and Southern blotting. Tumor volume analysis showed 
+that this carcinoma was not dependent on testicular androgens for growth.
+Southern blot analysis of virus-cell DNA junction fragments revealed that tumor
+cell populations recovered from both intact and castrated mice were progeny of
+the same virus-infected cell. Northern blotting showed that mRNA levels for the
+four growth-related genes transforming growth factor-beta 1 (TGF-beta 1),
+transforming growth factor-beta 3 (TGF-beta 3), tissue-type plasminogen activator
+(tPA), and c-myc were significantly elevated in clonal mouse prostate carcinomas 
+grown in castrated hosts. In contrast, androgen receptor mRNA levels were
+significantly reduced under the same conditions. The response of TGF-beta 1, tPA,
+and c-myc mRNA levels in the carcinomas grown in castrated hosts was similar to
+that shown previously in normal rat ventral prostate. However, unlike normal rat 
+ventral prostate after castration, increased numbers of apoptotic cells were not 
+seen in the castrated group relative to the intact group at the time of analysis,
+indicating that the altered gene expression was not associated with cell death.
+In addition, testosterone-repressed prostate mRNA number 2 levels, shown
+previously to be elevated after castration in normal rat ventral prostate, were
+not increased in the androgen-deprived clonal mouse prostate carcinomas.
+Therefore, this early passage clonal ras+myc-induced prostate carcinoma
+demonstrates unique patterns of expression for a set of growth-related genes in
+an androgen-deprived environment.
+
+DOI: 10.1002/mc.2940050110 
+PMID: 1543541  [Indexed for MEDLINE]
+

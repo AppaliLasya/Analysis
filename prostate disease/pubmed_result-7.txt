@@ -1,0 +1,36 @@
+
+1. Prostate. 1992;21(2):145-52.
+
+Analysis of retinoblastoma (RB) gene deletion in human prostatic carcinomas.
+
+Sarkar FH(1), Sakr W, Li YW, Macoska J, Ball DE, Crissman JD.
+
+Author information: 
+(1)Department of Pathology, Wayne State University, School of Medicine, Detroit, 
+MI 48201.
+
+The retinoblastoma tumor suppressor gene (RB gene) has been reported to be
+deleted and/or modified in a number of human cancers, indicating that dysfunction
+of this tumor suppressor gene is perhaps critical in the development of many
+human tumors. In addition to deletion of one copy and/or mutational inactivation 
+of the RB gene, this gene has also been reported to be altered by a small
+deletion in the promoter sequence in one case of small cell mixed adenocarcinoma 
+of the prostate. A deletion of 105 nucleotides of the RB gene in exon 21, leading
+to an aberrant short-sized mRNA transcript, has also been reported in one cell
+line (DU 145) derived from brain metastasis of prostatic adenocarcinoma. We have 
+analyzed tissues from 10 prostate specimens (3 hyperplastic and 7 neoplastic) and
+one prostate cancer cell line (DU 145) for the presence of short-sized mRNA
+transcript (exon 21 alterations) by polymerase chain reaction (PCR) using total
+RNA extracted from frozen tumors and the cell line. None of the prostate tissue
+showed any evidence of aberrant short-sized mRNA, although it was confirmed in
+the DU 145 cell line. Simultaneously, we have used DNA-PCR to investigate RB
+promoter deletion in 23 adenocarcinomas and one small cell carcinoma of the
+prostate. We also failed to demonstrate any indication of RB promoter deletion at
+the DNA level in adenocarcinomas. The single case of small cell carcinoma failed 
+to show evidence of any aberration in RB promoter. We therefore conclude that
+neither RB promoter alterations nor the exon 21 deletion are associated with
+typical prostate adenocarcinoma.
+
+DOI: 10.1002/pros.2990210207 
+PMID: 1329054  [Indexed for MEDLINE]
+

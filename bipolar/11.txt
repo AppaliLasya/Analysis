@@ -1,0 +1,26 @@
+
+1. Neurosci Lett. 2001 Aug 24;309(2):135-7.
+
+Association study between novel promoter variants at the 5-HT2C receptor gene and
+human patients with bipolar affective disorder.
+
+Gutiérrez B(1), Arias B, Papiol S, Rosa A, Fañanás L.
+
+Author information: 
+(1)Unitat d'Antropologia, Departament de Biologia Animal, Facultat de Biologia,
+Universitat de Barcelona, Diagonal 645, 08028 Barcelona, Spain.
+gutierre@porthos.bio.ub.es
+
+Two recently described adjacent DNA polymorphisms [(GT)12-18 and (CT)4-5] in the 
+5'-regulatory region of 5-HT2C receptor gene were analysed in a sample of 88
+bipolar patients and 162 controls, all of Spanish origin. Statistical analyses
+revealed no overall allele or genotype associations with the disease. A haplotype
+analyses between the (GT)12-18/(CT)4-5 motif and a Cys23Ser variant of the 5-HT2C
+gene (which had previously been genotyped in the same sample) showed similar
+distributions between cases and controls. Only a slight increase of s-Ser23
+haplotype was found in the subgroup of bipolar women with family history of
+psychiatric illness (OR=1.24 [95%CI: 1.12-1.38]).
+
+DOI: 10.1016/s0304-3940(01)02046-8 
+PMID: 11502363  [Indexed for MEDLINE]
+

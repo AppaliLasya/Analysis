@@ -1,0 +1,40 @@
+
+1. Clin Cancer Res. 2007 Feb 1;13(3):839-43.
+
+Germline mutations in the BRCA2 gene and susceptibility to hereditary prostate
+cancer.
+
+Agalliu I(1), Kwon EM, Zadory D, McIntosh L, Thompson J, Stanford JL, Ostrander
+EA.
+
+Author information: 
+(1)Division of Public Health Sciences, Fred Hutchinson Cancer Research Center,
+Department of Epidemiology, School of Public Health and Community Medicine,
+University of Washington, Seattle, USA.
+
+PURPOSE: Several epidemiologic studies have reported that carriers of germline
+mutations in the BRCA2 gene have an increased risk of prostate cancer, with the
+highest risk observed in men diagnosed at earlier ages. However, studies of the
+contribution of BRCA2 mutations to the etiology of hereditary prostate cancer
+(HPC) have been inconsistent.
+EXPERIMENTAL DESIGN: To further address this issue, 266 subjects from 194 HPC
+families participating in the Seattle-based Prostate Cancer Genetic Research
+Study were screened for BRCA2 mutations by sequencing the coding regions,
+intron-exon boundaries, and suspected regulatory elements of this gene. Of
+selected HPC families, 32 had multiple breast or ovarian cancer cases, 16 were
+Jewish, 8 had a pancreatic cancer case, and 138 had at least one affected man
+diagnosed with prostate cancer at an early age (<60 years).
+RESULTS: No disease-associated protein truncating BRCA2 mutations were found in
+266 subjects from HPC families. There were 61 DNA sequence variants, of which 31 
+(50.8%) changed the predicted amino acids. No associations were found between
+these missense changes and family characteristics. Among affected men with
+prostate cancer, there were no statistically significant differences between the 
+genotype frequencies of DNA variants with a minor allele frequency of 1% or
+higher and between the strata defined by median age at diagnosis or by clinical
+features.
+CONCLUSION: No evidence was found in this study for an association between BRCA2 
+mutations and susceptibility to HPC in men selected from high-risk families.
+
+DOI: 10.1158/1078-0432.CCR-06-2164 
+PMID: 17289875  [Indexed for MEDLINE]
+

@@ -1,0 +1,28 @@
+
+1. Jpn J Clin Oncol. 1996 Apr;26(2):77-81.
+
+APC gene mutations in human prostate cancer.
+
+Watanabe M(1), Kakiuchi H, Kato H, Shiraishi T, Yatani R, Sugimura T, Nagao M.
+
+Author information: 
+(1)Carcinogeneis Division, National Cancer Center Research Institute, Tokyo,
+Japan.
+
+Prostate cancer is the most common cancer in aged men. Although ras and p53 gene 
+mutations have been detected in some prostate cancers, the major genetic
+alterations involved in its carcinogenesis are not well understood. Mutation of
+the APC gene is responsible for colorectal tumors in which ras and p53 mutations 
+are also often involved. Using PCR-SSCP analysis and sequencing, we examined 31
+human primary prostate cancers (three cases at stage A, 10 at stage B, five at
+stage C and 13 at stage D) and four cases of lymph node metastasis from the stage
+D cases, for mutations in the APC gene. A mutation was detected in only one of
+the 35 samples (3%). This mutation, present in a primary stage B cancer, had a T 
+to C transition in exon 15 at the first position of codon 956, resulting in
+substitution of histidine for tyrosine. This study clarified that APC gene
+mutations are not largely involved in the development of clinical prostate
+cancer.
+
+DOI: 10.1093/oxfordjournals.jjco.a023188 
+PMID: 8609698  [Indexed for MEDLINE]
+

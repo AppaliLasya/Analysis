@@ -1,0 +1,46 @@
+
+1. Cancers (Basel). 2020 Jan 23;12(2). pii: E283. doi: 10.3390/cancers12020283.
+
+The Association of IL-1 and HRAS Gene Polymorphisms with Breast Cancer
+Susceptibility in a Jordanian Population of Arab Descent: A Genotype-Phenotype
+Study.
+
+Al-Eitan LN(1)(2), Al-Ahmad BH(1), Almomani FA(1).
+
+Author information: 
+(1)Department of Applied Biological Sciences, Jordan University of Science and
+Technology, Irbid 22110, Jordan.
+(2)Department of Biotechnology and Genetic Engineering, Jordan University of
+Science and Technology, Irbid 22110, Jordan.
+
+Breast cancer (BC) pathogenesis is poorly understood and not yet completely
+determined. BC susceptibility genes are responsible for 20% to 25% of breast
+cancer risk. The main objective of this study is to identify the genetic
+polymorphisms within the Harvey rat sarcoma viral oncogene homolog (HRAS1) and
+interleukin-1 receptor antagonist (IL1-Ra) genes in Jordanian BC female patients 
+and to investigate the genetic association of these polymorphisms with BC.
+Samples were collected from 150 Jordanian BC patients and 187 healthy age-matched
+controls. PCR and PCR-RFLP techniques were used to identify genetic polymorphisms
+within these candidate genes. The single nucleotide polymorphism single
+nucleotide polymorphism (SNP) association web tool SNPStats (v. 3.6) was used to 
+investigate the allelic and genotypic association with BC. Different statistical 
+analyses were used to study the correlation between the investigated genetic
+variants and several prognosis factors of BC. A genetic association between BC
+susceptibility and Il-1β rs1143634 was found specifically at the allelic level of
+E1 as a risk allele (72% in the cases vs. 64.2% in the controls). Another genetic
+association was found in the IL-Ra gene (86-VNTR (variable number tandem
+repeat)), which presented one repeat allele (24.1% in cases vs. 15.59% in
+controls) and could be considered as a risk allele in Jordanian women. In
+contrast, this study found that there is no genetic association between Il-1β SNP
+rs16944 and BC. In addition, a significant association was found between the
+allelic level of the HRAS1 gene and BC susceptibility. Since this study is the
+first to be conducted on the genetic susceptibility of these genes to BC in the
+Jordanian population, more investigations on the link between BC and these
+variants are recommended to determine the impact of these polymorphisms on other 
+ethnic groups.
+
+DOI: 10.3390/cancers12020283 
+PMID: 31979384 
+
+Conflict of interest statement: The authors declare no conflict of interest.
+

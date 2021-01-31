@@ -1,0 +1,28 @@
+
+1. J Urol. 1993 Jul;150(1):257-61.
+
+p53 gene alterations in human prostate carcinoma.
+
+Effert PJ(1), McCoy RH, Walther PJ, Liu ET.
+
+Author information: 
+(1)Department of Medicine, Lineberger Comprehensive Cancer Center, University of 
+North Carolina, Chapel Hill 27599.
+
+Alterations of the p53 gene are among the most frequent genetic lesions in a
+variety of human malignancies. Their role in prostate cancer is, however,
+unclear. We have analyzed 10 primary and two metastatic human prostate carcinomas
+as well as 3 prostate cancer cell lines for mutations of the p53-gene. Using
+single strand conformational polymorphism analysis (SSCP) and direct sequencing
+of the polymerase chain reaction (PCR) products, p53 mutations were detected in 1
+of 10 primary prostate cancers. By contrast, 1 of 2 metastatic tumors and all 3
+prostate cancer cell lines (derived from metastases) were found to contain a
+mutant p53 gene. Thus, our data suggest that alterations of the p53 gene at the
+mutational "hot spots" appear to occur infrequently in primary human prostate
+cancer, but may emerge in later stages of tumor progression. Furthermore, we
+confirm that loss of heterozygosity at a locus telomeric to p53, but not
+including p53, is associated with metastatic progression in 1 case.
+
+DOI: 10.1016/s0022-5347(17)35458-7 
+PMID: 8510267  [Indexed for MEDLINE]
+

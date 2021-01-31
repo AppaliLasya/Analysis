@@ -1,0 +1,43 @@
+
+1. Neurobiol Aging. 2019 Oct;82:40-47. doi: 10.1016/j.neurobiolaging.2019.06.010.
+Epub 2019 Jul 4.
+
+Longitudinal cognitive decline in autosomal-dominant Alzheimer's disease varies
+with mutations in APP and PSEN1 genes.
+
+Almkvist O(1), Rodriguez-Vieitez E(2), Thordardottir S(3), Nordberg A(2),
+Viitanen M(2), Lannfelt L(4), Graff C(3).
+
+Author information: 
+(1)Division of Clinical Geriatrics, Department of Neurobiology Care Sciences and 
+Society, Karolinska Institutet, Stockholm, Sweden. Electronic address:
+ove.almkvist@ki.se.
+(2)Division of Clinical Geriatrics, Department of Neurobiology Care Sciences and 
+Society, Karolinska Institutet, Stockholm, Sweden.
+(3)Division of Neurogeriatrics, Department of Neurobiology Care Sciences and
+Society, Karolinska Institutet, Stockholm, Sweden.
+(4)Division of Geriatrics, Department of Public Health and Caring Sciences,
+Uppsala University, Uppsala, Sweden.
+
+The purpose was to compare longitudinal cognitive changes in APP and PSEN1 gene
+mutation carriers and noncarriers from four autosomal-dominant Alzheimer's
+disease (ADAD) families across preclinical and early clinical stages of disease. 
+Carriers (n = 34) with four different mutations (PSEN1M146V, PSEN1H163Y, APPSWE, 
+and APPARC) and noncarriers (n = 41) were followed up longitudinally with
+repeated cognitive assessments starting many years before the expected clinical
+onset. The relationship between cognition and years to expected clinical onset,
+education, age, and type of mutation was analyzed using mixed-effects models.
+Results showed an education-dependent and time-related cognitive decline with
+linear and quadratic predictors in mutation carriers. Cognitive decline began
+close to the expected clinical onset and was relatively rapid afterward in PSEN1 
+mutation carriers, whereas decline was slower and started earlier than 10 years
+before expected clinical onset in APP mutation carriers. In noncarriers, the
+decline was minimal across time in accordance with normal aging. These results
+suggest that phenotypes for onset and rate of cognitive decline vary with PSEN1
+and APP genes, suggesting a behavioral heterogeneity in ADAD.
+
+Copyright © 2019 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neurobiolaging.2019.06.010 
+PMID: 31386938 
+

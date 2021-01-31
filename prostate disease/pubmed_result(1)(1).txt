@@ -1,0 +1,68 @@
+
+1. Adv Exp Med Biol. 1997;407:41-53.
+
+Involvement of the multiple tumor suppressor genes and 12-lipoxygenase in human
+prostate cancer. Therapeutic implications.
+
+Gao X(1), Porter AT, Honn KV.
+
+Author information: 
+(1)Department of Radiation Oncology, Wayne State University School of Medicine,
+Detroit, Michigan 48202, USA.
+
+We performed a detailed and comprehensive study of the involvement of tumor
+suppressor genes in human prostate cancer. We utilized primers flanking either
+the restriction fragment length polymorphism (RFLP) or variable number of tandem 
+repeat [VNTR; microsatellite or simple repeat site (SRS)] polymorphic sites to
+polymerase chain reaction (PCR) amplify the genomic DNA and detect loss of
+heterozygosity of the target genes. Quantitative reverse transcription (RT)-PCR
+was performed to measure the mRNA expression levels and PCR/single strand
+conformational polymorphism (SSCP) and DNA sequencing carried out to detect
+mutation of the tumor suppressor genes. We found that multiple tumor suppressor
+genes (e.g., p53, DCC, APC, MCC, BRCA1, and WAF1/CIP1) were inactivated at
+different frequencies via various mechanisms [e.g., loss of heterozygosity (LOH),
+loss of expression (LOE), mutation, and inactivation by cellular binding
+protein]. Several important and novel findings are as following: LOH and LOE of
+the DCC gene, LOH, LOE, and possible mutation of the APC/MCC genes, LOH of the
+BRCA1 locus, and mutation of the WAF1/CIP1 gene. For p53 tumor suppressor gene
+alone, multiple inactivation mechanisms (i.e., LOH, LOE, mutation, and
+amplification of the cellular inactivating protein MDM2) were identified. A
+possible involvement of genomic instability or mutator phenotype in human
+prostate cancer was investigated by microsatellite typing using PCR. A high
+frequency of microsatellite instability was detected and the microsatellite
+instability found to correlate with advanced stage and poor differentiation of
+prostate cancer, suggesting that genes functioning in DNA mismatch repair or
+general stabilization of the genome may be involved in prostate cancer. The
+results obtained in this study suggested that multiple tumor suppressor genes
+(both known and unknown genes) may share the role in prostate cancer; a pattern
+which has been found in a number of human malignancies such as cancers of the
+esophagus, colon and breast. In fact, we performed deletion studies aimed at
+localizing potential tumor suppressor loci on various chromosomal regions. A
+number of chromosomal regions (i.e., 6p12-24 and 17q21) were found to potentially
+harbor unidentified tumor suppressor genes. Detailed deletion mapping has
+localized the potential tumor suppressor loci to a < 2 Mb region centromeric to
+the BRCA1 gene on chromosome 17q. In addition, we identified a number of novel
+mechanisms of tumor suppressor gene inactivation, in prostate cancer such as loss
+of mRNA expression of the DCC, APC, MCC and p53 gene, and mutator phenotype. And 
+for the very first time, we identified somatic mutations of the WAF1/CIP1 gene in
+primary human malignancy-human prostate cancer. This finding provides the first
+evidence in primary tumor that the WAF1/CIP1 gene may be a tumor suppressor gene 
+and may be involved in prostate cancer. We identified 12-lipoxygenase (12-LOX) as
+a potential prognostic marker for human prostate cancer. mRNA expression levels
+of the 12-LOX gene was measured by quantitative reverse transcription-polymerase 
+chain reaction (RT-PCR) and semi-quantitative in situ hybridization (ISH) in 122 
+pairs of matched normal and tumor tissues from prostate cancer patients. We found
+that 12-LOX expression levels were elevated in approximately half of the patients
+analyzed and the 12-LOX elevation correlates with advanced stage, poor
+differentiation, and surgical margin positivity. Our data suggest that 12-LOX may
+serve as a correlative marker for a more aggressive phenotype of prostate cancer 
+and therefore for poor prognosis. We are currently refining our assays for
+possible clinical applicability. Since not all patients with loss of expression
+of the DCC gene showed LOH of the DCC locus, there must be other mechanism(s)
+responsible for loss of expression of the DCC gene. When we analyzed the
+relationship between DCC loss of expression and 12-LOX elevation in prostate
+cancer pati
+
+DOI: 10.1007/978-1-4899-1813-0_7 
+PMID: 9321930  [Indexed for MEDLINE]
+

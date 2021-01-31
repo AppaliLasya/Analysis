@@ -1,0 +1,43 @@
+
+1. Curr Alzheimer Res. 2019;16(8):764-769. doi: 10.2174/1567205016666190806161342.
+
+Probable Novel PSEN1 Gln222Leu Mutation in a Chinese Family with Early-Onset
+Alzheimer's Disease.
+
+Wang H(1), Sun R(1), Shi Y(1), Xia M(1), Zhao J(1), Yang M(1), Ma L(1), Sun Y(1),
+Li G(1), Zhang H(1), Qin W(1), Zhang J(1).
+
+Author information: 
+(1)Department of Neurology, People's Hospital of Zhengzhou University, Zhengzhou,
+Henan, China.
+
+BACKGROUND: The rate of occurrence of Alzheimer's disease is increasing around
+the world. However, there is still no significant breakthrough in the study of
+its etiology and pathogenesis.
+OBJECTIVE: To screen Alzheimer's disease pathogenic genes, which may be conducive
+to the elucidation of the pathogenic mechanisms of Alzheimer's disease And
+predict the pathogenicity by various computer software.
+METHODS: Clinical and neuroimaging examination, Whole Exome Sequencing, and
+Sanger sequencing were performed in the proband. Mutation sites were verified in 
+158 subjects.
+RESULTS: We reported a proband carrying a probably novel pathogenic mutation,
+which clinically manifests as progressive memory loss, visual-spatial disorders, 
+apraxia, psychobehavioral disorders, and temperamental and personality changes.
+Whole Exome Sequencing detected a novel missense mutation at codon 222 (Q222L),
+which is a heterozygous A to T point mutation at position 665 (c.665A>T) in exon 
+5 of the presenilin 1 leading to a glutamine-to-leucine substitution. The
+mutation was also identified by Sanger sequencing in one family member;
+nevertheless, it was not detected in the other 7 unaffected family members, 50
+sporadic Alzheimer's disease patients and 100 control subjects.
+CONCLUSION: A novel mutation in exon 5 of the presenilin 1 gene (Gln222Leu) in a 
+Chinese family with early-onset Alzheimer's disease has been reported, besides，
+it was predicted that the missense mutation was probably a novel pathogenic
+mutation that was reported for the first time in a Chinese family with
+early-onset Alzheimer's disease.
+
+Copyright© Bentham Science Publishers; For any queries, please email at
+epub@benthamscience.net.
+
+DOI: 10.2174/1567205016666190806161342 
+PMID: 31385772 
+

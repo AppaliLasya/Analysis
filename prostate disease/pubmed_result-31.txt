@@ -1,0 +1,33 @@
+
+1. J Urol. 1996 Jun;155(6):2080-4.
+
+NM23 gene expression in human prostatic carcinomas and benign prostatic
+hyperplasias: altered expression in combined androgen blockaded carcinomas.
+
+Borchers H(1), Meyers FJ, Gumerlock PH, Stewart SL, deVere White RW.
+
+Author information: 
+(1)Department of Urology, University of California, Davis, Sacramento 95817, USA.
+
+PURPOSE: To investigate whether NM23 (nm23-H1, nm23-H2), a metastasis suppressor 
+gene family, is a molecular marker indicative of metastatic potential of
+localized carcinoma of the prostate (CaP). Previously, we found decreased nm23-H2
+expression correlated with an increase in stage, and here we have expanded the
+cohort.
+MATERIALS AND METHODS: Eighty prostate tissue samples from patients with CaP and 
+benign prostatic hyperplasia (BPH) were examined by quantitative reverse
+transcriptase polymerase chain reaction (RT-PCR) for NM23 gene expression.
+Samples were grouped according to stage, grade and whether the patient received
+combined androgen blockade (CAB) prior to surgery.
+RESULTS: We could not confirm our initial results of an inverse correlation of
+nm23-H2 expression levels with grade. However, two significant results were found
+after CAB: 1) nm23-H1 expression was reduced (p = 0.003), and 2) nm23-H2
+expression across stage and grade was uniformly higher (p = 0.003) than in
+untreated samples.
+CONCLUSION: NM23 appears not to be a useful molecular marker of metastatic
+potential in CaP. The altered gene expression after CAB may relate to a cancer
+cell subpopulation insensitive to apoptosis induced by hormone withdrawal.
+
+
+PMID: 8618340  [Indexed for MEDLINE]
+

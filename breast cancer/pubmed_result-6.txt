@@ -1,0 +1,40 @@
+
+1. Sci Rep. 2020 Feb 10;10(1):2262. doi: 10.1038/s41598-020-59057-5.
+
+SETD3 acts as a prognostic marker in breast cancer patients and modulates the
+viability and invasion of breast cancer cells.
+
+Hassan N(1), Rutsch N(1), Győrffy B(2), Espinoza-Sánchez NA(1)(3), Götte M(4).
+
+Author information: 
+(1)Department of Gynecology and Obstetrics, Münster University Hospital,
+Albert-Schweitzer-Campus 1, D11, Münster, 48149, Germany.
+(2)Department of Bioinformatics and 2nd Department of Pediatrics, Semmelweis
+University, and TTK Momentum Cancer Biomarker Research Group, Budapest, Hungary.
+(3)Unidad de Investigación en Virología y Cáncer, Hospital Infantil de México
+Federico Gómez, Ciudad de México, 06720, Mexico.
+(4)Department of Gynecology and Obstetrics, Münster University Hospital,
+Albert-Schweitzer-Campus 1, D11, Münster, 48149, Germany. mgotte@uni-muenster.de.
+
+In several carcinomas, the SET Domain Containing 3, Actin Histidine
+Methyltransferase (SETD3) is associated with oncogenesis. However, there is
+little knowledge about the role of SETD3 in the progression and prognosis of
+breast cancer. In this study, we first analyzed the prognostic value of SETD3 in 
+breast cancer patients using the database of the public Kaplan-Meier plotter.
+Moreover, in vitro assays were performed to assess the role of SETD3 in the
+viability and capacity of invasion of human breast cancer cell lines. We observed
+that the high expression of SETD3 was associated with better relapse-free
+survival (RFS) of the whole collective of 3,951 patients, of Estrogen
+Receptor-positive, and of Luminal A-type breast cancer patients. However, in
+patients lacking expression of estrogen-, progesterone- and HER2-receptor, and
+those affected by a p53-mutation, SETD3 was associated with poor RFS. In vitro
+analysis showed that SETD3 siRNA depletion affects the viability of
+triple-negative cells as well as the cytoskeletal function and capacity of
+invasion of highly invasive MDA-MB-231 cells. Interestingly, SETD3 regulates the 
+expression of other genes associated with cancer such as β-actin, FOXM1, FBXW7,
+Fascin, eNOS, and MMP-2. Our study suggests that SETD3 expression can act as a
+subtype-specific biomarker for breast cancer progression and prognosis.
+
+DOI: 10.1038/s41598-020-59057-5 
+PMID: 32042016 
+

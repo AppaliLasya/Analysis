@@ -1,0 +1,39 @@
+
+1. Mol Biol Res Commun. 2019 Dec;8(4):141-150. doi: 10.22099/mbrc.2019.34198.1420.
+
+In silico analysis for determining the deleterious nonsynonymous single
+nucleotide polymorphisms of BRCA genes.
+
+Yadegari F(1), Majidzadeh K(1).
+
+Author information: 
+(1)Genetics Department, Breast Cancer Research Center, Motamed Cancer Institute, 
+ACECR, Tehran, Iran.
+
+Recent advances in DNA sequencing techniques have led to an increase in the
+identification of single nucleotide polymorphisms (SNPs) in BRCA1 and BRCA2
+genes, but no further information regarding the deleterious probability of many
+of them is available (Variants of Unknown Significance/VUS). As a result, in the 
+current study, different sequence- and structure-based computational tools
+including SIFT, PolyPhen2, PANTHER, SNPs&GO, FATHMM, SNAP, PhD-SNP, Align-GVGD,
+and I-Mutant were utilized for determining how resulted BRCA protein is affected 
+by corresponding missense mutations. FoldX was used to estimate mutational
+effects on the structural stability of BRCA proteins. Variants were considered
+extremely deleterious only when all tools predicted them to be deleterious. A
+total of 10 VUSs in BRCA1 (Cys39Ser, Cys64Gly, Phe861Cys, Arg1699Pro, Trp1718Cys,
+Phe1761Ser, Gly1788Asp, Val1804Gly, Trp1837Gly, and Trp1837Cys) and 12 in BRCA2
+(Leu2510Pro, Asp2611Gly, Tyr2660Asp, Leu2686Pro, Leu2688Pro, Tyr2726Cys,
+Leu2792Pro, Gly2812Glu, Gly2813Glu, Arg2842Cys, Asp3073Gly, and Gly3076Val) were 
+considered as extremely deleterious. Results suggested that deleterious variants 
+were mostly enriched in the N- and C-terminal domain of the BRCA1 and BRCA2
+C-terminus. Utilizing evolutionary conservation analysis, we demonstrated that
+the majority of deleterious SNPs ensue in highly conserved regions of BRCA genes.
+Furthermore, utilizing FoldX, we demonstrated that alterations in the function of
+proteins are not always together with stability alterations.
+
+DOI: 10.22099/mbrc.2019.34198.1420 
+PMCID: PMC6995337
+PMID: 32042831 
+
+Conflict of interest statement: Authors have no competing interests
+

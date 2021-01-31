@@ -1,0 +1,42 @@
+
+1. PLoS One. 2013 May 2;8(5):e62766. doi: 10.1371/journal.pone.0062766. Print 2013.
+
+Neoadjuvant chemotherapy induces expression levels of breast cancer resistance
+protein that predict disease-free survival in breast cancer.
+
+Kim B(1), Fatayer H, Hanby AM, Horgan K, Perry SL, Valleley EM, Verghese ET,
+Williams BJ, Thorne JL, Hughes TA.
+
+Author information: 
+(1)Leeds Institute of Molecular Medicine, University of Leeds, Leeds, United
+Kingdom.
+
+Three main xenobiotic efflux pumps have been implicated in modulating breast
+cancer chemotherapy responses. These are P-glycoprotein (Pgp), Multidrug
+Resistance-associated Protein 1 (MRP1), and Breast Cancer Resistance Protein
+(BCRP). We investigated expression of these proteins in breast cancers before and
+after neoadjuvant chemotherapy (NAC) to determine whether their levels define
+response to NAC or subsequent survival. Formalin-fixed paraffin-embedded tissues 
+were collected representing matched pairs of core biopsy (pre-NAC) and surgical
+specimen (post-NAC) from 45 patients with invasive ductal carcinomas. NAC regimes
+were anthracyclines +/- taxanes. Immunohistochemistry was performed for Pgp, MRP1
+and BCRP and expression was quantified objectively using computer-aided scoring. 
+Pgp and MRP1 were significantly up-regulated after exposure to NAC (Wilcoxon
+signed-rank p = 0.0024 and p<0.0001), while BCRP showed more variation in
+response to NAC, with frequent up- (59% of cases) and down-regulation (41%)
+contributing to a lack of significant difference overall. Pre-NAC expression of
+all markers, and post-NAC expression of Pgp and MRP1 did not correlate with NAC
+response or with disease-free survival (DFS). Post-NAC expression of BCRP did not
+correlate with NAC response, but correlated significantly with DFS (Log rank
+p = 0.007), with longer DFS in patients with low post-NAC BCRP expression. In
+multivariate Cox regression analyses, post-NAC BCRP expression levels proved to
+predict DFS independently of standard prognostic factors, with high expression
+associated with a hazard ratio of 4.04 (95% confidence interval 1.3-12.2;
+p = 0.013). We conclude that NAC-induced expression levels of BCRP predict
+survival after NAC for breast cancer, while Pgp and MRP1 expression have little
+predictive value.
+
+DOI: 10.1371/journal.pone.0062766 
+PMCID: PMC3642197
+PMID: 23658771  [Indexed for MEDLINE]
+

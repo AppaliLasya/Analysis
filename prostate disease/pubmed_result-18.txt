@@ -1,0 +1,30 @@
+
+1. Cancer Res. 1995 Mar 1;55(5):1002-5.
+
+Loss of heterozygosity of the BRCA1 and other loci on chromosome 17q in human
+prostate cancer.
+
+Gao X(1), Zacharek A, Salkowski A, Grignon DJ, Sakr W, Porter AT, Honn KV.
+
+Author information: 
+(1)Department of Radiation Oncology (Cancer Biology Division), Wayne State
+University School of Medicine, Detroit, Michigan 48202.
+
+A putative tumor suppressor gene, the BRCA1 gene, on chromosome 17q21 has
+recently been identified and shown to be mutated in breast and ovarian cancers.
+We have undertaken the present study to explore the possible involvement of the
+BRCA1 and/or other potential genes on chromosome 17q in prostate cancer.
+Twenty-three patients were screened by PCR for loss of heterozygosity at five
+microsatellite loci spanning the region of 17q12-21. One of the loci (i.e.,
+D17S855) studied is intragenic to the BRCA1. Forty-four and 40% of the
+informative cases showed loss of heterozygosity at the BRCA1 (D17S855) and
+D17S856 loci, respectively, whereas 10%, 10%, and 11% of the informative cases
+were positive for loss of heterozygosity at the D17S250, D17S579, and D17S588
+loci, respectively. Overall, 52% (11/21) of the informative cases have allelic
+loss of at least one locus on chromosome 17q. Our data suggest that the BRCA1
+and/or other genes within the interval between BRCA1 and D17S856 on 17q21 may be 
+important in the pathogenesis of prostate cancer.
+
+
+PMID: 7866981  [Indexed for MEDLINE]
+

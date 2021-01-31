@@ -1,0 +1,26 @@
+
+1. EMBO J. 1985 Mar;4(3):667-74.
+
+Chromosome translocation activates heterogeneously initiated, bipolar
+transcription of a mouse c-myc gene.
+
+Calabi F, Neuberger MS.
+
+In many mouse plasmacytomas, the active c-myc gene has been truncated by
+chromosome translocation with the resultant severance of the protein-coding
+sequence from the normal promoter. Transcripts of such truncated c-myc genes were
+analyzed by Northern blotting, nuclease S1 mapping, primer extension assays and
+cDNA cloning. We conclude that transcription originates from multiple initiation 
+sites on both c-myc coding and non-coding strands with the two-sets of
+transcripts derived from adjacent but essentially non-overlapping regions located
+greater than 1 kb from the translocation junction. In X63Ag8, where c-myc is
+translocated to the immunoglobulin C gamma 2b gene, the c-myc non-coding strand
+transcripts include the translocation junction and then splice directly into the 
+gamma 2b CH1 exon. We propose that chromosome translocation activates a cryptic
+promoter in the first intron and that the heterogeneously initiated, bipolar
+transcription reflects the absence of a suitably placed TATA box element.
+
+
+PMCID: PMC554240
+PMID: 3924591  [Indexed for MEDLINE]
+

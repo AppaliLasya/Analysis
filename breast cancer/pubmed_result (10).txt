@@ -1,0 +1,33 @@
+
+1. J Adv Pract Oncol. 2019 Mar;10(2):167-174. Epub 2019 Mar 1.
+
+Olaparib: A Novel Therapy for Metastatic Breast Cancer in Patients With a BRCA1/2
+Mutation.
+
+Caulfield SE(1), Davis CC(1), Byers KF(1).
+
+Author information: 
+(1)Emory University Winship Cancer Institute, Atlanta, Georgia.
+
+Breast cancer is the most frequently diagnosed cancer in women globally. Genetic 
+mutations can increase the risk of developing breast cancer. Inherited germline
+mutations in BRCA1 and BRCA2 tumor suppressor genes (gBRCAm) account for 5% to
+10% of breast cancer cases. The recent approval of olaparib, a poly (ADP-ribose) 
+polymerase (PARP) inhibitor, in HER2-negative, metastatic breast cancer provides 
+an additional treatment option for patients with a gBRCAm. Inhibition of PARP
+results in the trapping of the PARP-DNA complex at replication forks, causing
+single-strand breaks to become double-strand breaks (DSBs). PARP trapping and the
+accumulation of DSBs ultimately leads to cell apoptosis. Cells deficient in
+BRCA1/2 are particularly sensitive to the effects of PARP inhibition, as cells
+lacking these functional proteins are unable to repair DSBs, resulting in
+synthetic lethality. The phase III OlympiAD trial showed a progression-free
+survival benefit but no overall survival benefit, leading to the US Food and Drug
+Administration approval of olaparib. The purpose of this article is to describe
+current data regarding the use of olaparib in metastatic breast cancer, its role 
+in the treatment of patients with a gBRCAm, and the clinical implications of its 
+approval for oncology advanced practitioners.
+
+
+PMCID: PMC6750920
+PMID: 31538027 
+

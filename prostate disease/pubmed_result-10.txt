@@ -1,0 +1,22 @@
+
+1. Cancer Lett. 1993 Oct 15;74(1-2):91-9.
+
+Decreased expression of prostatic secretory protein PSP94 in prostate cancer.
+
+Liu AY(1), Bradner RC, Vessella RL.
+
+Author information: 
+(1)Specialty Laboratories Inc., Santa Monica, CA.
+
+cDNA libraries were generated from the prostate gland tissue obtained from a
+normal donor and from a patient with prostate cancer. Subtractive cDNA cloning
+was used to identify phenotype-specific cDNA sequences from both normal and
+cancerous prostate tissue. One clone, pN44, isolated from normal prostate tissue,
+codes for the prostate protein PSP94, expression of which appeared to be
+down-regulated in the cancerous cells. Rabbit antisera against PSP94 were
+generated, and these antisera can be used to detect PSP94 in urine. Two other
+clones, pN23a and pN141f, were also found to be down-regulated.
+
+DOI: 10.1016/0304-3835(93)90049-f 
+PMID: 7506990  [Indexed for MEDLINE]
+

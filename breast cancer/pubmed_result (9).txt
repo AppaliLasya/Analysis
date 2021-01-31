@@ -1,0 +1,43 @@
+
+1. Int J Mol Sci. 2019 Sep 28;20(19). pii: E4828. doi: 10.3390/ijms20194828.
+
+Novel Genetic Markers for Early Detection of Elevated Breast Cancer Risk in
+Women.
+
+Wu B(1), Peng Y(2), Eggert J(3), Alexov E(4)(5).
+
+Author information: 
+(1)Healthcare Genetics, School of Nursing, Clemson University, Clemson, SC 29634,
+USA. bohua@clemson.edu.
+(2)Computational Biophysics and Bioinformatics, Department of Physics, Clemson
+University, Clemson, SC 29634, USA. yunhuip@clemson.edu.
+(3)Healthcare Genetics, School of Nursing, Clemson University, Clemson, SC 29634,
+USA.
+(4)Healthcare Genetics, School of Nursing, Clemson University, Clemson, SC 29634,
+USA. ealexov@clemson.edu.
+(5)Computational Biophysics and Bioinformatics, Department of Physics, Clemson
+University, Clemson, SC 29634, USA. ealexov@clemson.edu.
+
+This study suggests that two newly discovered variants in the MSH2 gene, which
+codes for a DNA mismatch repair (MMR) protein, can be associated with a high risk
+of breast cancer. While variants in the MSH2 gene are known to be linked with an 
+elevated cancer risk, the MSH2 gene is not a part of the standard kit for testing
+patients for elevated breast cancer risk. Here we used the results of genetic
+testing of women diagnosed with breast cancer, but who did not have variants in
+BRCA1 and BRCA2 genes. Instead, the test identified four variants with unknown
+significance (VUS) in the MSH2 gene. Here, we carried in silico analysis to
+develop a classifier that can distinguish pathogenic from benign mutations in
+MSH2 genes taken from ClinVar. The classifier was then used to classify VUS in
+MSH2 genes, and two of them, p.Ala272Val and p.Met592Val, were predicted to be
+pathogenic mutations. These two mutations were found in women with breast cancer 
+who did not have mutations in BRCA1 and BRCA2 genes, and thus they are suggested 
+to be considered as new bio-markers for the early detection of elevated breast
+cancer risk. However, before this is done, an in vitro validation of mutation
+pathogenicity is needed and, moreover, the presence of these mutations should be 
+demonstrated in a higher number of patients or in families with breast cancer
+history.
+
+DOI: 10.3390/ijms20194828 
+PMCID: PMC6801521
+PMID: 31569399 
+

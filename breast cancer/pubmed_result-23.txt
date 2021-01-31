@@ -1,0 +1,43 @@
+
+1. Aging (Albany NY). 2020 Jan 24;12(2):1577-1590. doi: 10.18632/aging.102701. Epub 
+2020 Jan 24.
+
+PIK3CA gene mutations in the helical domain correlate with high tumor mutation
+burden and poor prognosis in metastatic breast carcinomas with late-line
+therapies.
+
+Tang Y(1)(2), Li J(1)(2), Xie N(1)(2), Yang X(1)(2), Liu L(1)(2), Wu H(1)(2),
+Tian C(1)(2), He Y(1)(3), Wang X(4), He Q(5), Hu ZY(1)(2), Ouyang Q(1)(2).
+
+Author information: 
+(1)The Affiliated Cancer Hospital of Xiangya School of Medicine, Central South
+University, Hunan Cancer Hospital, Changsha 410000, China.
+(2)Department of Breast Cancer Medical Oncology, Hunan Cancer Hospital, Changsha 
+410000, China.
+(3)The 2nd Department of Breast Cancer Surgical Oncology, Hunan Cancer Hospital, 
+Changsha 410000, China.
+(4)ICF, Atlanta, GA 30329, USA.
+(5)Beijing Geneplus Institute, Beijing 102200, China.
+
+Nearly half of metastatic breast cancers (MBC) have genetic aberrations in the
+PI3K/AKT pathway. To investigate the distinct effect of these aberrations on MBC,
+193 MBC patients who progressed after the early line (≤2) salvage treatment
+voluntarily received next generation sequencing (NGS) for a panel of 1,021 genes.
+93 (48%) patients had genetic aberrations in the PI3K/AKT pathway. The number of 
+patients with PIK3CA mutations in kinase domain (KD), helical domain (HD) and
+other domain (OD), were 36 (18.7%), 26 (13.5%), 10 (5.2%), respectively. 21
+(10.9%) patients had mutations in PI3K/AKT pathway genes other than PIK3CA (P/A).
+Compared to PI3K/AKT-wild type (WT) patients, PIK3CA-HD patients had a
+significantly shorter progression-free survival (PFS) (Logrank p-value < 0.0001).
+PIK3CA-KD, PIK3CA-OD and other P/A mutations showed similar PFS to WT patients
+(Logrank p-value = 0.63). PIK3CA-HD patients had a distinct ctDNA mutation
+profile to patients with other PI3K/AKT mutations. PIK3CA-HD patients had a
+higher rate of FGFR and NF1 aberrations. In addition, more PIK3CA-HD carriers
+were TMB-high. Cox regression analyses suggested that PIK3CA-HD mutations, FGFR
+aberrations and high TMB were all significant risk factors for poor PFS. In
+conclusion, future research needs to focus more on the treatment strategies
+targeting PIK3CA-HD mutations.
+
+DOI: 10.18632/aging.102701 
+PMID: 31980592 
+

@@ -1,0 +1,33 @@
+
+1. Int J Cancer. 1995 Apr 21;64(2):140-5.
+
+Association between RB-1 gene alterations and factors of favourable prognosis in 
+human breast cancer, without effect on survival.
+
+Berns EM(1), de Klein A, van Putten WL, van Staveren IL, Bootsma A, Klijn JG,
+Foekens JA.
+
+Author information: 
+(1)Department of Medical Oncology, Dr. Daniel den Hoed Cancer Center, Rotterdam, 
+The Netherlands.
+
+The retinoblastoma (RB) tumour suppressor gene has been associated not only with 
+retinoblastoma but also with several other tumours like osteosarcoma, small cell 
+lung carcinoma and prostate and breast cancer. We have studied the incidence of
+RB gene alterations in 96 primary breast tumours using Southern blotting
+techniques. The outcome has been related with patient and tumour characteristics,
+oncogene amplifications, p53 mutations and prognosis. RB gene alterations were
+found to occur more frequently in estrogen receptor (ER)-positive than in
+ER-negative tumours and less frequently in tumours with oncogene amplification
+than in tumours without oncogene amplification of HER2/neu, c-myc or 11q13. RB
+gene alteration was observed in tumours both with and without a p53 gene
+mutation. Data on 87 patients (mean age, 59.6 years; median follow-up, 108
+months) and RB gene alterations revealed a significant association between the
+frequency of RB gene alterations and node-negative patients (p < 0.01) or smaller
+(< 2 cm) tumours (p < 0.01), but no relation with age, differentiation grade or
+(relapse-free) survival. Patients with and without RB gene alterations showed the
+same relapse-free and overall survival.
+
+DOI: 10.1002/ijc.2910640212 
+PMID: 7615356  [Indexed for MEDLINE]
+

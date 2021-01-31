@@ -1,0 +1,29 @@
+
+1. Genomics. 1994 Sep 1;23(1):282-5.
+
+Assignment of the human MAD and MXI1 genes to chromosomes 2p12-p13 and 10q24-q25.
+
+Shapiro DN(1), Valentine V, Eagle L, Yin X, Morris SW, Prochownik EV.
+
+Author information: 
+(1)Department of Experimental Oncology, St. Jude Children's Research Hospital,
+Memphis, Tennessee 38101.
+
+MAD and MXI1, two recently described members of the basic helix-loop-helix (bHLH)
+gene family, encode proteins that dimerize with and modulate the DNA binding of
+max. In turn, mad-max or mxi1-max heterodimers or max homodimers can compete for 
+DNA binding sites with dimers formed between max and myc oncoproteins and
+antagonize the transcriptional activities of this latter class of proteins. Using
+a combination of somatic cell mapping and fluorescence in situ hybridization
+techniques, we have determined the chromosomal locations of the MAD and MXI1
+genes. The MAD gene maps to chromosome 2p12-p13, a region involved in
+translocations and deletions in acute and chronic lymphocytic leukemias as well
+as non-lymphocytic leukemias and Hodgkin disease. The MXI1 gene localizes to
+chromosome 10q24-q25, a region involved in translocations and deletions in acute 
+and chronic lymphocytic leukemias and prostatic carcinomas. The availability of
+genomic clones of MAD and MXI1 will permit an assessment of their involvement in 
+these diseases at the molecular level.
+
+DOI: 10.1006/geno.1994.1496 
+PMID: 7829091  [Indexed for MEDLINE]
+

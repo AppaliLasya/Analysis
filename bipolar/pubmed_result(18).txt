@@ -1,0 +1,29 @@
+
+1. Genet Epidemiol. 1997;14(6):699-704.
+
+Linkage disequilibrium between the dopamine transporter gene (DAT1) and bipolar
+disorder: extending the transmission disequilibrium test (TDT) to examine genetic
+heterogeneity.
+
+Waldman ID(1), Robinson BF, Feigon SA.
+
+Author information: 
+(1)Department of Psychology, Emory University, Atlanta, Georgia 30322, USA.
+
+Since its introduction into the statistical genetics literature, the transmission
+disequilibrium test (TDT) has seen widespread use in analyses of linkage and
+association due not only to its simplicity but also to its desirable properties
+relative to other within-family analytic methods. In this paper, we describe an
+extension to the TDT useful for examining genetic heterogeneity. This extension
+uses contingency table analyses such as log-linear analysis to test for
+differences in linkage disequilibrium across levels of one or more moderator
+variables. We applied these analyses to test for linkage disequilibrium between
+the dopamine transporter gene (DAT1) and bipolar disorder, as well as for genetic
+heterogeneity due to sex, diagnostic breadth, and study site. Using data from two
+studies (the UCSD/UBC and Cardiff data sets), we found evidence suggesting
+linkage disequilibrium between DAT1 and bipolar disorder, as well as
+heterogeneity due to diagnostic breadth and study site.
+
+DOI: 10.1002/(SICI)1098-2272(1997)14:6<699::AID-GEPI25>3.0.CO;2-K 
+PMID: 9433566  [Indexed for MEDLINE]
+

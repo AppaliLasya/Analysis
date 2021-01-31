@@ -1,0 +1,26 @@
+
+1. FEBS Lett. 1990 Sep 3;269(2):305-10.
+
+Retinoic acid induced differentiated neuroblastoma cells show increased
+expression of the beta A4 amyloid gene of Alzheimer's disease and an altered
+splicing pattern.
+
+König G(1), Masters CL, Beyreuther K.
+
+Author information: 
+(1)Center for Molecular Biology (ZMBH), University of Heidelberg, FRG.
+
+Retinoic acid (RA) induced differentiation of SH-SY5Y neuroblastoma cells is
+associated with more than a tenfold induction of total Alzheimer's disease beta
+A4 amyloid protein precursor (APP) mRNA as analyzed by Northern blot
+hybridisation. S1 nuclease protection experiments reveal that the splicing
+pattern of these differentiated cells is altered in favor of APP695 mRNA, coding 
+for the shortest amyloidogenic beta A4 amyloid precursor protein. Induction of
+differentiation of SH-SY5Y cells with NGF leads to a fivefold increase of total
+APP mRNA without change in the splicing pattern. This suggests that RA but not
+NGF induces factor(s) which are responsible for an APP hnRNA splicing favoring
+APP695 mRNA.
+
+DOI: 10.1016/0014-5793(90)81181-m 
+PMID: 2205513  [Indexed for MEDLINE]
+

@@ -1,0 +1,31 @@
+
+1. Jpn J Cancer Res. 1994 Sep;85(9):904-10.
+
+p53 gene mutations in human prostate cancers in Japan: different mutation spectra
+between Japan and western countries.
+
+Watanabe M(1), Ushijima T, Kakiuchi H, Shiraishi T, Yatani R, Shimazaki J, Kotake
+T, Sugimura T, Nagao M.
+
+Author information: 
+(1)Carcinogenesis Division, National Cancer Center Research Institute, Tokyo.
+
+The involvement of p53 mutations in prostate cancers in Japan was investigated.
+To evaluate any possible clinicopathological significance, p53 mutations in 40
+samples from 36 Japanese prostate cancers of different stages (five cases of
+latent tumors, three of stage A cancers, 10 of stage B, five of stage C and 13 of
+stage D), including four lymph node metastases of stage D cases, were examined by
+polymerase chain reaction-single strand conformation polymorphism (PCR-SSCP)
+analysis and sequencing. Mutations were detected in five of 40 samples (12.5%);
+four were in primary cancers and the other in a lymph node metastasis from one of
+them. All mutation-positive cases were in stage D, and the mutation frequency in 
+stage D cases was 31%. This result indicates that p53 mutations may play a role
+in the progression of a subgroup of prostate cancers in Japanese, as observed for
+Americans and Europeans. However, a difference was noted between Japanese and
+Americans in the p53 mutational spectrum (at CpG site), presumably arising from
+variation in the underlying etiologic factors.
+
+DOI: 10.1111/j.1349-7006.1994.tb02967.x 
+PMCID: PMC5919581
+PMID: 7961118  [Indexed for MEDLINE]
+

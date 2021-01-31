@@ -1,0 +1,41 @@
+
+1. BJU Int. 2010 May;105(10):1364-70. doi: 10.1111/j.1464-410X.2009.09167.x. Epub
+2010 Jan 8.
+
+Methylated genes as potential biomarkers in prostate cancer.
+
+Phé V(1), Cussenot O, Rouprêt M.
+
+Author information: 
+(1)Academic Department of Urology of la Pitiè-Salpétriére Hospital, Paris,
+France.
+
+Prostate cancer is the most common malignancy of the urogenital tract. Although
+controversial, prostate-specific antigen (PSA) testing is widely used for
+screening and follow-up of prostate cancer, but because of its limited
+specificity and sensitivity, PSA is not an ideal test. We currently lack the
+necessary tools to differentiate between latent disease with little likelihood of
+clinical manifestation and aggressive tumours that are likely to metastasize and 
+lead to potentially lethal disease. DNA methylation is an important epigenetic
+mechanism of gene regulation and plays essential roles in tumour initiation and
+progression. Currently, aberrant promoter hypermethylation has been investigated 
+in specific genes from the following groups: tumour-suppressor genes,
+proto-oncogenes, genes involved in cell adhesion, and genes involved in
+cell-cycle regulation. Glutathione S-transferase P1 (GSTP1) has been shown to be 
+a biomarker for prostate cancer. Other genes, e.g. CD44, PTGS2, E-cadherin,
+CDH13, and cyclin D2 have been found to be prognostic markers for prostate
+cancer. In cell samples derived from the urine, the presence of the
+hypermethylation of either GSTP1 or RASS1a has been shown to be both sensitive
+and specific for detecting prostate cancer. Several studies have found that
+analysis of hypermethylation using a panel of tumour-suppressor genes yielded
+better results for detecting prostate cancer than the analysis of single-gene
+methylation. Hence, these different panels (e.g. GSTP1, APC, PTGS2, T1G1 and
+EDNRB) are of interest for detecting prostate cancer. Also, the methylation
+profile of multiple regulatory genes might be altered at the time of cancer
+relapse. Thus, preliminary results on the use of the methylation status of
+specific genes as potential tumour biomarkers for the early diagnosis and the
+risk stratification of patients with prostate cancer are promising.
+
+DOI: 10.1111/j.1464-410X.2009.09167.x 
+PMID: 20067451  [Indexed for MEDLINE]
+

@@ -1,0 +1,49 @@
+
+1. Genome Inform. 2010;24:139-53.
+
+Robust gene network analysis reveals alteration of the STAT5a network as a
+hallmark of prostate cancer.
+
+Reddy A(1), Huang CC, Liu H, Delisi C, Nevalainen MT, Szalma S, Bhanot G.
+
+Author information: 
+(1)BioMaPS Institute, Rutgers University, Piscataway, NJ, USA.
+anupamar@gmail.com.
+
+We develop a general method to identify gene networks from pair-wise correlations
+between genes in a microarray data set and apply it to a public prostate cancer
+gene expression data from 69 primary prostate tumors. We define the degree of a
+node as the number of genes significantly associated with the node and identify
+hub genes as those with the highest degree. The correlation network was pruned
+using transcription factor binding information in VisANT (http://visant.bu.edu/) 
+as a biological filter. The reliability of hub genes was determined using a
+strict permutation test. Separate networks for normal prostate samples, and
+prostate cancer samples from African Americans (AA) and European Americans (EA)
+were generated and compared. We found that the same hubs control disease
+progression in AA and EA networks. Combining AA and EA samples, we generated
+networks for low low (<7) and high (≥7) Gleason grade tumors. A comparison of
+their major hubs with those of the network for normal samples identified two
+types of changes associated with disease: (i) Some hub genes increased their
+degree in the tumor network compared to their degree in the normal network,
+suggesting that these genes are associated with gain of regulatory control in
+cancer (e.g. possible turning on of oncogenes). (ii) Some hubs reduced their
+degree in the tumor network compared to their degree in the normal network,
+suggesting that these genes are associated with loss of regulatory control in
+cancer (e.g. possible loss of tumor suppressor genes). A striking result was that
+for both AA and EA tumor samples, STAT5a, CEBPB and EGR1 are major hubs that gain
+neighbors compared to the normal prostate network. Conversely, HIF-lα is a major 
+hub that loses connections in the prostate cancer network compared to the normal 
+prostate network. We also find that the degree of these hubs changes
+progressively from normal to low grade to high grade disease, suggesting that
+these hubs are master regulators of prostate cancer and marks disease
+progression. STAT5a was identified as a central hub, with ~120 neighbors in the
+prostate cancer network and only 81 neighbors in the normal prostate network. Of 
+the 120 neighbors of STAT5a, 57 are known cancer related genes, known to be
+involved in functional pathways associated with tumorigenesis. Our method is
+general and can easily be extended to identify and study networks associated with
+any two phenotypes.
+
+
+PMCID: PMC6035043
+PMID: 22081596  [Indexed for MEDLINE]
+

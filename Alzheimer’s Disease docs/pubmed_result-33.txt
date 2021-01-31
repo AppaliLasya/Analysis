@@ -1,0 +1,31 @@
+
+1. Dement Geriatr Cogn Disord. 2013;35(1-2):51-7. doi: 10.1159/000345788. Epub 2013 
+Jan 9.
+
+P21 gene variation and late-onset Alzheimer's disease in the Italian population.
+
+Scacchi R(1), Gambina G, Moretto G, Corbo RM.
+
+Author information: 
+(1)CNR Institute of Molecular Biology and Pathology, Department of Biology and
+Biotechnology, Sapienza University, Rome, Italy. Renato.Scacchi@uniroma1.it
+
+BACKGROUND: Variation at the cyclin-dependent kinase inhibitor gene P21 in a
+patient sample of the Italian population was investigated in search of genetic
+factors potentially involved in sporadic late-onset Alzheimer's disease (AD).
+METHODS: Two single nucleotide polymorphisms (SNPs) were studied in this gene: a 
+C>A transversion at codon 31 (ser>arg) in exon 2 (RS1801270) and a C>T transition
+occurring 20 bp downstream from the stop codon of exon 3 (RS1059234).
+RESULTS: The odd ratios were: RS1801270 A allele = 0.62 (95% CI = 0.33-1.18; p = 
+0.14); RS1059234 T allele = 0.57 (95% CI = 0.33-0.98; p = 0.04). In addition, a
+longer duration of disease was found with genotypes carrying the RS1059234 T
+allele (4.3 ± 2.5 years) than with those not carrying it (3.3 ± 2.1 years) (p =
+0.001).
+CONCLUSION: In the present sample, one of the two SNPs seems in some way related 
+to AD, since carriers of one allele were slightly protected against AD onset.
+
+Copyright © 2013 S. Karger AG, Basel.
+
+DOI: 10.1159/000345788 
+PMID: 23306186  [Indexed for MEDLINE]
+

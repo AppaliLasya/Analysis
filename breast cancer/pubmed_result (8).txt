@@ -1,0 +1,50 @@
+
+1. Cancers (Basel). 2019 Oct 11;11(10). pii: E1539. doi: 10.3390/cancers11101539.
+
+PARP1 Co-Regulates EP300-BRG1-Dependent Transcription of Genes Involved in Breast
+Cancer Cell Proliferation and DNA Repair.
+
+Sobczak M(1), Pitt AR(2), Spickett CM(3), Robaszkiewicz A(4).
+
+Author information: 
+(1)Department of General Biophysics, Institute of Biophysics, Faculty of Biology 
+and Environmental Protection, University of Lodz, Pomorska 141/143, 90-236 Lodz, 
+Poland. maciej.sobczak@unilodz.eu.
+(2)School of Life & Health Sciences, Aston University, Aston Triangle, Birmingham
+B4 7ET, UK. a.r.pitt@aston.ac.uk.
+(3)School of Life & Health Sciences, Aston University, Aston Triangle, Birmingham
+B4 7ET, UK. c.m.spickett@aston.ac.uk.
+(4)Department of General Biophysics, Institute of Biophysics, Faculty of Biology 
+and Environmental Protection, University of Lodz, Pomorska 141/143, 90-236 Lodz, 
+Poland. agnieszka.robaszkiewicz@biol.uni.lodz.pl.
+
+BRG1, an active subunit of the SWI/SNF chromatin-remodeling complex, enables the 
+EP300-dependent transcription of proliferation and DNA repair genes from their
+E2F/CpG-driven promoters in breast cancer cells. In the current study, we show
+that BRG1-EP300 complexes are accompanied by poly-ADP-ribose polymerase 1
+(PARP1), which emerges as the functional component of the promoter-bound
+multiprotein units that are capable of controlling gene expression. This enzyme
+is co-distributed with BRG1 at highly acetylated promoters of genes such as CDK4,
+LIG1, or NEIL3, which are responsible for cancer cell growth and the removal of
+DNA damage. ADP-ribosylation is necessary to maintain active transcription, since
+it ensures an open chromatin structure that allows high acetylation and low
+histone density. PARP1-mediated modification of BRG1 and EP300 does not affect
+the association of enzymes with gene promoters; however, it does activate EP300, 
+which acetylates nucleosomes, leading to their eviction by BRG1, thus allowing
+mRNA synthesis. Although PARP1 was found at BRG1 positive/H3K27ac negative
+promoters of highly expressed genes in a transformed breast cancer cell line, its
+transcriptional activity was limited to genes simultaneously controlled by BRG1
+and EP300, indicating that the ADP-ribosylation of EP300 plays a dominant role in
+the regulation of BRG1-EP300-driven transcription. In conclusion, PARP1 directs
+the transcription of some proliferation and DNA repair genes in breast cancer
+cells by the ADP-ribosylation of EP300, thereby causing its activation and
+marking nucleosomes for displacement by BRG1. PARP1 in rapidly dividing cells
+facilitates the expression of genes that confer a cancer cell phenotype. Our
+study shows a new mechanism that links PARP1 with the removal of DNA damage in
+breast cancer cells via the regulation of BRG1-EP300-dependent transcription of
+genes involved in DNA repair pathways.
+
+DOI: 10.3390/cancers11101539 
+PMCID: PMC6826995
+PMID: 31614656 
+

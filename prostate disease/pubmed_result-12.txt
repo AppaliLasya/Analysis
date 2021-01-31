@@ -1,0 +1,37 @@
+
+1. World J Urol. 1994;12(6):345-51.
+
+Detection of P53 tumor-suppressor-gene protein in bladder tumors and prostate
+cancer: possible clinical implications.
+
+Kuczyk MA(1), Serth J, Hervatin C, Arndt H, Derendorf L, Thon WF, Jonas U.
+
+Author information: 
+(1)Urologische Klinik der Medizinischen Hochschule, Hannover, Germany.
+
+For a variety of human malignancies such as breast cancer and cancer of the
+prostate, p53 oncoprotein overexpression indicating an alteration of the p53
+tumor-suppressor gene has been described as a prognostic factor for a poor
+clinical outcome. To investigate the overexpression of p53 oncoprotein in
+transitional-cell carcinoma of the bladder, 58 bladder cancer specimens of
+different clinical stages and histological grades were investigated using an
+immunohistochemical approach. A correlation between p53 positivity and tumor
+stage was observed, with an increase from 38.5% of superficial (Ta) tumors to
+83.3% of muscle-invasive (T3/T4) tumors staining positively for p53 oncoprotein. 
+Furthermore, an increase from 46.7% of G1 tumors to 75% of G3 tumors was
+observed. In 22 of 25 (87%) informative patients the results of the
+immunohistochemical staining could be verified by the determination of p53
+mutations as detected by polymerase chain reaction (PCR)-directed analysis of
+restriction-fragment-length polymorphisms (RFLP). To determine the prognostic
+value of p53 immunohistochemistry for the clinical course of superficial bladder 
+cancer, the overexpression of p53 oncoprotein was investigated in 41 patients
+with superficial bladder tumors (T1) undergoing complete transurethral tumor
+resection. The detection of p53 protein was correlated with further clinically
+important variables such as sex, age, histological grading, former instillation
+therapy, and immunohistochemical determination of the proliferation rate by
+staining for PCNA (proliferating-cell nuclear antigen; monoclonal antibody
+PC10).(ABSTRACT TRUNCATED AT 250 WORDS)
+
+DOI: 10.1007/bf00184117 
+PMID: 7881474  [Indexed for MEDLINE]
+

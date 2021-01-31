@@ -1,0 +1,26 @@
+
+1. Cancer Detect Prev. 1996;20(3):218-22.
+
+Point mutation of the p53 gene is an infrequent event in untreated prostate
+cancer.
+
+Kunimi K(1), Amano T, Uchibayashi T.
+
+Author information: 
+(1)Department of Urology, Kanazawa University, Japan.
+
+The p53 gene is known to be one of the frequently altered tumor suppressor genes,
+involved in the oncogenesis of a wide spectrum of human malignant tumors. We
+investigated mutational events of the p53 gene in 18 clinically untreated
+prostate cancers. Direct sequencing analysis demonstrated that 1 of 18 cases
+harbored point mutation in the highly conserved transcript region. The case
+showed CAT at codon 273 instead of wild-type CGT, substituting the encoded amino 
+acid form histidine to arginine. The case had previously revealed homozygous loci
+on 17p, including the p53 locus, by restriction fragment length polymorphism
+analysis. The other 17 cases harbored neither mutation nor small deletion. It is 
+concluded that point mutation of the p53 gene is a infrequent event in the
+oncogenesis of untreated prostate cancer.
+
+
+PMID: 8769716  [Indexed for MEDLINE]
+

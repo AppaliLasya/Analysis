@@ -1,0 +1,62 @@
+
+1. Eur J Hum Genet. 2017 Aug;25(8):973-981. doi: 10.1038/ejhg.2017.87. Epub 2017 May
+24.
+
+Characterization of pathogenic SORL1 genetic variants for association with
+Alzheimer's disease: a clinical interpretation strategy.
+
+Holstege H(1)(2)(3), van der Lee SJ(1)(4), Hulsman M(2)(3), Wong TH(5), van Rooij
+JG(5)(6), Weiss M(2), Louwersheimer E(1), Wolters FJ(4), Amin N(4), Uitterlinden 
+AG(4)(6)(7), Hofman A(4)(8), Ikram MA(4)(5)(9), van Swieten JC(1)(5),
+Meijers-Heijboer H(2), van der Flier WM(1)(10), Reinders MJ(3), van Duijn
+CM(4)(11), Scheltens P(1).
+
+Author information: 
+(1)Alzheimer Center, Department of Neurology, VU University Medical Center,
+Neuroscience Campus Amsterdam, Amsterdam, The Netherlands.
+(2)Department of Clinical Genetics, VU University Medical Center, Neuroscience
+Campus Amsterdam, Amsterdam, The Netherlands.
+(3)Delft Bioinformatics Lab, Delft University of Technology, Delft, The
+Netherlands.
+(4)Department of Epidemiology, Erasmus Medical Center, Rotterdam, The
+Netherlands.
+(5)Department of Neurology, Erasmus Medical Center, Rotterdam, The Netherlands.
+(6)Department of Internal Medicine, Erasmus Medical Center, Rotterdam, The
+Netherlands.
+(7)Netherlands Consortium on Health Aging and National Genomics Initiative,
+Leiden, The Netherlands.
+(8)Department of Epidemiology, Harvard T.H. Chan School of Public Health, Boston,
+MA, USA.
+(9)Department of Radiology, Erasmus MC University Medical Center, Rotterdam, The 
+Netherlands.
+(10)Department of Epidemiology &Biostatistics, VU University Medical Center,
+Neuroscience Campus Amsterdam, Amsterdam, The Netherlands.
+(11)Netherlands Metabolomics Centre, Leiden University, Leiden, The Netherlands.
+
+Accumulating evidence suggests that genetic variants in the SORL1 gene are
+associated with Alzheimer disease (AD), but a strategy to identify which variants
+are pathogenic is lacking. In a discovery sample of 115 SORL1 variants detected
+in 1908 Dutch AD cases and controls, we identified the variant characteristics
+associated with SORL1 variant pathogenicity. Findings were replicated in an
+independent sample of 103 SORL1 variants detected in 3193 AD cases and controls. 
+In a combined sample of the discovery and replication samples, comprising 181
+unique SORL1 variants, we developed a strategy to classify SORL1 variants into
+five subtypes ranging from pathogenic to benign. We tested this pathogenicity
+screen in SORL1 variants reported in two independent published studies. SORL1
+variant pathogenicity is defined by the Combined Annotation Dependent Depletion
+(CADD) score and the minor allele frequency (MAF) reported by the Exome
+Aggregation Consortium (ExAC) database. Variants predicted strongly damaging
+(CADD score >30), which are extremely rare (ExAC-MAF <1 × 10-5) increased AD risk
+by 12-fold (95% CI 4.2-34.3; P=5 × 10-9). Protein-truncating SORL1 mutations were
+all unknown to ExAC and occurred exclusively in AD cases. More common SORL1
+variants (ExAC-MAF≥1 × 10-5) were not associated with increased AD risk, even
+when predicted strongly damaging. Findings were independent of gender and the
+APOE-ɛ4 allele. High-risk SORL1 variants were observed in a substantial
+proportion of the AD cases analyzed (2%). Based on their effect size, we propose 
+to consider high-risk SORL1 variants next to variants in APOE, PSEN1, PSEN2 and
+APP for personalized risk assessments in clinical practice.
+
+DOI: 10.1038/ejhg.2017.87 
+PMCID: PMC5567154
+PMID: 28537274  [Indexed for MEDLINE]
+

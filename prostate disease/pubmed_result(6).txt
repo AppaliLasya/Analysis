@@ -1,0 +1,34 @@
+
+1. Cancer Metastasis Rev. 1998-1999;17(4):439-42.
+
+Metastasis-related genes in prostate cancer: the role of caveolin-1.
+
+Thompson TC(1).
+
+Author information: 
+(1)Scott Department of Urology, Baylor College of Medicine, Texas Medical Center,
+Houston, USA.
+
+Prostate cancer continues to be a significant cause of death in U.S. men despite 
+screening of asymptomatic men and extensive treatment with potentially curative
+therapies, predominantly radical prostatectomy and irradiation therapy. The
+reason for the persistent mortality resides in part in the presence of occult
+metastases at the time of treatment. Currently there are no curative therapies
+for metastatic prostate cancer. To better understand the metastatic phenotype in 
+prostate cancer, we developed a strategy to compare and isolate mRNAs that are
+expressed differentially in cell lines derived from primary versus metastatic
+mouse prostate cancer using differential display-PCR. This strategy has proven to
+be successful and multiple gene sequences associated with metastasis in this
+model are being investigated. One of the genes isolated by this method was
+caveolin-1. Caveolin-1 was found to be overexpressed not only in metastatic mouse
+prostate cancer, but also human metastatic disease. Recent studies have indicated
+that suppression of caveolin expression induces androgen sensitivity in
+high-caveolin, androgen-insensitive mouse prostate cancer cells derived from
+metastases. Overexpression of caveolin leads to androgen insensitivity in
+low-caveolin, androgen-sensitive mouse prostate cancer cells. Caveolin-1,
+therefore, is a metastasis-related gene and a candidate gene for
+hormone-resistant prostate cancer in man.
+
+DOI: 10.1023/a:1006110326366 
+PMID: 10453288  [Indexed for MEDLINE]
+

@@ -1,0 +1,39 @@
+
+1. Genome Res. 2019 Sep;29(9):1429-1441. doi: 10.1101/gr.244780.118. Epub 2019 Jul
+30.
+
+Estrogen-independent molecular actions of mutant estrogen receptor 1 in
+endometrial cancer.
+
+Blanchard Z(1)(2), Vahrenkamp JM(1)(2), Berrett KC(1)(2), Arnesen S(1)(2), Gertz 
+J(1)(2).
+
+Author information: 
+(1)Department of Oncological Sciences, University of Utah, Salt Lake City, Utah
+84112, USA.
+(2)Huntsman Cancer Institute, University of Utah, Salt Lake City, Utah 84112,
+USA.
+
+Estrogen receptor 1 (ESR1) mutations have been identified in hormone
+therapy-resistant breast cancer and primary endometrial cancer. Analyses in
+breast cancer suggest that mutant ESR1 exhibits estrogen-independent activity. In
+endometrial cancer, ESR1 mutations are associated with worse outcomes and less
+obesity, however, experimental investigation of these mutations has not been
+performed. Using a unique CRISPR/Cas9 strategy, we introduced the D538G mutation,
+a common endometrial cancer mutation that alters the ligand binding domain of
+ESR1, while epitope tagging the endogenous locus. We discovered
+estrogen-independent mutant ESR1 genomic binding that is significantly altered
+from wild-type ESR1. The D538G mutation impacted expression, including a large
+set of nonestrogen-regulated genes, and chromatin accessibility, with most
+affected loci bound by mutant ESR1. Mutant ESR1 is distinct from constitutive
+ESR1 activity because mutant-specific changes are not recapitulated with
+prolonged estrogen exposure. Overall, the D538G mutant ESR1 confers
+estrogen-independent activity while causing additional regulatory changes in
+endometrial cancer cells that are distinct from breast cancer cells.
+
+© 2019 Blanchard et al.; Published by Cold Spring Harbor Laboratory Press.
+
+DOI: 10.1101/gr.244780.118 
+PMCID: PMC6724674 [Available on 2020-03-01]
+PMID: 31362937 
+

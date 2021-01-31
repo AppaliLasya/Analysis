@@ -1,0 +1,33 @@
+
+1. J Alzheimers Dis. 2010;21(2):619-25. doi: 10.3233/JAD-2010-100432.
+
+Epistasis between intracellular cholesterol trafficking-related genes (NPC1 and
+ABCA1) and Alzheimer's disease risk.
+
+Rodríguez-Rodríguez E(1), Vázquez-Higuera JL, Sánchez-Juan P, Mateo I, Pozueta A,
+Martínez-García A, Frank A, Valdivieso F, Berciano J, Bullido MJ, Combarros O.
+
+Author information: 
+(1)Neurology Service and CIBERNED, Marqués de Valdecilla University Hospital
+(University of Cantabria), Santander, Spain.
+
+Aberrant cholesterol metabolism has been implicated in Alzheimer's disease (AD). 
+Recent findings have suggested an interaction of Niemann-Pick C1 (NPC1) and
+ATP-binding cassette transporter A1 (ABCA1) proteins in intracellular cholesterol
+transport and in maintaining cell cholesterol balance. Underexpression of NPC1 in
+concert with under-expression of ABCA1 would result in increased cholesterol
+accumulation and increased AD risk. We examined a functional polymorphism in the 
+ABCA1 promoter region (-477, rs2422493), and four NPC1 polymorphisms in exon 6
+(rs18050810), intron 20 (rs4800488), intron 22 (rs2236707), and intron 24
+(rs2510344) capturing 85% of genetic variability in the Hap Map Caucasian (CEU)
+population, in a group of 631 Spanish AD patients and 731 controls. Subjects
+carrying both the ABCA1 (-477) TT genotype and the NPC1 (exon 6) GG genotype
+(OR=1.89; 95% CI 1.04-3.41), NPC1 (intron 20) AA genotype (OR=2.05; 95% CI
+1.26-3.33), NPC1 (intron 22) AA genotype (OR=2.05; 95% or NPC1 (intron 24) GG
+genotype (OR=1.89; 95% higher risk of developing AD than subjects without these
+risk genotypes. Testing for epistatic interaction between genes in the pathway of
+cholesterol metabolism might be useful for predicting AD risk.
+
+DOI: 10.3233/JAD-2010-100432 
+PMID: 20571217  [Indexed for MEDLINE]
+

@@ -1,0 +1,38 @@
+
+1. Am J Med Genet B Neuropsychiatr Genet. 2009 Jun 5;150B(4):585-92. doi:
+10.1002/ajmg.b.30853.
+
+Detailed analysis of the serotonin transporter gene (SLC6A4) shows no association
+with bipolar disorder in the Northern Swedish population.
+
+Alaerts M(1), Ceulemans S, Forero D, Moens LN, De Zutter S, Heyrman L, Lenaerts
+AS, Norrback KF, Goossens D, De Rijk P, Nilsson LG, Adolfsson R, Del-Favero J.
+
+Author information: 
+(1)Applied Molecular Genomics Group, Department of Molecular Genetics, VIB,
+Antwerp, Belgium.
+
+Through active reuptake of serotonin into presynaptic neurons, the serotonin
+transporter (5-HTT) plays an important role in regulating serotonin
+concentrations in the brain, and it is the site of binding for tricyclic
+antidepressants and selective serotonin reuptake inhibitors (SSRIs). Therefore it
+has been hypothesized that this transporter is involved in the etiology of
+bipolar (BP) disorder. Inconsistent association study results for the SLC6A4 gene
+encoding 5-HTT reported in literature emphasize the need for more systematic and 
+detailed analyses of this candidate gene. We performed an extensive analysis of
+SLC6A4 on DNA of 254 BPI patients and 364 control individuals from a Northern
+Swedish isolated population. This analysis consisted of a HapMap LD-based
+association study including three widely investigated polymorphisms (5-HTTVNTR,
+5-HTTLPR, and rs3813034), a copy-number variation (CNV) analysis and a mutation
+analysis of the complete coding sequence and the 3'-UTR of SLC6A4. No single
+marker showed statistically significant association with BPI, nor did any of the 
+haplotypes. In the mutation analysis 13 novel variants were detected, including 2
+amino acid substitutions M389V and I587L, but these are probably not implicated
+in risk for BP. No deletions or duplications were detected in the CNV analysis.
+We conclude that variation in the SLC6A4 gene or its regulatory regions does not 
+contribute to the susceptibility for BP disorder in the Northern Swedish
+population.
+
+DOI: 10.1002/ajmg.b.30853 
+PMID: 18792946  [Indexed for MEDLINE]
+

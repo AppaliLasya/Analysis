@@ -1,0 +1,52 @@
+
+1. Neurobiol Aging. 2017 May;53:36-47. doi: 10.1016/j.neurobiolaging.2016.12.029.
+Epub 2017 Jan 7.
+
+Mitochondrial genes are altered in blood early in Alzheimer's disease.
+
+Lunnon K(1), Keohane A(2), Pidsley R(2), Newhouse S(2), Riddoch-Contreras J(2),
+Thubron EB(3), Devall M(4), Soininen H(5), Kłoszewska I(6), Mecocci P(7), Tsolaki
+M(8), Vellas B(9), Schalkwyk L(2), Dobson R(2), Malik AN(3), Powell J(2),
+Lovestone S(2), Hodges A(10); AddNeuroMed Consortium.
+
+Author information: 
+(1)Institute of Psychiatry, Psychology and Neuroscience, King's College London,
+London, UK; University of Exeter Medical School, University of Exeter, Devon, UK.
+(2)Institute of Psychiatry, Psychology and Neuroscience, King's College London,
+London, UK.
+(3)Diabetes Research Group, Faculty of Life Sciences and Medicine, King's College
+London, London, UK.
+(4)University of Exeter Medical School, University of Exeter, Devon, UK.
+(5)Department of Neurology, University of Eastern Finland and Kuopio University
+Hospital, Kuopio, Finland.
+(6)Medical University of Lodz, Lodz, Poland.
+(7)Institute of Gerontology and Geriatrics, University of Perugia, Perugia,
+Italy.
+(8)3rd Department of Neurology, Aristotle University of Thessaloniki,
+Thessaloniki, Greece.
+(9)INSERM U 558, University of Toulouse, Toulouse, France.
+(10)Institute of Psychiatry, Psychology and Neuroscience, King's College London, 
+London, UK. Electronic address: angela.k.hodges@kcl.ac.uk.
+
+Although mitochondrial dysfunction is a consistent feature of Alzheimer's disease
+in the brain and blood, the molecular mechanisms behind these phenomena are
+unknown. Here we have replicated our previous findings demonstrating reduced
+expression of nuclear-encoded oxidative phosphorylation (OXPHOS) subunits and
+subunits required for the translation of mitochondrial-encoded OXPHOS genes in
+blood from people with Alzheimer's disease and mild cognitive impairment.
+Interestingly this was accompanied by increased expression of some
+mitochondrial-encoded OXPHOS genes, namely those residing closest to the
+transcription start site of the polycistronic heavy chain mitochondrial
+transcript (MT-ND1, MT-ND2, MT-ATP6, MT-CO1, MT-CO2, MT-C03) and MT-ND6
+transcribed from the light chain. Further we show that mitochondrial DNA copy
+number was unchanged suggesting no change in steady-state numbers of
+mitochondria. We suggest that an imbalance in nuclear and mitochondrial
+genome-encoded OXPHOS transcripts may drive a negative feedback loop reducing
+mitochondrial translation and compromising OXPHOS efficiency, which is likely to 
+generate damaging reactive oxygen species.
+
+Copyright © 2017 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.neurobiolaging.2016.12.029 
+PMID: 28208064  [Indexed for MEDLINE]
+

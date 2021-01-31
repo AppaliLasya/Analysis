@@ -1,0 +1,31 @@
+
+1. Prostate. 1997 Feb 15;30(3):188-94.
+
+Mutations of the p16 gene product are rare in prostate cancer.
+
+Gaddipati JP(1), McLeod DG, Sesterhenn IA, Hussussian CJ, Tong YA, Seth P,
+Dracopoli NC, Moul JW, Srivastava S.
+
+Author information: 
+(1)Department of Surgery, Uniformed Services University of the Health Sciences,
+Bethesda, Maryland 20814-4799, USA.
+
+BACKGROUND: The p16 gene product is a negative regulator of cell cycle and has
+been shown to be deleted or mutated in a number of tumor cell lines and primary
+tumors. The role of p16 in prostate cancer is not defined. Prostate cancer
+tissues and cell lines were evaluated for p16 gene alterations.
+METHODS: Five metastatic prostate cancer cell lines were analyzed for p16 gene
+structure and its expression by Southern and Northern blot analyses. Forty-one
+DNA specimens from 18 microdissected primary tumor specimens, adjacent normal
+tissues, and cell lines were amplified by polymerase chain reaction for p16
+protein coding and splice junction sequences. Mutations were analyzed by single
+strand conformation polymorphism and DNA sequencing.
+RESULTS: DU 145 cell line exhibited a missense mutation in codon 84 (GAC to TAC).
+With the exception of previously reported polymorphism, no mutation was detected 
+in p16 coding or splice junction sequences in primary prostate cancer specimens.
+CONCLUSIONS: Inactivation of p16 gene by mutations in the protein coding sequence
+does not play a major role in the genesis of primary prostate cancer.
+
+DOI: 10.1002/(sici)1097-0045(19970215)30:3<188::aid-pros7>3.0.co;2-i 
+PMID: 9122044  [Indexed for MEDLINE]
+

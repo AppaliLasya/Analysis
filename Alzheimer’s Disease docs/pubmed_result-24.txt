@@ -1,0 +1,24 @@
+
+1. Curr Pharm Des. 2015;21(1):114-20.
+
+The APOE genotype: modification of therapeutic responses in Alzheimer's disease.
+
+Hanson AJ, Craft S, Banks WA(1).
+
+Author information: 
+(1)325 9th Avenue, Box 359755, Seattle, WA 98104. hansonaj@uw.edu.
+
+The translation of promising preclinical treatments into effective drugs for
+Alzheimer's disease (AD) has been challenging. One of the most potent risk
+factors for sporadic AD is carrier status of the epsilon 4 allele of the
+apolipoprotein E gene (E4). E4 carriers show a differential response to several
+therapies which are being investigated as AD treatments, including
+acetylcholinesterase inhibitors and therapeutics with vascular and metabolic
+targets. The differential treatment responses of E4 carriers may partially
+explain why some treatments show a null effect in clinical trials. Understanding 
+the reasons behind these responses is not only important for clinical practice,
+but may also help us elucidate mechanisms for this neurodegenerative disease.
+
+DOI: 10.2174/1381612820666141020164222 
+PMID: 25330331  [Indexed for MEDLINE]
+

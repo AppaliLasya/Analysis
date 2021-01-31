@@ -1,0 +1,39 @@
+
+1. Neurol Sci. 2015 Oct;36(10):1881-8. doi: 10.1007/s10072-015-2274-2. Epub 2015 Jun
+3.
+
+TREM2 variants and risk of Alzheimer's disease: a meta-analysis.
+
+Lu Y(1), Liu W(2), Wang X(3).
+
+Author information: 
+(1)Department of Laboratory Medicine, Tongji Hospital, Tongji Medical College,
+Huazhong University of Science and Technology, Wuhan, 430030, China.
+(2)Department of Public Health, Tongji Hospital, Tongji Medical College, Huazhong
+University of Science and Technology, Wuhan, 430030, China.
+(3)Department of Laboratory Medicine, Tongji Hospital, Tongji Medical College,
+Huazhong University of Science and Technology, Wuhan, 430030, China.
+tjhwangxiong@163.com.
+
+Recent studies show that heterozygous variant of triggering receptor expressed on
+myeloid cells 2 (TREM2) increase the risk of Alzheimer's disease (AD) but with
+inconclusive results. Here, we conducted a meta-analysis to summarize and clarify
+the association between TREM2 variants and AD, and examined the relationship
+between TREM2 genetic variant and the etiology of AD. Relevant case-control
+studies were retrieved and collected according to established inclusion criteria.
+Odds ratio (OR) and 95% confidence interval (95% CI) were used to estimate the
+associations between three TREM2 variants (rs75932628, rs104894002, and
+rs143332484) and AD. In overall meta-analysis, the summary ORs for rs75932628,
+rs104894002, and rs143332484 were 2.70 [95% CI: 2.24, 3.24; P < 0.001], 7.21 (95%
+CI: 1.28, 40.78; P = 0.025), and 1.65 (95% CI: 1.24, 2.21; P = 0.001),
+respectively, indicating that the TREM2 rs75932628, rs104894002, and rs143332484 
+may contribute to AD risk. However, sensitivity analysis showed that the results 
+of rs104894002 and rs143332484 should be interpreted with caution, and larger
+sample size, particularly in different ethnicities, are needed to validate the
+two variants. The current meta-analysis demonstrates that TREM2 is a candidate
+gene for AD susceptibility, and TREM2 variant rs75932628 may be a risk factor for
+AD.
+
+DOI: 10.1007/s10072-015-2274-2 
+PMID: 26037549  [Indexed for MEDLINE]
+

@@ -1,0 +1,51 @@
+
+1. Cell Syst. 2019 Dec 2. pii: S2405-4712(19)30387-4. doi:
+10.1016/j.cels.2019.11.001. [Epub ahead of print]
+
+Torin2 Exploits Replication and Checkpoint Vulnerabilities to Cause Death of
+PI3K-Activated Triple-Negative Breast Cancer Cells.
+
+Chopra SS(1), Jenney A(2), Palmer A(2), Niepel M(2), Chung M(2), Mills C(2),
+Sivakumaren SC(3), Liu Q(3), Chen JY(4), Yapp C(2), Asara JM(5), Gray NS(3),
+Sorger PK(6).
+
+Author information: 
+(1)Laboratory of Systems Pharmacology, Harvard Medical School, 200 Longwood
+Avenue, Boston, MA 02115, USA; Harvard Ludwig Center, Harvard Medical School, 200
+Longwood Avenue, Boston, MA 02115, USA; Dana-Farber Cancer Institute, 450
+Brookline Ave, Boston, MA 02215, USA.
+(2)Laboratory of Systems Pharmacology, Harvard Medical School, 200 Longwood
+Avenue, Boston, MA 02115, USA; Harvard Ludwig Center, Harvard Medical School, 200
+Longwood Avenue, Boston, MA 02115, USA.
+(3)Department of Biological Chemistry and Molecular Pharmacology, Harvard Medical
+School, 200 Longwood Avenue, Boston, MA 02115, USA; Dana-Farber Cancer Institute,
+450 Brookline Ave, Boston, MA 02215, USA.
+(4)Laboratory of Systems Pharmacology, Harvard Medical School, 200 Longwood
+Avenue, Boston, MA 02115, USA.
+(5)Division of Signal Transduction, Beth Israel Deaconess Medical Center, Harvard
+Medical School, 200 Longwood Avenue, Boston, MA 02115, USA.
+(6)Laboratory of Systems Pharmacology, Harvard Medical School, 200 Longwood
+Avenue, Boston, MA 02115, USA; Harvard Ludwig Center, Harvard Medical School, 200
+Longwood Avenue, Boston, MA 02115, USA. Electronic address:
+peter_sorger@hms.harvard.edu.
+
+Frequent mutation of PI3K/AKT/mTOR signaling pathway genes in human cancers has
+stimulated large investments in targeted drugs but clinical successes are rare.
+As a result, many cancers with high PI3K pathway activity, such as
+triple-negative breast cancer (TNBC), are treated primarily with chemotherapy. By
+systematically analyzing responses of TNBC cells to a diverse collection of PI3K 
+pathway inhibitors, we find that one drug, Torin2, is unusually effective because
+it inhibits both mTOR and other PI3K-like kinases (PIKKs). In contrast to
+mTOR-selective inhibitors, Torin2 exploits dependencies on several kinases for
+S-phase progression and cell-cycle checkpoints, thereby causing accumulation of
+single-stranded DNA and death by replication catastrophe or mitotic failure.
+Thus, Torin2 and its chemical analogs represent a mechanistically distinct class 
+of PI3K pathway inhibitors that are uniquely cytotoxic to TNBC cells. This
+insight could be translated therapeutically by further developing Torin2 analogs 
+or combinations of existing mTOR and PIKK inhibitors.
+
+Copyright © 2019. Published by Elsevier Inc.
+
+DOI: 10.1016/j.cels.2019.11.001 
+PMID: 31812693 
+

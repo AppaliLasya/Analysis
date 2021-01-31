@@ -1,0 +1,28 @@
+
+1. Am J Pathol. 1994 Aug;145(2):287-93.
+
+Alterations in the p53 and MDM-2 genes are infrequent in clinically localized,
+stage B prostate adenocarcinomas.
+
+Ittmann M(1), Wieczorek R, Heller P, Dave A, Provet J, Krolewski J.
+
+Author information: 
+(1)Department of Pathology, New York Department of Veterans Affairs Medical
+Center 10010.
+
+Alterations in the p53 gene have been described in a variety of human malignant
+neoplasms. We have examined 29 stage B prostate carcinomas for alterations in the
+p53 gene and for amplification of the MDM-2 gene. No evidence of mutations in the
+conserved exons 5 to 8 was found by polymerase chain reaction single-stranded
+conformation polymorphism analysis and no accumulation of p53 protein was found
+by immunohistochemistry. However, loss of heterozygosity at the p53 locus was
+observed in 11% of information cases. Amplification of the MDM-2 gene was not
+observed by Southern blot hybridization. In contrast, stage C and D prostate
+carcinomas showed accumulation of p53 protein in 33 to 66% of cases. We conclude 
+that alterations in p53 function are infrequent in clinically localized prostate 
+cancers but are more common in advanced cancers.
+
+
+PMCID: PMC1887392
+PMID: 8053489  [Indexed for MEDLINE]
+

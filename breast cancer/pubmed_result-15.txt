@@ -1,0 +1,43 @@
+
+1. J Lasers Med Sci. 2019 Fall;10(Suppl 1):S18-S22. doi: 10.15171/jlms.2019.S4. Epub
+2019 Dec 1.
+
+Assessment of the SRC Inhibition Role in the Efficacy of Breast Cancer
+Radiotherapy.
+
+Shahrokh S(1), Mansouri V(2), Razzaghi M(3).
+
+Author information: 
+(1)Gastroenterology and Liver Diseases Research Center, Research Institute for
+Gastroenterology and Liver Diseases, Shahid Beheshti University of Medical
+Sciences, Tehran, Iran.
+(2)Proteomics Research Center, Faculty of Paramedical Sciences, Shahid Beheshti
+University of Medical Sciences, Tehran, Iran.
+(3)Laser Application in Medical Sciences Research Center, Shahid Beheshti
+University of Medical Sciences, Tehran, Iran.
+
+Introduction: Radiotherapy (RT) is an effective therapeutic method for preventing
+the recurrence of breast cancer after surgery. The development and improvement of
+RT are of interest to scientists. Possible improvement of RT via study of
+dysregulated proteins of breast cancer cell line MDA-MB-231 which is exposed to
+10 Gray (Gy) radiation is aim of this study. Methods: Using protein-protein
+interaction (PPI) network analysis by means of running Cytoscape software via the
+STRING database, the up-regulated proteins of MDA-MB-231 breast cancer cells
+irradiated by a single and fractioned 10 Gy 137Cs γ-radiation were analyzed. The 
+network was analyzed by using the Network analyzer to characterize the central
+genes. The action map was mapped for the queried genes and the added neighbors
+via CluePedia-STRING ACTIONS-v10.5- 20.11.2017. Results: The 14 differentially
+expressed proteins (DEPs) plus 10 neighbors interacted to construct a network.
+Among the 14 queried DEPs, FN1, CSPG4, LRP1, GSN, RTN4, and CTSD were highlighted
+as a complex set in the analysis. The analysis revealed that SRC as an added
+neighbor was activated by the critical DEPs. The activation of other oncogenes
+like AKT1 was also determined. Conclusion: The results indicate that the
+inhibition of SRC activity or the inhibition of its activators is a useful
+function of breast cancer RT.
+
+Copyright © 2019 J Lasers Med Sci.
+
+DOI: 10.15171/jlms.2019.S4 
+PMCID: PMC6983874
+PMID: 32021668 
+

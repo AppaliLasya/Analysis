@@ -1,0 +1,41 @@
+
+1. Neurosci Lett. 2007 Sep 25;425(2):105-9. Epub 2007 Aug 25.
+
+Association between genetic variants in sortilin-related receptor 1 (SORL1) and
+Alzheimer's disease in adults with Down syndrome.
+
+Lee JH(1), Chulikavit M, Pang D, Zigman WB, Silverman W, Schupf N.
+
+Author information: 
+(1)The Taub Institute for Research on Alzheimer's Disease and the Aging Brain,
+Columbia University Medical Center, New York, NY, USA.
+
+Recent reports have suggested that variants in the sortilin-related receptor gene
+(SORL1) increase the risk of late onset Alzheimer's disease (AD) in Northern
+European, Hispanic, African-American and Isreali-Arab populations. SORL1 directs 
+trafficking of amyloid precursor protein (APP) and under-expression of SORL1 may 
+lead to over-expression of beta amyloid peptides. Adults with Down syndrome (DS) 
+over-express APP and have early onset and high risk for AD. We investigated the
+relation of seven variants in the gene for SORL1 to age at onset and risk for AD 
+among 208 adults with DS, 45-70 years of age at baseline. Participants were
+ascertained through the New York State developmental disability service system
+and followed at 18-month intervals. Information from cognitive assessments,
+caregiver interviews, medical record review and neurological examination was used
+to establish the diagnosis of dementia. Homozygosity for the minor T allele in
+rs556349 and for the minor C allele in rs536360 was associated with later age at 
+onset and reduced risk of AD (HR=0.26, 95% CI: 0.08-0.86; and HR=0.40, 95% CI:
+0.16-0.98, respectively). Mean age at onset was approximately four years later in
+individuals who were homozygous for those alleles compared with those who had at 
+least one major allele. These findings indicate a modest association of variants 
+in SORL1 with AD. In addition, we did not observe the same alleles to be
+associated with AD compared with earlier studies, suggesting that these SNPs are 
+in linkage disequilibrium (LD) with the putative functional variants or that
+expression of the SORL1 gene and hence its interaction with APP might be modified
+by the extremely high levels of APP characteristic of Down syndrome. Thus,
+further studies are needed to identify functional variants that influence risk
+for AD in this uniquely vulnerable population.
+
+DOI: 10.1016/j.neulet.2007.08.042 
+PMCID: PMC2131721
+PMID: 17826910  [Indexed for MEDLINE]
+

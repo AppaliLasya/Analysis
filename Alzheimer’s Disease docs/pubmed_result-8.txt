@@ -1,0 +1,32 @@
+
+1. Crit Rev Oncog. 1990;1(4):409-36.
+
+Molecular analysis of the ets genes and their products.
+
+Watson DK(1), Ascione R, Papas TS.
+
+Author information: 
+(1)Laboratory of Molecular Oncology, National Cancer Institute, Frederick,
+Maryland.
+
+Organisms from human to Drosophila have been found to contain cellular sequences 
+and transcripts that are homologous to the ets region of the avian retrovirus,
+E26. Ets-related sequences are present on at least two distinct functional loci
+in chickens and mammals, and have been designated ets-1 and ets-2. The E26 virus 
+transduced sequences from the chicken ets-1 locus, which encompasses over 60 kb
+of DNA. The ets genes characterized so far from sea urchin and Drosophila are
+most closely related to the 3' end of the known ets genes. The predicted viral
+and avian ets proteins are very similar, except at the termini. The similarity
+between the predicted ets proteins so far described is discussed. The ets
+proteins have been identified and localized by immunoprecipitation and
+immunofluorescence. While the ets-1 proteins are found in the nuclear and
+cytoplasmic fractions, the viral gag-myb-ets protein (p135) and the ets-2
+proteins are nuclear. The ets-1 and ets-2 genes are differentially regulated in
+different cell types, probably reflecting unique controlling elements. Because
+chromosomal translocations have been associated with different human leukemias,
+studies addressing the possible association with the ETS1 (11q23) or ETS2
+(21q22.3) loci are reviewed.
+
+
+PMID: 1964597  [Indexed for MEDLINE]
+

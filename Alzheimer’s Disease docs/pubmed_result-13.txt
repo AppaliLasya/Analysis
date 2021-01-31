@@ -1,0 +1,25 @@
+
+1. Mol Cell Probes. 1993 Apr;7(2):161-5.
+
+Screening Alzheimer's disease patients for mutations in the amyloid precursor
+protein gene.
+
+Jones CT(1), Morris S, Moffoot A, St Clair D, Brock DJ.
+
+Author information: 
+(1)Human Genetics Unit, University of Edinburgh, Western General Hospital, UK.
+
+Over the past two years a series of different mutations has been discovered in
+the amyloid precursor protein (APP) gene in patients with Alzheimer's disease.
+All have been clustered in exons 16 and 17, a region encoding the beta A4 peptide
+found in the amyloid deposits of neuritic plaques and cerebral blood vessels. We 
+have used the powerful technique of denaturing gradient gel electrophoresis to
+screen for mutations in exons 7, 16 and 17 of the APP gene in a cohort of 105
+patients with presenile dementia of the Alzheimer type and 71 patients with
+autopsy-confirmed senile Alzheimer's disease. No new mutations were found,
+confirming earlier suggestions that APP mutations account for only a small
+proportion of cases of familial and sporadic Alzheimer's disease.
+
+DOI: 10.1006/mcpr.1993.1023 
+PMID: 8321254  [Indexed for MEDLINE]
+

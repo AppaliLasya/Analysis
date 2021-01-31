@@ -1,0 +1,40 @@
+
+1. Biochim Biophys Acta. 2010 Aug;1801(8):762-73. doi: 10.1016/j.bbalip.2010.05.009.
+Epub 2010 May 24.
+
+Cholesterol-related genes in Alzheimer's disease.
+
+Wollmer MA(1).
+
+Author information: 
+(1)Psychiatric University Clinics, University of Basel, 4025 Basel, Switzerland. 
+marcaxel.wollmer@upkbs.ch
+
+Experimental data show that cholesterol can modulate central processes in the
+pathogenesis of Alzheimer's disease (AD). The epidemiological link between
+elevated plasma cholesterol at midlife and increased risk for AD and the
+possibility that 3-hydroxy-3-methylglutaryl-coenzym A reductase inhibitors
+(statins) may be protective against AD support a role of cholesterol metabolism
+in AD and have rendered it a potential therapeutic target in the treatment and
+prevention of the disease. The strong association of AD and AD endophenotypes
+with the APOE gene provides a genetic link between AD and cholesterol metabolism,
+because the apolipoprotein E (ApoE) is the most prevalent cholesterol transport
+protein in the central nervous system. Against this background several other
+genes with a role in cholesterol metabolism have been investigated for
+association with AD. In this review a compilation of genes related to cholesterol
+based on the information of the AmiGo gene ontology database is matched with the 
+AlzGene database of AD candidate genes. 56 out of 149 (37.6%) genes with a
+relation to cholesterol metabolism have been investigated for association with
+AD. Given that only 660 out of about 23,000 (2.9%) genes have been assessed in
+hypothesis-driven candidate gene studies on AD, the cholesterol metabolic pathway
+is strongly represented among these genes. Among 34 cholesterol-related genes for
+which association with AD has been described APOE, CH25H, CLU, LDLR, SORL1
+outstand with positive meta-analyses. However, it is unclear, if their
+association with AD is mediated by cholesterol-related mechanisms or by more
+specific direct effects of the respective proteins on Abeta metabolism.
+
+Copyright 2010 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.bbalip.2010.05.009 
+PMID: 20580938  [Indexed for MEDLINE]
+

@@ -1,0 +1,32 @@
+
+1. Neuropsychopharmacology. 2001 Oct;25(4):608-13.
+
+The 5HT1Dbeta receptor gene in bipolar disorder: a family-based association
+study.
+
+Mundo E(1), Zai G, Lee L, Parikh SV, Kennedy JL.
+
+Author information: 
+(1)Neurogenetics Section, Centre for Addiction and Mental Health, Clarke Site,
+University of Toronto, ON, Toronto, Canada.
+
+The serotonin (5HT) receptor genes are considered good candidates for Major
+Depression (MD), Bipolar Disorder (BP), and Obsessive-Compulsive Disorder (OCD). 
+The 5HT1Dbeta receptor gene has at least three polymorphisms known: G861C,
+T-261G, and the functional T371G (Phe-124-Cys). The aim of this study was to
+investigate for the presence of linkage disequilibrium between the 5HT1Dbeta
+receptor gene and BP. Two hundred and ninety probands with DSM-IV BPI, BPII, or
+Schizoaffective Disorder (Bipolar type) with their living parents were recruited.
+Genotyping data for the G861C and T371G polymorphisms were analyzed using the
+Transmission Disequilibrium Test (TDT). One hundred and sixty triads were
+informative for the TDT on the G861C polymorphism, which showed no preferential
+transmission of either allele (chi-square = 0.438, df = 1, p =.508). Only four
+triads were suitable for the analysis on the T371G variant, with the T allele
+transmitted once and the G allele transmitted four times to the affected. These
+findings validate further the results of pharmacological studies excluding a
+direct involvement of the 5HT1Dbeta receptor in the pathogenesis of BP. Further
+investigations combining genetic and pharmacological strategies are warranted.
+
+DOI: 10.1016/S0893-133X(01)00259-7 
+PMID: 11557174  [Indexed for MEDLINE]
+

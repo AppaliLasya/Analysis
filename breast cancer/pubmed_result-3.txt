@@ -1,0 +1,55 @@
+
+1. Cancers (Basel). 2020 Feb 7;12(2). pii: E378. doi: 10.3390/cancers12020378.
+
+Risk of Contralateral Breast Cancer in Women with and without Pathogenic Variants
+in BRCA1, BRCA2, and TP53 Genes in Women with Very Early-Onset (<36 Years) Breast
+Cancer.
+
+Hyder Z(1)(2), Harkness EF(3)(4), Woodward ER(1)(2), Bowers NL(1), Pereira M(1), 
+Wallace AJ(1), Howell SJ(4)(5)(6), Howell A(4)(5)(6), Lalloo F(1), Newman
+WG(1)(2), Smith MJ(1)(2), Evans DG(1)(2)(4)(5).
+
+Author information: 
+(1)Manchester Centre for Genomic Medicine, Manchester University NHS Foundation
+Trust, Manchester M13 9WL, UK.
+(2)Division of Evolution and Genomic Sciences, School of Biological Sciences,
+Faculty of Biology, Medicine and Health, University of Manchester, Manchester
+Academic Health Science Centre, Manchester M13 9PL, UK.
+(3)Division of Informatics, Imaging and Data Sciences, School of Health Sciences,
+Faculty of Biology, Medicine and Health, University of Manchester, Manchester M13
+9PL, UK.
+(4)Prevent Breast Cancer Centre, Wythenshawe Hospital, Manchester University NHS 
+Foundation Trust, Wythenshawe, Manchester M23 9LT, UK.
+(5)Manchester Breast Centre, The Christie NHS Foundation Trust, Wilmslow Road,
+Manchester M20 4BX, UK.
+(6)Division of Cancer Sciences, Faculty of Biology, Medicine and Health,
+University of Manchester, Manchester Academic Health Science Centre, Manchester
+M13 9PL, UK.
+
+Early age at diagnosis of breast cancer is a known risk factor for hereditary
+predisposition and some studies show a high risk of contralateral breast cancer
+in BRCA1 carriers diagnosed at very young ages. However, little is published on
+the risk of TP53 carriers. 397 women with breast cancer diagnosed <36 years of
+age were obtained from three sources: (i) a population-based study of 283 women
+diagnosed sequentially from 1980-1997 in North-West England, (ii) referrals to
+the Genomic Medicine Department at St Mary's Hospital from 1990-2018, and (iii)
+individuals from (i) and the Family History Clinic at Wythenshawe Hospital South 
+Manchester who tested negative for pathogenic variants (PV) in all three genes.
+Sequencing of BRCA1, BRCA2, and TP53 genes was carried out alongside tests for
+copy number for PV on all referred women. Rates of contralateral breast cancer
+were censored at death, last assessment, or risk-reducing mastectomy. In total,
+47 TP53, 218 BRCA1, and 132 BRCA2 PV carriers were identified with breast cancer 
+diagnosed aged 35 years and under, as well as a representative sample of 261 not 
+known to carry a PV in BRCA1, BRCA2, and TP53. Annual rates of contralateral
+breast cancer (and percentage of synchronous breast cancers) were TP53: 7.03%
+(4.3%), BRCA1: 3.57% (1.8%), and BRCA2: 2.63% (1.5%). In non-PV carriers,
+contralateral rates in isolated presumed/tested non-carrier cases with no family 
+history were 0.56%, and for those with a family history, 0.69%. Contralateral
+breast cancer rates are substantial in TP53, BRCA1, and BRCA2 PV carriers
+diagnosed with breast cancer aged 35 and under. Women need to be advised to help 
+make informed decisions on contralateral mastectomy, guided by life expectancy
+from their index tumor.
+
+DOI: 10.3390/cancers12020378 
+PMID: 32045981 
+

@@ -1,0 +1,40 @@
+
+1. Int J Mol Sci. 2020 Jan 29;21(3). pii: E870. doi: 10.3390/ijms21030870.
+
+Interplay between BRCA1 and GADD45A and Its Potential for Nucleotide Excision
+Repair in Breast Cancer Pathogenesis.
+
+Pietrasik S(1), Zajac G(1), Morawiec J(2), Soszynski M(3), Fila M(4), Blasiak
+J(1).
+
+Author information: 
+(1)Department of Molecular Genetics, Faculty of Biology and Environmental
+Protection, University of Lodz, 90-236 Lodz, Poland.
+(2)Department of Surgical Oncology, Nicolaus Copernicus Memorial Regional Cancer 
+Center, 93-513 Lodz, Poland.
+(3)Department of Molecular Biophysics, Faculty of Biology and Environmental
+Protection, University of Lodz, 90-236 Lodz, Poland.
+(4)Department of Neurology, Research Institute, Polish Mother Memorial Hospital, 
+93-338 Lodz, Poland.
+
+A fraction of breast cancer cases are associated with mutations in the BRCA1
+(BRCA1 DNA repair associated, breast cancer type 1 susceptibility protein) gene, 
+whose mutated product may disrupt the repair of DNA double-strand breaks as BRCA1
+is directly involved in the homologous recombination repair of such DNA damage.
+However, BRCA1 can stimulate nucleotide excision repair (NER), the most versatile
+system of DNA repair processing a broad spectrum of substrates and playing an
+important role in the maintenance of genome stability. NER removes carcinogenic
+adducts of diol-epoxy derivatives of benzo[α]pyrene that may play a role in
+breast cancer pathogenesis as their accumulation is observed in breast cancer
+patients. NER deficiency was postulated to be intrinsic in stage I of sporadic
+breast cancer. BRCA1 also interacts with GADD45A (growth arrest and DNA
+damage-inducible protein GADD45 alpha) that may target NER machinery to actively 
+demethylate genome sites in order to change the expression of genes that may be
+important in breast cancer. Therefore, the interaction between BRCA1 and GADD45
+may play a role in breast cancer pathogenesis through the stimulation of NER,
+increasing the genomic stability, removing carcinogenic adducts, and the local
+active demethylation of genes important for cancer transformation.
+
+DOI: 10.3390/ijms21030870 
+PMID: 32013256 
+

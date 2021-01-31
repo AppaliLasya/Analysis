@@ -1,0 +1,36 @@
+
+1. Genes Chromosomes Cancer. 1993 Feb;6(2):65-72.
+
+ZFY gene expression and retention in human prostate adenocarcinoma.
+
+Tricoli JV(1), Bracken RB.
+
+Author information: 
+(1)Department of Surgery/Division of Urology, University of Cincinnatic College
+of Medicine, OH 45267.
+
+The terminal portion of the short arm of the human Y (Yp) chromosome encodes a
+zinc-finger DNA binding protein (ZFY). A highly homologous gene, ZFX, is encoded 
+on Xp. The potential of the zinc finger motif for regulating the expression of
+other genes suggests a role for this protein in the development of malignancy.
+Prostate adenocarcinoma is a malignancy of male-specific tissue, the incidence of
+which increases beyond the fifth decade of life. We have analyzed samples of
+human prostate adenocarcinoma for the expression of ZFY and ZFX transcripts. We
+found expression of ZFY transcripts in 3 of 31 prostate adenocarcinomas by using 
+Northern analysis. No ZFY or ZFX transcripts were detected in normal hypertrophic
+prostate tissue on Northern analysis. In one prostate adenocarcinoma, high levels
+of the 5.1 kb ZFY and the 8.0 and 6.3 kb ZFX transcripts were present. In
+addition, this high-grade tumor contained a novel 4.3 kb transcript. When we used
+reverse transcriptase PCR (RT-PCR) to analyze these same samples, the number of
+tumors expressing ZFY and/or ZFX transcripts increased to 20 of 31. Transcripts
+for these genes were also present in the DU-145 and LNCaP human prostate
+adenocarcinoma cell lines. In 2 of the 6 benign prostatic hypertrophy (BPH)
+tissues analyzed by RT-PCR, barely detectable products of ZFY were observed, and 
+none contained ZFX products. Southern analysis revealed that the portion of the Y
+chromosome which contains the ZFY gene was not lost from the majority of the
+tumor cells in any of the prostate malignancies examined.(ABSTRACT TRUNCATED AT
+250 WORDS)
+
+DOI: 10.1002/gcc.2870060202 
+PMID: 7680890  [Indexed for MEDLINE]
+

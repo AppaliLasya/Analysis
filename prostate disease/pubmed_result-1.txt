@@ -1,0 +1,59 @@
+
+1. Oncotarget. 2020 Jan 28;11(4):362-377. doi: 10.18632/oncotarget.27406.
+eCollection 2020 Jan 28.
+
+Characterization of unique PMEPA1 gene splice variants (isoforms d and e) from
+RNA Seq profiling provides novel insights into prognostic evaluation of prostate 
+cancer.
+
+Sharad S(1)(2)(3)(4), Dillman AA(1)(3), Sztupinszki ZM(5), Szallasi Z(5)(6)(7),
+Rosner I(1)(2)(8), Cullen J(1)(2)(3), Srivastava S(1), Srinivasan A(1)(3), Li
+H(1)(2)(4).
+
+Author information: 
+(1)Center for Prostate Disease Research, Department of Surgery, Uniformed
+Services University of the Health Sciences and the Walter Reed National Military 
+Medical Center, Bethesda, Maryland, 20814, USA.
+(2)John P. Murtha Cancer Center, Walter Reed National Military Medical Center,
+Bethesda, Maryland, 20814, USA.
+(3)Henry Jackson Foundation for the Advancement of Military Medicine (HJF),
+Bethesda, Maryland, 20817, USA.
+(4)These authors contributed equally to this work.
+(5)Danish Cancer Society Research Center, Copenhagen, 2100, Denmark.
+(6)Computational Health Informatics Program, Boston Children's Hospital, Harvard 
+Medical School, Boston, Massachusetts, 02115, USA.
+(7)SE-NAP Brain Metastasis Research Group, 2nd Department of Pathology,
+Semmelweis University, Budapest, 1085, Hungary.
+(8)Urology Service, Walter Reed National Military Medical Center, Bethesda,
+Maryland, 20814, USA.
+
+Prostate cancer is a disease with heterogeneity of multiple gene transcriptomes
+and biological signaling pathways involved in tumor development. The prostate
+transmembrane protein, androgen induced 1 (PMEPA1), a multifunctional protein
+played critical roles in prostate tumorigenesis. The pleiotropic nature of PMEPA1
+in modulating androgen and TGF-β signaling as well as splice variants mechanisms 
+for functional regulations of cancer-associated genes prompted us to investigate 
+the biological roles of PMEPA1 isoforms in prostate cancer. In addition to 4
+reported PMEPA1 isoforms (a, b, c and d), one novel isoform PMEPA1-e was
+identified with RNA Seq analysis of hormone responsive VCaP, LNCaP cells and
+human prostate cancer samples from The Cancer Genome Atlas (TCGA) dataset. We
+analyzed the structures, expressions, biological functions and clinical relevance
+of PMEPA1-e isoform and less characterized isoforms c and d in the context of
+prostate cancer and AR/TGF-β signaling. The expression of PMEPA1-e was induced by
+androgen and AR. In contrast, PMEPA1-d was responsive to TGF-β and inhibited
+TGF-β signaling. Both PMEPA1-d and PMPEA1-e promoted the growth of androgen
+independent prostate cancer cells. Although PMEPA1-c was responsive to TGF-β, it 
+was found to have no impacts on cell growth and androgen/TGF-β signaling. The
+TCGA data analysis from 499 patients showed higher expression ratios of PMEAP1-b 
+versus -d or -e strongly associated with enhanced Gleason score. Taken together, 
+our findings first time defined the prostate tumorigenesis mediated by PMEPA1-d
+and -e isoforms, providing novel insights into the new strategies for prognostic 
+evaluation and therapeutics of prostate tumor.
+
+DOI: 10.18632/oncotarget.27406 
+PMCID: PMC6996919
+PMID: 32064040 
+
+Conflict of interest statement: CONFLICTS OF INTEREST The authors have no
+competing and financial interests to disclose.
+

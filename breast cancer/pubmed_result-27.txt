@@ -1,0 +1,46 @@
+
+1. Med J Islam Repub Iran. 2019 Oct 2;33:105. doi: 10.34171/mjiri.33.105.
+eCollection 2019.
+
+Mutations analysis of BRCA1 gene in patients with breast cancer in South Khorasan
+province, East Iran.
+
+Khalili-Tanha G(1), Sebzari A(2), Moodi M(3), Hajipoor F(1), Naseri M(1).
+
+Author information: 
+(1)Cellular and Molecular Research Center, Genomics research group, Birjand
+University of Medical Science, Birjand, Iran.
+(2)Radiation Oncologist, Clinical Research Development Unit (CRDU), Valiasr
+hospital Birjand University of Medical Sciences, Birjand, Iran.
+(3)Social Determinants of Health Research Center, Department of Health Education 
+and Health Promotion, School of Health, Birjand University of Medical Sciences,
+Birjand, Iran.
+
+Background: Breast cancer (BC) is well-known as the most common malignancy and
+the first leading cause of cancer-related death among women worldwide. Evidence
+suggests that familial history and age are important risk factors for the
+development of this disease in Iran. Mutations in BRCA1 and BRCA2 genes are the
+cause of 5 to 10% of hereditary BC. Recent studies demonstrated that mutations in
+BRCA1 were observed in high-risk women with family histories of BC. However, to
+date, the mutations have not been elucidated in BC patients from east of Iran.
+The purpose of this study was to analyze BRCA1 mutations in BC patient from South
+Khorasan Province. Methods: In the present study, 88 BC patients (11 positive
+family history) were screened for mutations in BRCA1. The analysis of BRCA1 was
+carried out by SSCP (single-strand conformation polymorphism) for shorter exons
+and direct sequencing in the case of longer ones. Results: Twenty-eight of the
+patients (31.8%) had a synonymous mutation (c.4308T>C) in exon 13. A missense
+mutation (c. 4837A>G) was presented in exon 16 with a frequency of 56.8 %. In
+exon 11 three missense mutations were observed, and the frequency rate for
+c.3113A>G was 32.5%, for c.3119G>A was 5%, and the highest frequency belonged to 
+c.3548A>G with 72.4% in familial BC and 45.4% in the non-familial group.
+Conclusion: In our study, five mutations were found, but none of the founder
+mutations were identified in this population. Two missense mutations in exon 16
+(56.8%) and in exon 11 (65%) had the highest frequency in South Khorasan
+Province.
+
+© 2019 Iran University of Medical Sciences.
+
+DOI: 10.34171/mjiri.33.105 
+PMCID: PMC6946920
+PMID: 31934565 
+

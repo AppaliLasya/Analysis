@@ -1,0 +1,48 @@
+
+1. Br J Cancer. 1996 Nov;74(10):1518-25.
+
+Expression of the zinc finger gene EVI-1 in ovarian and other cancers.
+
+Brooks DJ(1), Woodward S, Thompson FH, Dos Santos B, Russell M, Yang JM, Guan XY,
+Trent J, Alberts DS, Taetle R.
+
+Author information: 
+(1)Department of Medicine, University of Arizona and Arizona Cancer Center,
+Tucson 85724, USA.
+
+The EVI-1 gene was originally detected as an ectopic viral insertion site and
+encodes a nuclear zinc finger DNA-binding protein. Previous studies showed
+restricted EVI-1 RNA or protein expression during ontogeny; in a kidney and an
+endometrial carcinoma cell line; and in normal murine oocytes and kidney cells.
+EVI-1 expression was also detected in a subset of acute myeloid leukaemias (AMLs)
+and myelodysplasia. Because EVI-1 is expressed in the urogenital tract during
+development, we examined ovarian cancers and normal ovaries for EVI-1 RNA
+expression using reverse transcription polymerase chain reaction (RT-PCR) and
+RNAase protection. Chromosome abnormalities were examined using karyotypes and
+whole chromosome 3 and 3q26 fluorescence in situ hybridisation (FISH). RNA from
+six primary ovarian tumours, five normal ovaries and 47 tumour cell lines (25
+ovarian, seven melanoma, three prostate, seven breast and one each of bladder,
+endometrial, lung, epidermoid and histiocytic lymphoma) was studied. Five of six 
+primary ovarian tumours, three of five normal ovaries and 22 of 25 ovarian cell
+lines expressed EVI-1 RNA. A variety of other non-haematological cancers also
+expressed EVI-1 RNA. Immunostaining of ovarian cancer cell lines revealed nuclear
+EVI-1 protein. In contrast, normal ovary stained primarily within oocytes and
+faintly in stroma. Primary ovarian tumours showed nuclear and intense, diffuse
+cytoplasmic staining. Quantitation of EVI-1 RNA, performed using RNAase
+protection, showed ovarian carcinoma cells expressed 0 to 40 times the EVI-1 RNA 
+in normal ovary, and 0-6 times the levels in leukaemia cell lines. Southern
+analyses of ovarian carcinoma cell lines showed no amplification or
+rearrangements involving EVI-1. In some acute leukaemias, activation of EVI-1
+transcription is associated with translocations involving 3q26, the site of the
+EVI-1 gene. Ovarian carcinoma karyotypes showed one line with quadruplication
+3(q24q27), but no other clonal structural rearrangements involving 3q26. However,
+whole chromsome 3 and 3q26 FISH performed on lines with high EVI-1 expression
+showed translocations involving chromosome 3q26. EVI-1 is overexpressed in
+ovarian cancer compared with normal ovaries, suggesting a role for EVI-1 in solid
+tumour carcinogenesis or progression. Mechanisms underlying EVI-1 overexpression 
+remain unclear, but may include rearrangements involving chromosome 3q26.
+
+DOI: 10.1038/bjc.1996.583 
+PMCID: PMC2074868
+PMID: 8932329  [Indexed for MEDLINE]
+

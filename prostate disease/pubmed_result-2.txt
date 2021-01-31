@@ -1,0 +1,33 @@
+
+1. Cancer Res. 1990 Nov 1;50(21):6830-2.
+
+ras gene mutations in human prostate cancer.
+
+Carter BS(1), Epstein JI, Isaacs WB.
+
+Author information: 
+(1)Brady Urological Research Institute, Johns Hopkins University School of
+Medicine and Hospital, Baltimore, Maryland 21205.
+
+Point mutations at codons 12, 13, or 61 of the Ha-, Ki-, and N-ras genes are able
+to convert these normal cellular genes into activated oncogenes. Previous studies
+have shown that ras gene mutations occur in a variety of human solid tumors and
+may be important in the pathogenesis of some of these tumors. In order to test
+the hypothesis that ras gene mutations may be associated with prostate cancer, we
+have used an oligodeoxynucleotide hybridization assay to detect wild-type and
+mutant alleles in genomic DNA from prostate tumors and prostate tumor cell lines 
+amplified using the polymerase chain reaction. Twenty-four primary prostate
+tumors (23 acinar tumors and one ductal tumor) and five prostate tumor cell lines
+were examined for mutations at codons 12, 13, and 61 of the Ki-ras, Ha-ras, and
+N-ras genes. Two mutations were detected: an A----G transition causing a
+glutamine to arginine amino acid substitution at codon 61 of the Ha-ras gene in a
+primary prostatic duct adenocarcinoma and a G----T transversion causing a glycine
+to valine amino acid substitution at codon 12 of the Ha-ras gene in a prostate
+tumor cell line (TSU-PR1) derived from a lymph node metastasis. While the overall
+frequency of ras gene mutations in prostate tumors is low, when these mutations
+do occur they may have a role in the progression of disease or the development of
+the unusual ductal variant of prostatic adenocarcinoma.
+
+
+PMID: 2208148  [Indexed for MEDLINE]
+

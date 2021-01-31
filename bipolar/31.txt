@@ -1,0 +1,46 @@
+
+1. PLoS One. 2013 Jul 5;8(7):e67450. doi: 10.1371/journal.pone.0067450. Print 2013.
+
+Cognitive manic symptoms in bipolar disorder associated with polymorphisms in the
+DAOA and COMT genes.
+
+Hukic DS(1), Frisén L, Backlund L, Lavebratt C, Landén M, Träskman-Bendz L, Edman
+G, Schalling M, Ösby U.
+
+Author information: 
+(1)Neurogenetics Unit, Department of Molecular Medicine and Surgery, Karolinska
+Institutet, Stockholm, Sweden. dzana.hukic@ki.se
+
+INTRODUCTION: Bipolar disorder is characterized by severe mood symptoms including
+major depressive and manic episodes. During manic episodes, many patients show
+cognitive dysfunction. Dopamine and glutamate are important for cognitive
+processing, thus the COMT and DAOA genes that modulate the expression of these
+neurotransmitters are of interest for studies of cognitive function.
+METHODOLOGY: Focusing on the most severe episode of mania, a factor was found
+with the combined symptoms of talkativeness, distractibility, and thought
+disorder, considered a cognitive manic symptoms (CMS) factor. 488 patients were
+genotyped, out of which 373 (76%) had talkativeness, 269 (55%) distractibility,
+and 372 (76%) thought disorder. 215 (44%) patients were positive for all three
+symptoms, thus showing CMS (Table 1). As population controls, 1,044 anonymous
+blood donors (ABD) were used. Case-case and case-control design models were used 
+to investigate genetic associations between cognitive manic symptoms in bipolar 1
+disorder and SNPs in the COMT and DAOA genes. [Table: see text].
+RESULTS: The finding of this study was that cognitive manic symptoms in patients 
+with bipolar 1 disorder was associated with genetic variants in the DAOA and COMT
+genes. Nominal association for DAOA SNPs and COMT SNPs to cognitive symptoms
+factor in bipolar 1 disorder was found in both allelic (Table 2) and haplotypic
+(Table 3) analyses. Genotypic association analyses also supported our findings.
+However, only one association, when CMS patients were compared to ABD controls,
+survived correction for multiple testing by max (T) permutation. Data also
+suggested interaction between SNPs rs2391191 in DAOA and rs5993883 in COMT in the
+case-control model. [Table: see text] [Table: see text].
+CONCLUSION: Identifying genes associated with cognitive functioning has clinical 
+implications for assessment of prognosis and progression. Our finding are
+consistent with other studies showing genetic associations between the COMT and
+DAOA genes and impaired cognition both in psychiatric disorders and in the
+general population.
+
+DOI: 10.1371/journal.pone.0067450 
+PMCID: PMC3702534
+PMID: 23861766  [Indexed for MEDLINE]
+

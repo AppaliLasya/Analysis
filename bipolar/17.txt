@@ -1,0 +1,28 @@
+
+1. Am J Med Genet B Neuropsychiatr Genet. 2007 Jul 5;144B(5):701-3.
+
+Effect of 5-haplotype of dysbindin gene (DTNBP1) polymorphisms for the
+susceptibility to bipolar I disorder.
+
+Pae CU(1), Serretti A, Mandelli L, Yu HS, Patkar AA, Lee CU, Lee SJ, Jun TY, Lee 
+C, Paik IH, Kim JJ.
+
+Author information: 
+(1)Department of Psychiatry, The Catholic University of Korea College of
+Medicine, Seoul, South Korea.
+
+We investigated a possible association between dysbindin gene (DTNBP1) variants
+and bipolar I disorder (BID). Five SNPs within DTNBP1 (rs3213207, rs1011313,
+rs2005976, rs760761, and rs2619522) were genotyped for 151 patients with BID and 
+478 controls. We observed a significant protective association of the haplotype
+A-C-G-T-A (all SNPs, P = 0.00016) and particularly G-T-A (the last three SNP, P =
+0.00007) within DTNBP1 variants investigated. Single marker and subgroup (e.g.,
+psychotic features, age at onset, family history, etc.) analyses showed no
+significant association. Although the association was due to a small number of
+subjects, specific DTNBP1 haplotypes, previously associated with schizophrenia,
+may be also associated with BID. Adequately powered studies from different
+ethnicities will be necessary to confirm our findings.
+
+DOI: 10.1002/ajmg.b.30439 
+PMID: 17192893  [Indexed for MEDLINE]
+

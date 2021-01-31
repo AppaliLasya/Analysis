@@ -1,0 +1,41 @@
+
+1. Biochem Biophys Res Commun. 2020 Feb 4. pii: S0006-291X(20)30211-4. doi:
+10.1016/j.bbrc.2020.01.128. [Epub ahead of print]
+
+RNA-seq based transcriptome analysis of EHMT2 functions in breast cancer.
+
+Kim K(1), Ryu TY(1), Ryu JW(1), Han TS(1), Jung CR(2), Son MY(2), Kim DS(2), Cho 
+HS(3).
+
+Author information: 
+(1)Korea Research Institute of Bioscience and Biotechnology, Daejeon, 34141,
+Republic of Korea.
+(2)Korea Research Institute of Bioscience and Biotechnology, Daejeon, 34141,
+Republic of Korea; Department of Functional Genomics, Korea University of Science
+and Technology, Daejeon, 34316, Republic of Korea.
+(3)Korea Research Institute of Bioscience and Biotechnology, Daejeon, 34141,
+Republic of Korea; Department of Functional Genomics, Korea University of Science
+and Technology, Daejeon, 34316, Republic of Korea. Electronic address:
+chohs@kribb.re.kr.
+
+For breast cancer treatment, hormone therapy is effective for hormone
+receptor-positive breast cancer but not for TNBC (triple-negative breast cancer).
+Thus, many researchers have attempted to identify more effective therapeutic
+candidates for all subtypes of breast cancer. In this study, we established an
+RNA-seq analytical pipeline to analyze the subtype-specific functions of EHMT2 in
+the MB231 and MCF7 cell lines. After EHMT2 knockdown, we identified
+subtype-specific DEGs (differentially expressed genes) and overlapping DEGs.
+Through GO (Gene Ontology) analysis, GSEA (gene set enrichment analysis), and
+KEGG (Kyoto Encyclopedia of Genes and Genomes) analysis using the DEGs, we
+identified the subtype-specific functions of EHMT2 in the MB231 and MCF7 cell
+lines. Therefore, herein, we suggest that EHMT2 is an attractive therapeutic
+target for the treatment of all types of breast cancer.
+
+Copyright © 2020 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.bbrc.2020.01.128 
+PMID: 32033749 
+
+Conflict of interest statement: Declaration of competing interest The authors
+declare no conflicts of interest.
+

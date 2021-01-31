@@ -1,0 +1,114 @@
+
+1. Nat Genet. 2020 Jan;52(1):56-73. doi: 10.1038/s41588-019-0537-1. Epub 2020 Jan 7.
+
+Fine-mapping of 150 breast cancer risk regions identifies 191 likely target
+genes.
+
+Fachal L, Aschard H, Beesley J, Barnes DR, Allen J, Kar S, Pooley KA, Dennis J,
+Michailidou K, Turman C, Soucy P, Lemaçon A, Lush M, Tyrer JP, Ghoussaini M,
+Moradi Marjaneh M, Jiang X, Agata S, Aittomäki K, Alonso MR, Andrulis IL,
+Anton-Culver H, Antonenkova NN, Arason A, Arndt V, Aronson KJ, Arun BK, Auber B, 
+Auer PL, Azzollini J, Balmaña J, Barkardottir RB, Barrowdale D, Beeghly-Fadiel A,
+Benitez J, Bermisheva M, Białkowska K, Blanco AM, Blomqvist C, Blot W, Bogdanova 
+NV, Bojesen SE, Bolla MK, Bonanni B, Borg A, Bosse K, Brauch H, Brenner H,
+Briceno I, Brock IW, Brooks-Wilson A, Brüning T, Burwinkel B, Buys SS, Cai Q,
+Caldés T, Caligo MA, Camp NJ, Campbell I, Canzian F, Carroll JS, Carter BD,
+Castelao JE, Chiquette J, Christiansen H, Chung WK, Claes KBM, Clarke CL; GEMO
+Study Collaborators; EMBRACE Collaborators, Collée JM, Cornelissen S, Couch FJ,
+Cox A, Cross SS, Cybulski C, Czene K, Daly MB, de la Hoya M, Devilee P, Diez O,
+Ding YC, Dite GS, Domchek SM, Dörk T, Dos-Santos-Silva I, Droit A, Dubois S,
+Dumont M, Duran M, Durcan L, Dwek M, Eccles DM, Engel C, Eriksson M, Evans DG,
+Fasching PA, Fletcher O, Floris G, Flyger H, Foretova L, Foulkes WD, Friedman E, 
+Fritschi L, Frost D, Gabrielson M, Gago-Dominguez M, Gambino G, Ganz PA, Gapstur 
+SM, Garber J, García-Sáenz JA, Gaudet MM, Georgoulias V, Giles GG, Glendon G,
+Godwin AK, Goldberg MS, Goldgar DE, González-Neira A, Tibiletti MG, Greene MH,
+Grip M, Gronwald J, Grundy A, Guénel P, Hahnen E, Haiman CA, Håkansson N, Hall P,
+Hamann U, Harrington PA, Hartikainen JM, Hartman M, He W, Healey CS,
+Heemskerk-Gerritsen BAM, Heyworth J, Hillemanns P, Hogervorst FBL, Hollestelle A,
+Hooning MJ, Hopper JL, Howell A, Huang G, Hulick PJ, Imyanitov EN; KConFab
+Investigators; HEBON Investigators; ABCTB Investigators, Isaacs C, Iwasaki M,
+Jager A, Jakimovska M, Jakubowska A, James PA, Janavicius R, Jankowitz RC, John
+EM, Johnson N, Jones ME, Jukkola-Vuorinen A, Jung A, Kaaks R, Kang D, Kapoor PM, 
+Karlan BY, Keeman R, Kerin MJ, Khusnutdinova E, Kiiski JI, Kirk J, Kitahara CM,
+Ko YD, Konstantopoulou I, Kosma VM, Koutros S, Kubelka-Sabit K, Kwong A, Kyriacou
+K, Laitman Y, Lambrechts D, Lee E, Leslie G, Lester J, Lesueur F, Lindblom A, Lo 
+WY, Long J, Lophatananon A, Loud JT, Lubiński J, MacInnis RJ, Maishman T, Makalic
+E, Mannermaa A, Manoochehri M, Manoukian S, Margolin S, Martinez ME, Matsuo K,
+Maurer T, Mavroudis D, Mayes R, McGuffog L, McLean C, Mebirouk N, Meindl A,
+Miller A, Miller N, Montagna M, Moreno F, Muir K, Mulligan AM, Muñoz-Garzon VM,
+Muranen TA, Narod SA, Nassir R, Nathanson KL, Neuhausen SL, Nevanlinna H, Neven
+P, Nielsen FC, Nikitina-Zake L, Norman A, Offit K, Olah E, Olopade OI, Olsson H, 
+Orr N, Osorio A, Pankratz VS, Papp J, Park SK, Park-Simon TW, Parsons MT, Paul J,
+Pedersen IS, Peissel B, Peshkin B, Peterlongo P, Peto J, Plaseska-Karanfilska D, 
+Prajzendanc K, Prentice R, Presneau N, Prokofyeva D, Pujana MA, Pylkäs K, Radice 
+P, Ramus SJ, Rantala J, Rau-Murthy R, Rennert G, Risch HA, Robson M, Romero A,
+Rossing M, Saloustros E, Sánchez-Herrero E, Sandler DP, Santamariña M, Saunders
+C, Sawyer EJ, Scheuner MT, Schmidt DF, Schmutzler RK, Schneeweiss A, Schoemaker
+MJ, Schöttker B, Schürmann P, Scott C, Scott RJ, Senter L, Seynaeve CM, Shah M,
+Sharma P, Shen CY, Shu XO, Singer CF, Slavin TP, Smichkoska S, Southey MC,
+Spinelli JJ, Spurdle AB, Stone J, Stoppa-Lyonnet D, Sutter C, Swerdlow AJ, Tamimi
+RM, Tan YY, Tapper WJ, Taylor JA, Teixeira MR, Tengström M, Teo SH, Terry MB,
+Teulé A, Thomassen M, Thull DL, Tischkowitz M, Toland AE, Tollenaar RAEM,
+Tomlinson I, Torres D, Torres-Mejía G, Troester MA, Truong T, Tung N, Tzardi M,
+Ulmer HU, Vachon CM, van Asperen CJ, van der Kolk LE, van Rensburg EJ, Vega A,
+Viel A, Vijai J, Vogel MJ, Wang Q, Wappenschmidt B, Weinberg CR, Weitzel JN,
+Wendt C, Wildiers H, Winqvist R, Wolk A, Wu AH, Yannoukakos D, Zhang Y, Zheng W, 
+Hunter D, Pharoah PDP, Chang-Claude J, García-Closas M, Schmidt MK, Milne RL,
+Kristensen VN, French JD, Edwards SL, Antoniou AC, Chenevix-Trench G, Simard J,
+Easton DF, Kraft P, Dunning AM.
+
+Collaborators: Mari V, Berthet P, Castera L, Vaur D, Lallaoui H, Bignon YJ,
+Uhrhammer N, Bonadona V, Lasset C, Révillion F, Vennin P, Muller D, Gomes DM,
+Ingster O, Coupier I, Pujol P, Collonge-Rame MA, Mortemousque I, Bera O, Rose M, 
+Baurand A, Bertolone G, Faivre L, Dreyfus H, Leroux D, Venat-Bouvet L, Bézieau S,
+Delnatte C, Chiesa J, Gilbert-Dussardier B, Gesta P, Prieur FP, Bronner M,
+Sokolowska J, Coulet F, Boutry-Kryza N, Calender A, Giraud S, Leone M,
+Fert-Ferrer S, Stoppa-Lyonnet D, Jiao Y, Lesueur FL, Mebirouk N, Barouk-Simonet
+E, Bubien V, Longy M, Sevenet N, Gladieff L, Toulas C, Reimineras A, Sobol H,
+Paillerets BB, Cabaret O, Caron O, Guillaud-Bataille M, Rouleau E, Belotti M,
+Buecher B, Caputo S, Colas C, Pauw A, Fourme E, Gauthier-Villars M, Golmard L,
+Moncoutier V, Saule C, Donaldson A, Murray A, Brady A, Brewer C, Pottinger C,
+Miller C, Gallagher D, Gregory H, Cook J, Eason J, Adlard J, Barwell J, Ong KR,
+Snape K, Walker L, Izatt L, Side L, Tischkowitz M, Rogers MT, Porteous ME, Ahmed 
+M, Morrison PJ, Brennan P, Eeles R, Davidson R, Sexton A, Christian A, Trainer A,
+Spigelman A, Fellows A, Shelling A, Fazio A, Blackburn A, Crook A, Meiser B,
+Patterson B, Clarke C, Saunders C, Hunt C, Scott C, Amor D, Marsh D, Edkins E,
+Salisbury E, Haan E, Neidermayr E, Macrea F, Farshid G, Lindeman G, Trench G,
+Mann G, Giles G, Gill G, Thorne H, Campbell I, Hickie I, Winship I, Flanagan J,
+Kollias J, Visvader J, Stone J, Taylor J, Burke J, Saunus J, Forbes J, Hopper J, 
+Beesley J, Kirk J, French J, Tucker K, Wu K, Phillips K, Lipton L, Andrews L,
+Lobb L, Walker L, Kentwell M, Spurdle M, Cummings M, Gleeson M, Harris M, Jenkins
+M, Young MA, Delatycki M, Wallis M, Burgess M, Price M, Brown M, Southey M,
+Bogwitz M, Field M, Friedlander M, Gattas M, Saleh M, Hayward N, Pachter N, Cohen
+P, Duijf P, James P, Simpson P, Fong P, Butow P, Williams R, Kefford R, Scott R, 
+Milne R, Balleine R, Dawson SJ, Lok S, O'Connell S, Greening S, Nightingale S,
+Edwards S, Fox S, McLachlan SA, Lakhani S, Antill Y, Aalfs C, Meijers-Heijboer H,
+van Engelen K, Gille H, Boere I, Collée M, van Deurzen C, Hooning M, Obdeijn IM, 
+van den Ouweland A, Seynaeve C, Siesling S, Verloop J, van Asperen C, Devilee P, 
+van Cronenburg T, Blok R, de Boer M, Garcia EG, Adank M, Hogervorst F, Jenner D, 
+van Leeuwen F, Rookus M, Russell N, Schmidt M, van den Belt-Dusebout S, Kets C,
+Mensenkamp A, de Bock T, van der Hout A, Mourits M, Oosterwijk J, Ausems M,
+Koudijs M, Clarke C, Marsh D, Scott R, Baxter R, Yip D, Carpenter J, Davis A,
+Pathmanathan N, Simpson P, Graham D, Sachchithananthan M.
+
+Genome-wide association studies have identified breast cancer risk variants in
+over 150 genomic regions, but the mechanisms underlying risk remain largely
+unknown. These regions were explored by combining association analysis with in
+silico genomic feature annotations. We defined 205 independent risk-associated
+signals with the set of credible causal variants in each one. In parallel, we
+used a Bayesian approach (PAINTOR) that combines genetic association, linkage
+disequilibrium and enriched genomic features to determine variants with high
+posterior probabilities of being causal. Potentially causal variants were
+significantly over-represented in active gene regulatory regions and
+transcription factor binding sites. We applied our INQUSIT pipeline for
+prioritizing genes as targets of those potentially causal variants, using gene
+expression (expression quantitative trait loci), chromatin interaction and
+functional annotations. Known cancer drivers, transcription factors and genes in 
+the developmental, apoptosis, immune system and DNA integrity checkpoint gene
+ontology pathways were over-represented among the highest-confidence target
+genes.
+
+DOI: 10.1038/s41588-019-0537-1 
+PMCID: PMC6974400 [Available on 2020-07-07]
+PMID: 31911677 
+

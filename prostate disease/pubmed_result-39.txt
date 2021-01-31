@@ -1,0 +1,30 @@
+
+1. Prostate. 1997 Feb 15;30(3):145-53.
+
+Identification of differentially expressed prostate genes: increased expression
+of transcription factor ETS-2 in prostate cancer.
+
+Liu AY(1), Corey E, Vessella RL, Lange PH, True LD, Huang GM, Nelson PS, Hood L.
+
+Author information: 
+(1)Department of Urology, University of Washington, Seattle 98195, USA.
+
+BACKGROUND: Little is known about the genetic events in the malignant
+transformation of prostatic cells. This is due in large measure to the cellular
+heterogeneity of the prostate.
+METHODS: An amplification method was devised to synthesize cDNA from small
+samples of cancer and benign tissues of the same resected glands. Differential
+gene expression of candidate informative markers between cancer and benign was
+screened by the polymerase chain reaction with gene-specific oligonucleotide
+primers.
+RESULTS: The expression of a transcription factor, ETS-2, was shown to be
+elevated in some cancer specimens. Elevated expression was also noted for
+neuron-specific enolase (NSE) and another transcription factor, SEF2.
+CONCLUSIONS: Our method can be used to identify quickly genes that are
+differentially expressed between benign and cancerous prostate cells.
+Transcription factors, such as ETS-2, may play a significant role in cancer
+progression.
+
+DOI: 10.1002/(sici)1097-0045(19970215)30:3<145::aid-pros1>3.0.co;2-l 
+PMID: 9122038  [Indexed for MEDLINE]
+

@@ -1,0 +1,35 @@
+
+1. Int J Neuropsychopharmacol. 2013 Mar;16(2):289-99. doi:
+10.1017/S1461145712000363. Epub 2012 May 9.
+
+H3K4 tri-methylation in synapsin genes leads to different expression patterns in 
+bipolar disorder and major depression.
+
+Cruceanu C(1), Alda M, Nagy C, Freemantle E, Rouleau GA, Turecki G.
+
+Author information: 
+(1)McGill Group for Suicide Studies, Douglas Mental Health University Institute, 
+McGill University, Montreal, QC, Canada.
+
+The synapsin family of neuronal phosphoproteins is composed of three genes (SYN1,
+SYN2 and SYN3) with alternative splicing resulting in a number of variants with
+various levels of homology. These genes have been postulated to play significant 
+roles in several neuropsychiatric disorders, including bipolar disorder,
+schizophrenia and epilepsy. Epigenetic regulatory mechanisms, such as histone
+modifications in gene regulatory regions, have also been proposed to play a role 
+in a number of psychiatric disorders, including bipolar disorder and major
+depressive disorder. One of the best characterized histone modifications is
+histone 3 lysine 4 tri-methylation (H3K4me3), an epigenetic mark shown to be
+highly enriched at transcriptional start sites and associated with active
+transcription. In the present study we have quantified the expression of
+transcript variants of the three synapsin genes and investigated their
+relationship to H3K4me3 promoter enrichment in post-mortem brain samples. We
+found that histone modification marks were significantly increased in bipolar
+disorder and major depression and this effect was correlated with significant
+increases in gene expression. Our findings suggest that synapsin dysregulation in
+mood disorders is mediated in part by epigenetic regulatory mechanisms.
+
+DOI: 10.1017/S1461145712000363 
+PMCID: PMC3564952
+PMID: 22571925  [Indexed for MEDLINE]
+

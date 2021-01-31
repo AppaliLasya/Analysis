@@ -1,0 +1,45 @@
+
+1. Proc Natl Acad Sci U S A. 1995 Jul 18;92(15):6778-82.
+
+Identification of the human prostatic carcinoma oncogene PTI-1 by rapid
+expression cloning and differential RNA display.
+
+Shen R(1), Su ZZ, Olsson CA, Fisher PB.
+
+Author information: 
+(1)Department of Pathology, Columbia University, College of Physicians and
+Surgeons, New York, NY 10032, USA.
+
+Elucidating the relevant genomic changes mediating development and evolution of
+prostate cancer is paramount for effective diagnosis and therapy. A putative
+dominant-acting nude mouse prostatic carcinoma tumor-inducing gene, PTI-1, has
+been cloned that is expressed in patient-derived human prostatic carcinomas but
+not in benign prostatic hypertrophy or normal prostate tissue. PTI-1 was detected
+by cotransfecting human prostate carcinoma DNA into CREF-Trans 6 cells, inducing 
+tumors in nude mice, and isolating genes displaying increased expression in
+tumor-derived cells by using differential RNA display (DD). Screening a human
+prostatic carcinoma (LNCaP) cDNA library with a 214-bp DNA fragment found by DD
+permitted the cloning of a full-length 2.0-kb PTI-1 cDNA. Sequence analysis
+indicates that PTI-1 is a gene containing a 630-bp 5' sequence and a 3' sequence 
+homologous to a truncated and mutated form of human elongation factor 1 alpha. In
+vitro translation demonstrates that the PTI-1 cDNA encodes a predominant
+approximately 46-kDa protein. Probing Northern blots with a DNA fragment
+corresponding to the 5' region of PTI-1 identifies multiple PTI-1 transcripts in 
+RNAs from human carcinoma cell lines derived from the prostate, lung, breast, and
+colon. In contrast, PTI-1 RNA is not detected in human melanoma, neuroblastoma,
+osteosarcoma, normal cerebellum, or glioblastoma multiforme cell lines. By using 
+a pair of primers recognizing a 280-bp region within the 630-bp 5' PTI-1
+sequence, reverse transcription-PCR detects PTI-1 expression in patient-derived
+prostate carcinomas but not in normal prostate or benign hypertrophic prostate
+tissue. In contrast, reverse transcription-PCR detects prostate-specific antigen 
+expression in all of the prostate tissues. These results indicate that PTI-1 may 
+be a member of a class of oncogenes that could affect protein translation and
+contribute to carcinoma development in human prostate and other tissues. The
+approaches used, rapid expression cloning with the CREF-Trans 6 system and the DD
+strategy, should prove widely applicable for identifying and cloning additional
+human oncogenes.
+
+DOI: 10.1073/pnas.92.15.6778 
+PMCID: PMC41412
+PMID: 7542776  [Indexed for MEDLINE]
+

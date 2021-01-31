@@ -1,0 +1,41 @@
+
+1. Am J Med Genet B Neuropsychiatr Genet. 2004 Aug 15;129B(1):29-33.
+
+Lack of association between 5HT2A receptor gene haplotype, bipolar disorder and
+its clinical subtypes in a West European sample.
+
+Etain B(1), Rousseva A, Roy I, Henry C, Malafosse A, Buresi C, Preisig M, Rayah
+F, Leboyer M, Bellivier F.
+
+Author information: 
+(1)Department of Psychiatry, Henri Mondor Hospital, AP-HP, Créteil, France.
+etain@im3.inserm.fr
+
+Bipolar affective disorder (BPAD) is a complex psychiatric disorder with a major 
+genetic contribution. Abnormalities in serotonergic function have been implicated
+in its aetiology. The 5HT2A receptor (5HT2AR) gene is a strong candidate gene for
+involvement in BPAD, but previous association studies have reported conflicting
+results. These data are difficult to interpret because most negative results were
+obtained with small samples. The aim of this study was to test the association
+between the 5HT2AR gene and BPAD in a large West European sample. We studied the 
+-1438G/A and the His452Tyr polymorphisms, for haplotype analysis to increase both
+informativity and the likelihood of detecting an association between BPAD and the
+5HT2AR gene. We analysed the genotype, allele and haplotype distributions of two 
+5HT2AR gene variants in a population of 356 BPAD patients, which we compared with
+208 healthy controls. We also carried out exploratory analysis in clinical
+subgroups of patients defined according to personal history of mood disorders,
+suicidal behaviour, comorbid psychiatric disorders and family history of
+affective disorders. We found no difference between BPAD patients and controls
+for allele, genotype and haplotype distributions. Exploratory analysis in
+subgroups of BPAD patients showed only a marginal difference in haplotype
+distribution between controls and BPAD patients with antidepressant-induced mania
+(P = 0.018). This difference was not significant after correction for multiple
+testing. Our study suggests that the 5HT2AR gene is unlikely to be involved in
+genetic susceptibility to BPAD but should be further investigated in a
+pharmacogenetic study.
+
+Copyright 2004 Wiley-Liss, Inc.
+
+DOI: 10.1002/ajmg.b.30055 
+PMID: 15274035  [Indexed for MEDLINE]
+

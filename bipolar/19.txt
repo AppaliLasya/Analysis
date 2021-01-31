@@ -1,0 +1,35 @@
+
+1. Mol Psychiatry. 2002;7(2):201-7.
+
+Excess of allele1 for alpha3 subunit GABA receptor gene (GABRA3) in bipolar
+patients: a multicentric association study.
+
+Massat I(1), Souery D, Del-Favero J, Oruc L, Noethen MM, Blackwood D, Thomson M, 
+Muir W, Papadimitriou GN, Dikeos DG, Kaneva R, Serretti A, Lilli R, Smeraldi E,
+Jakovljevic M, Folnegovic V, Rietschel M, Milanova V, Valente F, Van Broeckhoven 
+C, Mendlewicz J.
+
+Author information: 
+(1)Department of Psychiatry, University Clinics of Brussels, Erasme Hospital,
+Free University of Brussels, Belgium. imassat@ulb.ac.be
+
+The available data from preclinical and pharmacological studies on the role of
+gamma amino butyric acid (GABA) support the hypothesis that a dysfunction in
+brain GABAergic system activity contributes to the vulnerability to bipolar
+affective disorders (BPAD). Moreover, the localization of the alpha3 subunit GABA
+receptor GABRA3 gene on the Xq28, a region of interest in certain forms of
+bipolar illness, suggests that GABRA3 may be a candidate gene in BPAD. In the
+present study, we tested the genetic contribution of the GABRA3 dinucleotide
+polymorphism in a European multicentric case-control sample, matched for sex and 
+ethnogeographical origin. Allele and genotype (in females) frequencies were
+compared in 185 BPAD patients and 370 controls. A significant increase of
+genotype 1-1 was observed in BPAD females compared to controls (P=0.0004).
+Furthermore, when considering recessivity of allele 1 (females with genotype 1-1 
+and males carrying allele 1), results were even more significant (P= 0.00002).
+Our findings suggest that the GABRA3 polymorphism may confer susceptibility to or
+may be in linkage disequilibrium with another gene involved in the genetic
+etiology of BPAD.
+
+DOI: 10.1038/sj.mp.4000953 
+PMID: 11840313  [Indexed for MEDLINE]
+

@@ -1,0 +1,35 @@
+
+1. Brain Res Mol Brain Res. 1994 Mar;22(1-4):121-31.
+
+Protein-DNA interactions in the promoter region of the amyloid precursor protein 
+(APP) gene in human neocortex.
+
+Lukiw WJ(1), Rogaev EI, Wong L, Vaula G, McLachlan DR, St George Hyslop P.
+
+Author information: 
+(1)Department of Physiology, University of Toronto, Canada.
+
+We have investigated protein-DNA interactions in the proximal promoter of the
+human amyloid precursor protein (APP) gene in temporal lobe neocortical nuclei
+isolated from control and Alzheimer disease (AD) affected brains. We report that 
+the human APP 5' promoter sequence from -203 to +55 bp, which has been previously
+reported to contain essential regulatory elements for APP gene transcription,
+lies in a deoxyribonuclease I, micrococcal nuclease- and restriction
+endonuclease-sensitive, G+C-rich nucleosome-free gap flanked both 5' and 3' by
+typical nucleosome structures. As analyzed by electrophoretic mobility shift
+assay, this extended internucleosomal linker DNA is heavily occupied by nuclear
+protein factors, and interacts differentially with nuclear protein extracts
+obtained from HeLa and human brain neocortical nuclei. This suggests that the
+chromatin conformation of the APP gene promoter may vary in different cell types,
+and may correlate with differences in APP gene expression. Human recombinant
+transcription factors AP1, SP1 and TFIID (but not AP2 or brain histones H1, H2B
+and H4) interact with the -203 to +55 bp of the human APP promoter sequence. Only
+minor differences were observed in the chromatin structure of the immediate APP
+promoter between non-AD and AD affected neocortical nuclei, suggesting either
+that post-transcriptional processes, or that regulatory elements lying elsewhere 
+in the APP gene may be important in the aberrant accumulation of the APP gene
+product.
+
+DOI: 10.1016/0169-328x(94)90039-6 
+PMID: 8015372  [Indexed for MEDLINE]
+

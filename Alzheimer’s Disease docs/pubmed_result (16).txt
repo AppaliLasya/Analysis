@@ -1,0 +1,35 @@
+
+1. Bioinformation. 2019 Oct 31;15(10):760-771. doi: 10.6026/97320630015760.
+eCollection 2019.
+
+From EST to structure models for functional inference of APP, BACE1, PSEN1, PSEN2
+genes.
+
+Aathi M(1), Piramanayagam S(1).
+
+Author information: 
+(1)Computational Biology Lab, Department of Bioinformatics, Bharathiar
+University, Coimbatore-641046, Tamil Nadu, India.
+
+Successive oxidative stress and biochemical changes results in neuronal death and
+neuritic plaques growth in Alzheimer's disease (AD). Therefore, it is interest to
+analyze amyloid-βeta precursor protein (APP), beta-secretase 1 (BACE1),
+presenilin (PSEN1 and PSEN2) genes from brain tissues to gain insights.
+Development of potential inhibitors for these targets is of significance. EST
+sequences of 2898 (APP), 539 (BACE1), 786 (PSEN1) and 314 (PSEN2) genes were
+analyzed in this study. A contig sequences with APP (contigs 1-4), BACE1 (contigs
+5-7), PSEN1 (contigs 8, 9, 10, 11), PSEN2 (contigs 13, 14) except PSEN1 (contigs 
+10) and PSEN2 (contigs 13) genes were identified. APP (contig 3 without
+translational error) was further analyzed using molecular modeling and docking to
+show its binding with curcumin (principal curcuminoid of turmeric) having -7.3
+kcal/mol interaction energy for further consideration as a potential inhibitor.
+
+© 2019 Biomedical Informatics.
+
+DOI: 10.6026/97320630015760 
+PMCID: PMC6900319
+PMID: 31831959 
+
+Conflict of interest statement: The authors confirm that this article content has
+no conflict of interest.
+

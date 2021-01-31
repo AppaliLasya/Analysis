@@ -1,0 +1,50 @@
+
+1. Iran J Public Health. 2019 Oct;48(10):1855-1860.
+
+A Case-Control Study on the p73 G4A Gene Polymorphism and Susceptibility to
+Breast Cancer in an Iranian Population.
+
+Tavakkol Afshari Z(1), Gholizadeh Z(1)(2), Nikpoor AR(3), Tavakkol Afshari
+J(1)(2), Ganjali R(1), Homaei Shandiz F(4), Jamialahmadi K(5)(6).
+
+Author information: 
+(1)Department of Immunogenetic and Cell Culture, Immunology Research Center,
+School of Medicine, Mashhad University of Medical Sciences, Mashhad, Iran.
+(2)Department of Allergy and Immunology, School of Medicine, Mashhad University
+of Medical Sciences, Mashhad, Iran.
+(3)Molecular Medicine Research Center, Hormozgan Health Institute, Hormozgan
+University of Medical Sciences, Bandar Abbas, Iran.
+(4)Cancer Research Center, Mashhad University of Medical Sciences, Mashhad, Iran.
+(5)Biotechnology Research Center, Pharmaceutical Technology Institute, Mashhad
+University of Medical Sciences, Mashhad, Iran.
+(6)Department of Medical Biotechnology and Nanotechnology, School of Medicine,
+Mashhad University of Medical Sciences, Mashhad, Iran.
+
+Background: The tumor protein p73 (TP73) is a homolog of TP53 family. Ectopic p73
+overexpression largely mimics p53 activities as a tumor suppressor and activates 
+the transcription of p53-responsive genes and as a result induce apoptosis. This 
+study aimed to investigate the association between p73 G4A polymorphism and the
+risk of breast cancer in a northeastern Iranian population.
+Methods: This case-control study was performed on 105 patients who admitted in
+educational hospitals of Mashhad University of Medical Sciences, Iran during
+2013-2015, with breast cancer as case group and 120 healthy women as the control 
+group. PCR-CTPP method was used to investigate the relationship between the p73
+G4A polymorphism and the risk of breast cancer.
+Results: There was no significant association between the AA genotype of the p73 
+G4A polymorphism and breast cancer in case and control groups. Although G allele 
+frequency was higher in the case group, the abundance of this allele between case
+and control groups was not statistically meaningful and, as a result, not
+associated with the risk of breast cancer in this study group.
+Conclusion: There was no association between G4A p73 polymorphism and the risk of
+breast cancer in a northeastern Iranian population.
+
+Copyright© Iranian Public Health Association & Tehran University of Medical
+Sciences.
+
+
+PMCID: PMC6908912
+PMID: 31850263 
+
+Conflict of interest statement: Conflict of interest The authors declare that
+there is no conflict of interests.
+

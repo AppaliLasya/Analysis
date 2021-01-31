@@ -1,0 +1,48 @@
+
+1. N Engl J Med. 1995 May 25;332(21):1393-8.
+
+Mutation of the androgen-receptor gene in metastatic androgen-independent
+prostate cancer.
+
+Taplin ME(1), Bubley GJ, Shuster TD, Frantz ME, Spooner AE, Ogata GK, Keer HN,
+Balk SP.
+
+Author information: 
+(1)Department of Medicine, University of Massachusetts Medical Center, Worcester,
+USA.
+
+Comment in
+    N Engl J Med. 1995 Oct 12;333(15):1010-1.
+    N Engl J Med. 1995 May 25;332(21):1440-1.
+
+BACKGROUND: Metastatic prostate cancer is a leading cause of cancer-related death
+in men. The rate of response to androgen ablation is high, but most patients
+relapse as a result of the outgrowth of androgen-independent tumor cells. The
+androgen receptor, which binds testosterone and stimulates the transcription of
+androgen-responsive genes, regulates the growth of prostate cells. We analyzed
+the androgen-receptor genes from samples of metastatic androgen-independent
+prostate cancers to determine whether mutations in the gene have a role in
+androgen independence.
+METHODS: Complementary DNA was synthesized from metastatic prostate cancers in 10
+patients with androgen-independent prostate cancer, and the expression of the
+androgen-receptor gene was estimated by amplification with the polymerase chain
+reaction. Exons B through H of the gene were cloned, and mutations were
+identified by DNA sequencing. The functional effects of the mutations were
+assessed in cells transfected with mutant genes.
+RESULTS: All androgen-independent tumors expressed high levels of
+androgen-receptor gene transcripts, relative to the levels expressed by an
+androgen-independent prostate-cancer cell line (LNCaP). Point mutations in the
+androgen-receptor gene were identified in metastatic cells from 5 of the 10
+patients examined. One mutation was in the same codon as the mutation found
+previously in the androgen-independent prostate-cancer cell line. The mutations
+were not detected in the primary tumors from of the two patients. Functional
+studies of two of the mutant androgen receptors demonstrated that they could be
+activated by progesterone and estrogen.
+CONCLUSIONS: Most metastatic androgen-independent prostate cancers express high
+levels of androgen-receptor gene transcripts. Mutations in androgen-receptor
+genes are not uncommon and may provide a selective growth advantage after
+androgen ablation.
+
+DOI: 10.1056/NEJM199505253322101 
+PMID: 7723794  [Indexed for MEDLINE]
+

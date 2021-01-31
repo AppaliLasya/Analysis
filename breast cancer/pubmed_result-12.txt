@@ -1,0 +1,47 @@
+
+1. Science. 2020 Feb 6. pii: eaay0939. doi: 10.1126/science.aay0939. [Epub ahead of 
+print]
+
+Deregulation of ribosomal protein expression and translation promotes breast
+cancer metastasis.
+
+Ebright RY(1), Lee S(1), Wittner BS(1), Niederhoffer KL(1), Nicholson BT(1),
+Bardia A(1)(2), Truesdell S(1), Wiley DF(1), Wesley B(1), Li S(1), Mai A(1),
+Aceto N(1), Vincent-Jordan N(1), Szabolcs A(1), Chirn B(1), Kreuzer J(1),
+Comaills V(1), Kalinich M(1), Haas W(1)(2), Ting DT(1)(2), Toner M(3)(4),
+Vasudevan S(1)(2), Haber DA(5)(2)(6), Maheswaran S(5)(4), Micalizzi DS(1)(2).
+
+Author information: 
+(1)Massachusetts General Hospital Cancer Center, Harvard Medical School,
+Charlestown, MA 02129, USA.
+(2)Department of Medicine, Massachusetts General Hospital, Harvard Medical
+School, Boston, MA 02114, USA.
+(3)Center for Bioengineering in Medicine, Massachusetts General Hospital and
+Harvard Medical School, and Shriners Hospital for Children, Boston, MA 02114,
+USA.
+(4)Department of Surgery, Massachusetts General Hospital, Harvard Medical School,
+Boston, MA 02114, USA.
+(5)Massachusetts General Hospital Cancer Center, Harvard Medical School,
+Charlestown, MA 02129, USA. dhaber@mgh.harvard.edu
+maheswaran@helix.mgh.harvard.edu.
+(6)Howard Hughes Medical Institute, Chevy Chase, MD 20815, USA.
+
+Circulating tumor cells (CTCs) are shed into the bloodstream from primary tumors,
+but only a small subset generates metastases. We conducted an in vivo genome-wide
+CRISPR activation screen in breast cancer patient-derived CTCs to identify genes 
+that promote their distant metastasis in mice. Genes coding for ribosomal
+proteins and regulators of translation were enriched in this screen.
+Overexpression of RPL15, which encodes a component of the large ribosomal
+subunit, increased metastatic growth in multiple organs and selectively enhanced 
+translation of other ribosomal proteins and cell cycle regulators. RNA-sequencing
+of freshly-isolated CTCs from breast cancer patients revealed a subset with
+strong ribosome and protein synthesis signatures; these CTCs expressed
+proliferation and epithelial markers and correlated with poor clinical outcome.
+Therapies targeting this aggressive subset of CTCs may merit exploration as
+potential suppressors of metastatic progression.
+
+Copyright © 2020, American Association for the Advancement of Science.
+
+DOI: 10.1126/science.aay0939 
+PMID: 32029688 
+

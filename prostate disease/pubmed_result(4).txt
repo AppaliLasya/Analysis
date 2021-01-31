@@ -1,0 +1,31 @@
+
+1. Cancer Epidemiol Biomarkers Prev. 2008 Aug;17(8):1843-8. doi:
+10.1158/1055-9965.EPI-08-0556.
+
+The role of the BRCA2 gene in susceptibility to prostate cancer revisited.
+
+Ostrander EA(1), Udler MS.
+
+Author information: 
+(1)Cancer Genetic Branch, National Human Genome Research Institute, NIH, Room
+52451, Building 50, Bethesda, MD 20892, USA. eostrand@mail.nih.gov
+
+Prostate cancer is a genetically complex disease with multiple predisposing
+factors affecting presentation, progression, and outcome. Epidemiologic studies
+have long shown an aggregation of breast and prostate cancer in some families.
+More recently, studies have reported an apparent excess of prostate cancer cases 
+among BRCA2 mutation-carrying families. Additionally, population-based screens of
+early-onset prostate cancer patients have suggested that the prevalence of
+deleterious BRCA2 mutations in this group is 1% to 2%, imparting a significantly 
+increased risk of the disease compared with noncarrier cases. However, studies of
+high-risk prostate cancer families suggest that BRCA2 plays at most a minimal
+role in these individuals, highlighting the potential genetic heterogeneity of
+the disease. In this commentary, we review the current literature and hypotheses 
+surrounding the relationship between BRCA2 mutations and susceptibility to
+prostate cancer and speculate on the potential for involvement of additional
+genes.
+
+DOI: 10.1158/1055-9965.EPI-08-0556 
+PMCID: PMC2562346
+PMID: 18708369  [Indexed for MEDLINE]
+

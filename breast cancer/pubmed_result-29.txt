@@ -1,0 +1,40 @@
+
+1. Arch Physiol Biochem. 2020 Jan 10:1-7. doi: 10.1080/13813455.2019.1703004. [Epub 
+ahead of print]
+
+Expression of MiR-335 and its target metalloproteinase genes: clinical
+significance in breast cancer.
+
+Ramadan A(1)(2), Hashim M(1)(2), M Hassan N(3), Swellam M(1)(2).
+
+Author information: 
+(1)Biochemistry Department, Genetic Engineering and Biotechnology Research
+Division, National Research Centre, Dokki, Giza, Egypt.
+(2)High Throughput Molecular and Genetic laboratory, Center for Excellences for
+Advanced Sciences, National Research Centre, Dokki, Egypt.
+(3)Clinical Pathology Department, National Cancer Institute, Cairo, Egypt.
+
+Background: Early diagnosis of breast cancer decreases mortality rate; therefore,
+novel diagnostic methods are urgently required. In this study, authors aimed to
+investigate the role of serum-derived miR-335 in breast cancer, and the
+expression of matrix metalloproteinase-2 (MMP2) and matrix metalloproteinase-9
+(MMP9) and evaluating their feasibility and clinical utility as biomarkers for
+the early detection of breast cancer.Materials and methods: Blood samples were
+collected from a total of 210 individuals who were enrolled in this study. The
+participants were divided into newly diagnosed breast cancer patients (n = 115), 
+patients with benign breast lesions (n =55) and healthy individuals as control
+group (n =40). The expression profile of miR-335, MMP2 and MMP9 were determined
+using quantitative polymerase chain reaction (qPCR).Results: MiR 335 expression
+level was down-regulated in primary breast cancer group as compared to benign
+breast group and healthy individuals with 98% and 94.9% sensitivity and
+specificity, respectively. MMP2 and MMP9 showed significantly higher expression
+levels in breast cancer group as compared to both benign and healthy group and
+reporting 92.7% and 93% sensitivity, respectively. The relations between
+investigated markers and pathologic types, staging, grading, and lymph node
+involvement were significant with these factors. Expression level of miR-335 was 
+decreased with increased MMP2 and MMP9 at significant level.Conclusion: MiR-335, 
+MMP2, and MMP9 can be used as diagnostic markers in breast cancer.
+
+DOI: 10.1080/13813455.2019.1703004 
+PMID: 31922434 
+

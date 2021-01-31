@@ -1,0 +1,33 @@
+
+1. Cancers (Basel). 2019 Dec 13;11(12). pii: E2011. doi: 10.3390/cancers11122011.
+
+Cold Atmospheric Plasma Restores Paclitaxel Sensitivity to Paclitaxel-Resistant
+Breast Cancer Cells by Reversing Expression of Resistance-Related Genes.
+
+Park S(1), Kim H(1), Ji HW(1), Kim HW(1), Yun SH(1), Choi EH(2), Kim SJ(1).
+
+Author information: 
+(1)Department of Life Science, Dongguk University-Seoul, Goyang 10326, Korea.
+(2)Plasma Bioscience Research Center, Kwangwoon University, Seoul 01897, Korea.
+
+Paclitaxel (Tx) is a widely used therapeutic chemical for breast cancer
+treatment; however, cancer recurrence remains an obstacle for improved prognosis 
+of cancer patients. In this study, cold atmospheric plasma (CAP) was tested for
+its potential to overcome the drug resistance. After developing Tx-resistant
+MCF-7 (MCF-7/TxR) breast cancer cells, CAP was applied to the cells, and its
+effect on the recovery of drug sensitivity was assessed in both cellular and
+molecular aspects. Sensitivity to Tx in the MCF-7/TxR cells was restored up to
+73% by CAP. A comparison of genome-wide expression profiles between the TxR cells
+and the CAP-treated cells identified 49 genes that commonly appeared with
+significant changes. Notably, 20 genes, such as KIF13B, GOLM1, and TLE4, showed
+opposite expression profiles. The protein expression levels of selected genes,
+DAGLA and CEACAM1, were recovered to those of their parental cells by CAP. Taken 
+together, CAP inhibited the growth of MCF-7/TxR cancer cells and recovered Tx
+sensitivity by resetting the expression of multiple drug resistance-related
+genes. These findings may contribute to extending the application of CAP to the
+treatment of TxR cancer.
+
+DOI: 10.3390/cancers11122011 
+PMCID: PMC6966695
+PMID: 31847101 
+

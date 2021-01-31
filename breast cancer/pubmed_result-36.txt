@@ -1,0 +1,47 @@
+
+1. J Cell Biochem. 2019 Dec 30. doi: 10.1002/jcb.29633. [Epub ahead of print]
+
+Gene expression and DNA methylation analyses suggest that immune process-related 
+ADCY6 is a prognostic factor of luminal-like breast cancer.
+
+Li W(1), Sang M(1)(2), Hao X(1)(3), Jia L(1), Wang Y(1), Shan B(1)(2).
+
+Author information: 
+(1)Department of Anesthesiology, The Fourth Hospital of Hebei Medical University,
+Shijiazhuang, China.
+(2)Tumor Research Institute, The Fourth Hospital of Hebei Medical University,
+Shijiazhuang, China.
+(3)Department of Radiological, The Fourth Hospital of Hebei Medical University,
+Shijiazhuang, China.
+
+Breast cancer is a malignant tumor that seriously threatens women's health, and
+luminal-like cancer subtypes account for the majority of the cases. The purpose
+of this study was to investigate the relationships among DNA methylation, gene
+expression profile, and the tumor-immune microenvironment of luminal-like breast 
+cancer, and to identify the potential key genes that regulate immune cell
+infiltration in luminal-like breast cancer. The ESTIMATE algorithm was applied to
+calculate immune scores and stromal scores of patients with breast cancer.
+Kaplan-Meier curves were generated for survival analysis. The clusterProfile
+package was used for Gene Ontology and Kyoto Encyclopedia of Genes and Genomes
+analysis. The protein-protein interaction (PPI) network was constructed using the
+STRING database and Cytoscape software. Correlations between ADCY6 expression and
+immune cell infiltration-related pathways were analyzed by gene set variation
+analysis. R software was used for the statistical analysis and figure generation.
+Disease-free survival was higher in the immune score-high group than it was in
+the immune score-low group, while the stromal score had no correlation with
+prognosis. There were 515 genes that differed in both gene expression and DNA
+methylation levels, and these genes were mainly enriched in immune
+process-related pathways. ADCY6 was enriched in module A of the PPI network.
+Patients with downregulation and hypermethylation of ADCY6 associated with a
+better prognosis. ADCY6 expression was negatively correlated with the activation 
+of immune process-related signaling pathways, immune checkpoint receptors, and
+ligands, except for CLEC4G. DNA methylation was found to be involved in the
+regulation of the key cellular pathways of luminal-like breast cancer immune cell
+infiltration. Additionally, ADCY6 was identified as a prognostic factor involved 
+in the DNA methylation-regulated immune processes in luminal-like breast cancer.
+
+© 2019 Wiley Periodicals, Inc.
+
+DOI: 10.1002/jcb.29633 
+PMID: 31886586 
+

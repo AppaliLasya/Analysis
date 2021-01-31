@@ -1,0 +1,41 @@
+
+1. Mol Biol Rep. 2020 Jan 9. doi: 10.1007/s11033-020-05247-3. [Epub ahead of print]
+
+Analysis of the DOK1 gene in breast cancer.
+
+Tuna E(1), Ersoy YE(2), Bulut P(1), Ozdemir F(1), Buyru N(3).
+
+Author information: 
+(1)Department of Medical Biology, Cerrahpasa Medical Faculty, Istanbul
+University-Cerrahpasa, Kocamustafapasa, 34098, Istanbul, Turkey.
+(2)Department of General Surgery, Medical Faculty, Bezmialem University,
+Istanbul, Turkey.
+(3)Department of Medical Biology, Cerrahpasa Medical Faculty, Istanbul
+University-Cerrahpasa, Kocamustafapasa, 34098, Istanbul, Turkey.
+nbuyru@yahoo.com.
+
+Breast cancer, which is the most common type of cancer among women, is a
+heterogenous disease. It results from progressive accumulation of genetic and
+epigenetic alterations in different genes. The Dok1 protein has been identified
+as the major substrate of protein tyrosine kinases in hematopoietic cells. It is 
+considered as a tumor suppressor due to the reports which describe its inhibitory
+effect on major oncogenic signaling pathways such as Mek/Erk/PI3k/Akt and
+Wnt/β-catenin. In this study, we investigated the mutation frequency of the DOK1 
+gene in 118 breast tumors using Sanger sequencing and DOK1 mRNA expression level 
+in 63 breast cancer samples using qRT-PCR methods. Although the mutation
+frequency was low DOK1 mRNA expression levels were significantly reduced (63.5%) 
+in the tumors compared to adjacent non-cancerous tissue. We also correlated
+expression changes with clinicopathological characteristics. Low mRNA levels
+correlated with age (p = 0.01) and c-erbB-2 (p = 0.05). In most of the previous
+reports, down-regulation of DOK1 mRNA expression has been associated with
+promoter methylation. We identified four different coding sequence alterations in
+5.1% (6/118) of the tumor samples. However, all of these alterations were located
+in the functional domains of the protein. Therefore, these mutations may affect
+the function and/or cellular localization of the protein and contribute to cancer
+progression by this way. In conclusion our data indicate that DOK1 acts as a
+tumor suppressor in breast cancer and association of Dok1 with the c-erbB-2
+mediated mechanism of action in breast cancer needs to be investigated.
+
+DOI: 10.1007/s11033-020-05247-3 
+PMID: 31919752 
+

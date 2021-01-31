@@ -1,0 +1,42 @@
+
+1. Cancer Epidemiol Biomarkers Prev. 2008 Dec;17(12):3558-66. doi:
+10.1158/1055-9965.EPI-08-0434.
+
+Polymorphisms in mitochondrial genes and prostate cancer risk.
+
+Wang L(1), McDonnell SK, Hebbring SJ, Cunningham JM, St Sauver J, Cerhan JR,
+Isaya G, Schaid DJ, Thibodeau SN.
+
+Author information: 
+(1)Department of Laboratory Medicine and Pathology, Mayo Clinic College of
+Medicine, 200 First Street Southwest, Rochester, MN 55905, USA.
+
+The mitochondrion, conventionally thought to be an organelle specific to energy
+metabolism, is in fact multifunctional and implicated in many diseases, including
+cancer. To evaluate whether mitochondria-related genes are associated with
+increased risk for prostate cancer, we genotyped 24 single-nucleotide
+polymorphisms (SNP) within the mitochondrial genome and 376 tagSNPs localized to 
+78 nuclear-encoded mitochondrial genes. The tagSNPs were selected to achieve > or
+= 80% coverage based on linkage disequilibrium. We compared allele and haplotype 
+frequencies in approximately 1,000 prostate cancer cases with approximately 500
+population controls. An association with prostate cancer was not detected for any
+of the SNPs within the mitochondrial genome individually or for 10 mitochondrial 
+common haplotypes when evaluated using a global score statistic. For the
+nuclear-encoded genes, none of the tagSNPs were significantly associated with
+prostate cancer after adjusting for multiple testing. Nonetheless, we evaluated
+unadjusted P values by comparing our results with those from the Cancer Genetic
+Markers of Susceptibility (CGEMS) phase I data set. Seven tagSNPs had unadjusted 
+P < or = 0.05 in both our data and in CGEMS (two SNPs were identical and five
+were in strong linkage disequilibrium with CGEMS SNPs). These seven SNPs
+(rs17184211, rs4147684, rs4233367, rs2070902, rs3829037, rs7830235, and
+rs1203213) are located in genes MTRR, NDUFA9, NDUFS2, NDUFB9, and COX7A2,
+respectively. Five of the seven SNPs were further included in the CGEMS phase II 
+study; however, none of the findings for these were replicated. Overall, these
+results suggest that polymorphisms in the mitochondrial genome and those in the
+nuclear-encoded mitochondrial genes evaluated are not substantial risk factors
+for prostate cancer.
+
+DOI: 10.1158/1055-9965.EPI-08-0434 
+PMCID: PMC2750891
+PMID: 19064571  [Indexed for MEDLINE]
+
